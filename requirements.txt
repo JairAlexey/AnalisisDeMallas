@@ -1,0 +1,12 @@
+streamlit>=1.25.0
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+nltk>=3.7
+sentence-transformers>=2.0.0
+plotly>=5.0.0
+wordcloud>=1.8.0
+seaborn>=0.11.0
+matplotlib>=3.5.0
+fuzzywuzzy>=0.18.0
+python-levenshtein>=0.20.0

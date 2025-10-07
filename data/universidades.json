@@ -1,0 +1,3984 @@
+[
+{
+  "universidad": "PUCE",
+  "carrera": "Sistemas de la Información",
+  "malla_curricular": {
+    "1": [
+      "Conocimiento, Palabra y Cambio Social",
+      "Cálculo I",
+      "Física General",
+      "Pensamiento Computacional",
+      "Innovación y Creatividad",
+      "Técnicas Gráficas y Geométricas"
+    ],
+    "2": [
+      "Fundamentos de Investigación",
+      "Cálculo II",
+      "Estadística Aplicada",
+      "Programación I",
+      "Ciencia de los Materiales: Propiedades, Procesos y Ciclos",
+      "Álgebra Lineal y Geometría Analítica"
+    ],
+    "3": [
+      "Jesucristo y Aprendizajes Vitales",
+      "Ingeniería de Requerimientos",
+      "Programación II",
+      "Cálculo de Predicados",
+      "Sistemas Operativos",
+      "Redes de Computadoras"
+    ],
+    "4": [
+      "Fundamentos de SI",
+      "Diseño de Sistemas",
+      "Programación III",
+      "Programación IV",
+      "Bases de Datos I",
+      "Infraestructura"
+    ],
+    "5": [
+      "Ética e Interculturalidad",
+      "Interacción Humano Computadora",
+      "Desarrollo en Plataformas",
+      "Ingeniería de Software",
+      "Bases de Datos II",
+      "Arquitectura Empresarial"
+    ],
+    "6": [
+      "Ecología Integral",
+      "Desarrollo de Software Seguro",
+      "Integración de Sistemas",
+      "Programación Móvil",
+      "Inteligencia Artificial",
+      "Emprendimiento Tecnológico"
+    ],
+    "7": [
+      "Seminario de Titulación",
+      "Asignatura 1 de Itinerario",
+      "Asignatura 2 de Itinerario",
+      "Inteligencia de Negocios",
+      "Ciencia de Datos",
+      "Diseño y Evaluación de Proyectos"
+    ],
+    "8": [
+      "Integración Curricular",
+      "Asignatura 3 de Itinerario",
+      "Asignatura 4 de Itinerario",
+      "Desarrollo en Contenedores",
+      "Big Data",
+      "Minería de Datos y Metodologías"
+    ]
+  }
+},
+{
+  "universidad": "PUCE",
+  "carrera": "Ingeniería Civil",
+  "malla_curricular": {
+    "1": [
+      "Conocimiento, Palabra y Cambio Social",
+      "Cálculo I",
+      "Física General",
+      "Pensamiento Computacional",
+      "Innovación y Creatividad",
+      "Técnicas Gráficas y Geométricas"
+    ],
+    "2": [
+      "Fundamentos de Investigación",
+      "Cálculo II",
+      "Estadística Aplicada",
+      "Programación I",
+      "Ciencia de los Materiales: Propiedades, Procesos y Ciclos",
+      "Álgebra Lineal y Geometría Analítica"
+    ],
+    "3": [
+      "Jesucristo y Aprendizajes Vitales",
+      "Mecánica para Ingenieros: Estática",
+      "Mecánica para Ingenieros: Dinámica",
+      "Análisis Numérico para Ingeniería",
+      "Tecnología del Hormigón y Laboratorio",
+      "Geomática-Topografía I"
+    ],
+    "4": [
+      "Resistencia de Materiales I y Laboratorio",
+      "Mecánica de Fluidos",
+      "Hidrología",
+      "Mecánica de Suelos y Laboratorio",
+      "Geomática-Topografía II",
+      "Costos y Programación de Obra"
+    ],
+    "5": [
+      "Ética e Interculturalidad",
+      "Resistencia de Materiales II",
+      "Hidráulica General",
+      "Instalaciones en Edificaciones Sostenibles",
+      "Geotecnia Aplicada I y Laboratorio",
+      "Diseño Geométrico Vial"
+    ],
+    "6": [
+      "Ecología Integral",
+      "Estructuras del Hormigón I",
+      "Análisis Estructural",
+      "Hidráulica Aplicada",
+      "Sanitaria I",
+      "Geotecnia Aplicada II y Ensayos de Campo"
+    ],
+    "7": [
+      "Estructuras del Hormigón II",
+      "Análisis Matricial",
+      "Estructuras de Acero",
+      "Sanitaria II",
+      "Diseño y Evaluación de Proyectos",
+      "Diseño de Pavimentos y Laboratorio"
+    ],
+    "8": [
+      "Seminario de Titulación",
+      "Asignatura 1 de Itinerario",
+      "Asignatura 2 de Itinerario",
+      "Hormigón Presforzado",
+      "Cimentaciones y Métodos Computacionales",
+      "Impacto Ambiental en Obras Civiles"
+    ],
+    "9": [
+      "Integración Curricular",
+      "Asignatura 3 de Itinerario",
+      "Asignatura 4 de Itinerario",
+      "Puentes",
+      "Diseño Sismorresistente",
+      "Fiscalización y Residencia de Obras Civiles"
+    ]
+  }
+},
+{
+  "universidad": "PUCE",
+  "carrera": "Ingeniería Integral",
+  "malla_curricular": {
+    "1": [
+      "Teoría de los mecanismos",
+      "Matemática I",
+      "Electromagnetismo",
+      "Humanidades I",
+      "PDD – Pedagogía de la decisión I",
+      "Pedagogía de proyecto – análisis Dron",
+      "Aprendizaje basado en problemas"
+    ],
+    "2": [
+      "Resistencia de estructuras",
+      "Matemáticas II",
+      "Óptica",
+      "Descubrimiento de empresas",
+      "Humanidades II",
+      "PDD – Pedagogía de la decisión II",
+      "Pedagogía de proyecto – optimización del Dron",
+      "Aprendizaje basado en problemas – PBL B",
+      "Prácticas Preprofesionales I"
+    ],
+    "3": [
+      "Resistencia de estructuras",
+      "Matemáticas III",
+      "Electrónica Analógica",
+      "Mecánica de Fluidos y Polímeros",
+      "Humanidades III",
+      "PDD – Pedagogía de la decisión III",
+      "Pedagogía de proyecto – conceptualización de bote Dron",
+      "Aprendizaje basado en problemas – PBL C",
+      "Prácticas Preprofesionales II"
+    ],
+    "4": [
+      "Electrónica Digital",
+      "Polímeros – Máquinas Térmicas",
+      "Humanidades IV",
+      "PDD – Pedagogía de la decisión IV",
+      "Pedagogía de proyecto – diseño bote Dron",
+      "Aprendizaje basado en problemas – PBL D",
+      "Prácticas Preprofesionales III"
+    ],
+    "5": [
+      "Técnicas de Manufactura",
+      "Electrónica de Potencia I",
+      "Microestructura de Materiales",
+      "Industrialización",
+      "Humanidades V",
+      "PDD – Pedagogía de la decisión V",
+      "Pedagogía de proyecto – construcción bote Dron I",
+      "Aprendizaje basado en problemas – PBL E"
+    ],
+    "6": [
+      "Elasticidad y Elementos Finitos",
+      "Electrónica de Potencia II",
+      "Estructuras de Relación – Propiedades y Procesos",
+      "Métodos y Calidad",
+      "Humanidades VI",
+      "PDD – Pedagogía de la decisión VI",
+      "Pedagogía de proyecto – construcción bote Dron II",
+      "Aprendizaje basado en problemas – PBL F",
+      "Prácticas Preprofesionales IV"
+    ],
+    "7": [
+      "IoT y Ciberseguridad",
+      "Materiales de Construcción – Transferencias Térmicas",
+      "Enfoque de Sistemas",
+      "Humanidades VII",
+      "PDD – Pedagogía de la decisión VII",
+      "Pedagogía de proyecto – Proyecto diseño Domótico",
+      "Aprendizaje basado en problemas – PBL G"
+    ],
+    "8": [
+      "Dimensionamiento de Estructuras",
+      "Red Inteligente, Microcontroladores y Automatización",
+      "Transferencias Térmicas – Reciclaje de materiales",
+      "Ley de Contratos Internacionales",
+      "Humanidades VIII",
+      "PDD – Pedagogía de la decisión VIII",
+      "Pedagogía de proyecto – Integración Proyecto",
+      "Aprendizaje basado en problemas – PBL H",
+      "Prácticas de servicio comunitario"
+    ],
+    "9": [
+      "Vibración Estructural",
+      "Simulación Numérica",
+      "Control y Dominio de Procesos Industriales",
+      "Gestión Financiera y Derecho Gestión Industrial",
+      "PDD – Pedagogía de la decisión IX",
+      "Proyecto Profesional y Vida",
+      "Unidad de integración curricular – Proyecto",
+      "Experimentación Profesional V"
+    ]
+  }
+},
+{
+  "universidad": "PUCE",
+  "carrera": "Bioingeniería",
+  "malla_curricular": {
+    "1": [
+      "Conocimiento, Palabra y Cambio Social",
+      "Fundamentos de Biología",
+      "Fundamentos de Química",
+      "Física I",
+      "Ecuador Megadiverso",
+      "Matemática I"
+    ],
+    "2": [
+      "Fundamentos de la Investigación",
+      "Fundamentos de Microbiología",
+      "Química Orgánica Básica",
+      "Matemática II",
+      "Fundamentos de Genética",
+      "Física II"
+    ],
+    "3": [
+      "Jesucristo y los Aprendizajes Vitales",
+      "Macromoléculas y Metabolismo",
+      "Álgebra Lineal",
+      "Técnicas de Laboratorio Químico",
+      "Estadística I",
+      "Ciencias Fundamentales I"
+    ],
+    "4": [
+      "Genética Molecular",
+      "Estadística II",
+      "Biología de Hongos",
+      "Ecuaciones Diferenciales",
+      "Soluciones inspiradas en la Naturaleza",
+      "Pensamiento Sistémico"
+    ],
+    "5": [
+      "Ética e Interculturalidad",
+      "Biología Molecular",
+      "Balance de Materia y Energía",
+      "Fenómenos de Transporte",
+      "Mecánica",
+      "Ecodiseño y Sostenibilidad"
+    ],
+    "6": [
+      "Ecología Integral",
+      "Biotecnología y Herramientas Bioinformáticas",
+      "Operaciones Unitarias",
+      "Propiedades Físicas y Mecánicas de los Materiales",
+      "Diseño y Evaluación de Proyectos",
+      "Fisicoquímica"
+    ],
+    "7": [
+      "Seminario de Titulación",
+      "Asignatura 1 de Itinerario",
+      "Asignatura 2 de Itinerario",
+      "Biología Sintética",
+      "Fermentaciones Industriales",
+      "Fundamentos de Procesos, Simulación y Control"
+    ],
+    "8": [
+      "Integración Curricular",
+      "Asignatura 3 de Itinerario",
+      "Asignatura 4 de Itinerario",
+      "Ingeniería de Procesos",
+      "Polímeros",
+      "Nanociencia y Nanotecnología"
+    ]
+  }
+},
+{
+  "universidad": "Universidad Politécnica Salesiana",
+  "carrera": "Ingeniería Automotriz",
+  "malla_curricular": {
+    "1": [
+      "Cálculo Diferencial",
+      "Álgebra Lineal",
+      "Dibujo Técnico Automotriz",
+      "Introducción a la Ingeniería Automotriz",
+      "Antropología Filosófico-Teológica",
+      "Comunicación Oral y Escrita"
+    ],
+    "2": [
+      "Cálculo Integral",
+      "Química",
+      "Estática",
+      "Programación",
+      "Ética"
+    ],
+    "3": [
+      "Cálculo de Varias Variables",
+      "Fundamentos de Materiales aplicada en Automotriz",
+      "Dinámica",
+      "Mecánica de Materiales aplicada en Automotriz",
+      "Electricidad Automotriz I",
+      "Vida y Trascendencia"
+    ],
+    "4": [
+      "Ecuaciones Diferenciales",
+      "Termofluidos",
+      "Tren de Fuerza Motriz",
+      "Técnicas de Fabricación",
+      "Autotrónica I",
+      "Pensamiento Social de la Iglesia"
+    ],
+    "5": [
+      "Teoría de Probabilidad y Estadística",
+      "Transferencia de Calor",
+      "Chasis, Suspensión y Frenos",
+      "Ingeniería de Mantenimiento",
+      "Electricidad Automotriz II",
+      "Pensamiento Crítico"
+    ],
+    "6": [
+      "Motores de Combustión Interna I",
+      "Dinámica del Automóvil",
+      "Diseño Mecánico",
+      "Autotrónica II",
+      "Gestión Automotriz I",
+      "Prácticas de Servicio Comunitario"
+    ],
+    "7": [
+      "Metodología de Investigación para Ingeniería",
+      "Sistemas de Inyección a Gasolina",
+      "Logística de Vehículos",
+      "Emisiones por Fuentes Móviles",
+      "Vehículos Eléctricos e Híbridos",
+      "Gestión Automotriz II",
+      "Itinerario"
+    ],
+    "8": [
+      "Integración Curricular",
+      "Sistemas de Inyección a Diesel",
+      "Reglamentación y Homologación",
+      "Itinerario",
+      "Prácticas Pre Profesionales"
+    ]
+  }
+},
+{
+  "universidad": "Universidad Politécnica Salesiana",
+  "carrera": "Ingeniería Civil",
+  "malla_curricular": {
+    "1": [
+      "Cálculo Diferencial",
+      "Álgebra Lineal",
+      "Ciencia de Materiales de Construcción",
+      "Dibujo Asistido por Computador",
+      "Antropología Filosófico-Teológica",
+      "Comunicación Oral y Escrita"
+    ],
+    "2": [
+      "Cálculo Integral",
+      "Estática",
+      "Geología",
+      "Topografía I",
+      "Ética",
+      "Vida y Trascendencia"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Cálculo de Varias Variables",
+      "Resistencia de Materiales",
+      "Tecnología del Hormigón",
+      "Topografía II"
+    ],
+    "4": [
+      "Análisis Numérico y Programación",
+      "Estadística",
+      "Ensayo de Materiales de Construcción",
+      "Mecánica de Suelos I",
+      "Hidráulica I",
+      "Pensamiento Social de la Iglesia"
+    ],
+    "5": [
+      "Hidrología Aplicada",
+      "Teoría de Estructuras I",
+      "Hormigón Armado I",
+      "Mecánica de Suelos II",
+      "Hidráulica II"
+    ],
+    "6": [
+      "Teoría de Estructuras II",
+      "Hormigón Armado II",
+      "Geotecnia",
+      "Diseño Vial",
+      "Prácticas de Servicio Comunitario",
+      "Pensamiento Crítico"
+    ],
+    "7": [
+      "Planificación de Obra",
+      "Construcciones Metálicas",
+      "Proyectos",
+      "Agua Potable y Alcantarillado",
+      "Prácticas Pre Profesionales"
+    ],
+    "8": [
+      "Gestión de Obra",
+      "Itinerario",
+      "Itinerario",
+      "Obras Hidráulicas",
+      "Integración Curricular"
+    ]
+  }
+},
+{
+  "universidad": "Universidad Politécnica Salesiana",
+  "carrera": "Ingeniería en Software",
+  "malla_curricular": {
+    "1": [
+      "Arquitectura del Computador",
+      "Fundamentos de Programación",
+      "Precálculo",
+      "Álgebra Lineal",
+      "Comunicación Oral y Escrita"
+    ],
+    "2": [
+      "Sistemas Operativos",
+      "Programación Orientada a Objetos",
+      "Algoritmos y Estructura de Datos",
+      "Cálculo",
+      "Antropología Filosófico-Teológica"
+    ],
+    "3": [
+      "Redes y Servidores",
+      "Programación de Interfaces Gráficas",
+      "Persistencia de Datos",
+      "Física",
+      "Matemáticas Discretas",
+      "Ética"
+    ],
+    "4": [
+      "Aplicaciones Web",
+      "Bases de Datos",
+      "Análisis y Especificación de Requerimientos",
+      "Modelamiento y Diseño de Software",
+      "Probabilidad y Estadística Básica",
+      "Vida y Trascendencia"
+    ],
+    "5": [
+      "Aplicaciones Distribuidas",
+      "Usabilidad y Experiencia de Usuario",
+      "Gestión de la Configuración",
+      "Técnicas de Investigación",
+      "Pensamiento Social de la Iglesia"
+    ],
+    "6": [
+      "Diseño y Desarrollo de APIs",
+      "Aplicaciones Móviles",
+      "Verificación y Validación de Software",
+      "Procesos de Ingeniería de Software",
+      "Prácticas de Servicio Comunitario"
+    ],
+    "7": [
+      "Desarrollo de Videojuegos",
+      "Calidad del Software",
+      "Gestión de Proyectos de Software",
+      "Prácticas Preprofesionales"
+    ],
+    "8": [
+      "Innovación y Emprendimiento",
+      "Realidad Virtual y Aumentada",
+      "Software Seguro",
+      "Integración Curricular"
+    ]
+  }
+},
+{
+  "universidad": "Universidad Politécnica Salesiana",
+  "carrera": "Ingeniería Industrial",
+  "malla_curricular": {
+    "1": [
+      "Cálculo Diferencial",
+      "Álgebra Lineal",
+      "Ingeniería de Métodos",
+      "Antropología Filosófico-Teológica",
+      "Comunicación Oral y Escrita"
+    ],
+    "2": [
+      "Cálculo Integral",
+      "Química",
+      "Estática",
+      "Dibujo Industrial",
+      "Ética"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Programación",
+      "Procesos de Manufactura I",
+      "Organización de Sistemas Productivos",
+      "Vida y Trascendencia"
+    ],
+    "4": [
+      "Métodos Numéricos",
+      "Química Industrial",
+      "Estadística",
+      "Contabilidad",
+      "Electrotecnia",
+      "Pensamiento Social de la Iglesia"
+    ],
+    "5": [
+      "Termodinámica",
+      "Itinerario",
+      "Energía y Medio Ambiente",
+      "Ingeniería Económica",
+      "Automatismos",
+      "Prácticas de Servicio Comunitario"
+    ],
+    "6": [
+      "Transferencia de Calor y Fluidos",
+      "Itinerario",
+      "Mecánica de Materiales I",
+      "Investigación de Operaciones",
+      "Ingeniería de la Producción",
+      "Gestión del Mantenimiento",
+      "Pensamiento Crítico"
+    ],
+    "7": [
+      "Seguridad Industrial y Salud Ocupacional",
+      "Itinerario",
+      "Logística",
+      "Estrategia Empresarial",
+      "Proyectos",
+      "Prácticas Pre Profesionales"
+    ],
+    "8": [
+      "Legislación Industrial y Societaria",
+      "Itinerario",
+      "Diseño de Productos y Servicios",
+      "Simulación de Procesos",
+      "Gestión del Talento Humano",
+      "Integración Curricular"
+    ]
+  }
+},
+{
+  "universidad": "Universidad Politécnica Salesiana",
+  "carrera": "Ingeniería de la Producción",
+  "malla_curricular": {
+    "1": [
+      "Álgebra Lineal",
+      "Cálculo Diferencial",
+      "Estudio del Trabajo",
+      "Química",
+      "Organización Empresarial",
+      "Comunicación Oral y Escrita",
+      "Antropología Filosófico-Teológica"
+    ],
+    "2": [
+      "Estática",
+      "Cálculo Integral",
+      "Dibujo Industrial",
+      "Procesos de Fabricación I",
+      "Contabilidad Gerencial",
+      "Ética"
+    ],
+    "3": [
+      "Programación",
+      "Ecuaciones Diferenciales",
+      "Diseño de Sistemas Productivos y Logística",
+      "Procesos de Fabricación II",
+      "Electrotecnia",
+      "Vida y Trascendencia"
+    ],
+    "4": [
+      "Métodos Numéricos",
+      "Estadística",
+      "Fundamentos de Electricidad y Automatismos",
+      "Innovación y Emprendimiento",
+      "Pensamiento Social de la Iglesia"
+    ],
+    "5": [
+      "Termodinámica",
+      "Control Estadístico de la Calidad",
+      "Cadena de Suministro y Logística",
+      "Evaluación de Riesgos Laborales",
+      "Ingeniería Financiera",
+      "Prácticas de Servicio Comunitario"
+    ],
+    "6": [
+      "Transferencia de Calor y Fluidos",
+      "Modelado y Simulación",
+      "Planeación y Control de la Producción",
+      "Seguridad Industrial y Salud Ocupacional",
+      "Estrategia Empresarial",
+      "Analítica de Datos",
+      "Metodología de la Investigación"
+    ],
+    "7": [
+      "Gestión Ambiental en la Industria",
+      "Investigación de Operaciones",
+      "Programación de la Producción",
+      "Gestión del Talento Humano",
+      "Prácticas Preprofesionales"
+    ],
+    "8": [
+      "Gestión del Mantenimiento",
+      "Gestión de la Calidad",
+      "Manufactura Esbelta",
+      "Legislación Industrial y Societaria",
+      "Administración de Proyectos",
+      "Integración Curricular"
+    ]
+  }
+},
+{
+  "universidad": "Universidad del Azuay",
+  "carrera": "Ingeniería de la Producción",
+  "malla_curricular": {
+    "1": [
+      "Análisis Matemático I",
+      "Fundamentos de Programación",
+      "Geometría y Trigonometría",
+      "Lectura y Escritura Académica I",
+      "Química General",
+      "Sistemas de Producción y Operaciones"
+    ],
+    "2": [
+      "Álgebra Lineal",
+      "Análisis Matemático II",
+      "Comportamiento Organizacional",
+      "Física I",
+      "Lectura y Escritura Académica II",
+      "Sistemas Mecánicos y Eléctricos"
+    ],
+    "3": [
+      "Análisis Matemático III",
+      "Antropología",
+      "Diseño de Producto",
+      "Estadística",
+      "Física II",
+      "Sistemas de Información Gerencial"
+    ],
+    "4": [
+      "Análisis Matemático IV",
+      "Contabilidad Gerencial y Costos",
+      "Emprendimiento y Desarrollo",
+      "Estadística II",
+      "Ética y Responsabilidad Social",
+      "Procesos Productivos"
+    ],
+    "5": [
+      "Estadística Multivariada",
+      "Investigación Operativa I",
+      "Prácticas Preprofesionales",
+      "Producción de Servicios",
+      "Sistemas de Gestión de la Calidad"
+    ],
+    "6": [
+      "Gestión de Proyectos",
+      "Investigación Operativa II",
+      "Negociación Empresarial",
+      "Prácticas de Vinculación",
+      "Producción más Limpia",
+      "Seguridad y Salud Ocupacional"
+    ],
+    "7": [
+      "Diseño del Proyecto de Graduación",
+      "Gestión de la Cadena de Suministro",
+      "Importaciones y Exportaciones",
+      "Planificación y Control de la Producción",
+      "Simulación de Procesos"
+    ],
+    "8": [
+      "Gerencia Estratégica",
+      "Gestión por Procesos",
+      "Lean Management",
+      "Logística y Transporte",
+      "Taller de Graduación"
+    ]
+  }
+},
+{
+  "universidad": "Universidad del Azuay",
+  "carrera": "Ingeniería Ambiental",
+  "malla_curricular": {
+    "1": [
+      "Análisis Matemático I",
+      "Ecología y Recursos Naturales",
+      "Fundamentos de Programación",
+      "Geometría y Trigonometría",
+      "Lectura y Escritura Académica I",
+      "Química General"
+    ],
+    "2": [
+      "Álgebra Lineal",
+      "Análisis Matemático II",
+      "Biología",
+      "Física I",
+      "Lectura y Escritura Académica II",
+      "Química Orgánica"
+    ],
+    "3": [
+      "Análisis Matemático III",
+      "Antropología",
+      "Estadística",
+      "Física II",
+      "Microbiología",
+      "Química Analítica e Instrumental"
+    ],
+    "4": [
+      "Análisis Matemático IV",
+      "Cartografía y SIG",
+      "Estadística II",
+      "Ética y Responsabilidad Social",
+      "Físico Química Ambiental",
+      "Geología"
+    ],
+    "5": [
+      "Calidad del Agua",
+      "Estática",
+      "Mecánica de Fluidos",
+      "Meteorología e Hidrología",
+      "Prácticas de Vinculación",
+      "Topografía"
+    ],
+    "6": [
+      "Gestión de Residuos y Desechos",
+      "Ingeniería Hidráulica",
+      "Prácticas Preprofesionales",
+      "Resistencia de Materiales",
+      "Suelos",
+      "Tratamiento del Agua"
+    ],
+    "7": [
+      "Calidad del Aire",
+      "Cambio Climático",
+      "Diseño del Proyecto de Graduación",
+      "Formulación de Proyectos",
+      "Infraestructuras I",
+      "Legislación Ambiental"
+    ],
+    "8": [
+      "Evaluación de Impactos y Auditorías Ambientales",
+      "Economía Ecológica",
+      "Infraestructuras II",
+      "Remediación Ambiental",
+      "Taller de Graduación"
+    ]
+  }
+},
+{
+  "universidad": "Universidad del Azuay",
+  "carrera": "Ingeniería Automotriz",
+  "malla_curricular": {
+    "1": [
+      "Análisis Matemático I",
+      "Fundamentos de Programación",
+      "Geometría y Trigonometría",
+      "Introducción a la Ingeniería Automotriz",
+      "Lectura y Escritura Académica I",
+      "Química General"
+    ],
+    "2": [
+      "Álgebra Lineal",
+      "Análisis Matemático II",
+      "Diseño Asistido por Computador I",
+      "Ética y Responsabilidad Social",
+      "Física I",
+      "Lectura y Escritura Académica II"
+    ],
+    "3": [
+      "Análisis Matemático III",
+      "Antropología",
+      "Diseño Asistido por Computador II",
+      "Estadística",
+      "Estática",
+      "Ingeniería de Materiales"
+    ],
+    "4": [
+      "Análisis Matemático IV",
+      "Dinámica",
+      "Electricidad Automotriz",
+      "Termodinámica",
+      "Tren de Transmisión"
+    ],
+    "5": [
+      "Dinámica Vehicular",
+      "Electrónica Automotriz",
+      "Mecánica de Fluidos",
+      "Resistencia de Materiales I",
+      "Sistemas Automotrices"
+    ],
+    "6": [
+      "Gestión Electrónica de Motores",
+      "Motores I",
+      "Prácticas Preprofesionales",
+      "Resistencia de Materiales II",
+      "Transferencia de Calor"
+    ],
+    "7": [
+      "Diseño del Proyecto de Graduación",
+      "Elementos de Máquinas",
+      "Motores II",
+      "Movilidad e Impacto del Automóvil",
+      "Prácticas de Vinculación",
+      "Sistemas de Propulsión Híbridos y Eléctricos"
+    ],
+    "8": [
+      "Innovación Automotriz",
+      "Normativa y Homologación Vehicular",
+      "Simulación Computacional",
+      "Taller de Graduación"
+    ]
+  }
+},
+{
+  "universidad": "Universidad del Azuay",
+  "carrera": "Ingeniería Civil",
+  "malla_curricular": {
+    "1": [
+      "Análisis Matemático I",
+      "Estática",
+      "Fundamentos de Programación",
+      "Geología",
+      "Geometría y Trigonometría",
+      "Lectura y Escritura Académica I"
+    ],
+    "2": [
+      "Álgebra Lineal",
+      "Análisis Matemático II",
+      "Física I",
+      "Lectura y Escritura Académica II",
+      "Métodos Numéricos",
+      "Resistencia de Materiales I"
+    ],
+    "3": [
+      "Análisis Matemático III",
+      "Antropología",
+      "Estadística",
+      "Física II",
+      "Hidrología",
+      "Resistencia de Materiales II"
+    ],
+    "4": [
+      "Análisis Estructural",
+      "Análisis Matemático IV",
+      "Diseño Asistido por Computadora",
+      "Ética y Responsabilidad Social",
+      "Mecánica de Fluidos",
+      "Mecánica de Suelos I"
+    ],
+    "5": [
+      "Estructuras de Acero",
+      "Hormigón I",
+      "Ingeniería de las Construcciones",
+      "Ingeniería Hidráulica",
+      "Prácticas Preprofesionales"
+    ],
+    "6": [
+      "Abastecimiento de Agua Potable",
+      "Análisis Matricial de Estructuras",
+      "Construcción de Carreteras",
+      "Hormigón II",
+      "Mecánica de Suelos II",
+      "Prácticas de Vinculación"
+    ],
+    "7": [
+      "Alcantarillado",
+      "Construcciones y Costos",
+      "Dinámica Estructural",
+      "Diseño del Proyecto de Graduación",
+      "Ingeniería Ambiental I"
+    ],
+    "8": [
+      "Diseño Sismoresistente",
+      "Ingeniería Ambiental II",
+      "Marco Legal y Contratación",
+      "Pavimentos",
+      "Taller de Graduación",
+      "Tránsito y Transporte"
+    ]
+  }
+},
+{
+  "universidad": "Universidad del Azuay",
+  "carrera": "Ingeniería en Minas",
+  "malla_curricular": {
+    "1": [
+      "Análisis Matemático I",
+      "Fundamentos de Programación",
+      "Geometría y Trigonometría",
+      "Introducción a la Minería",
+      "Lectura y Escritura Académica I",
+      "Química General"
+    ],
+    "2": [
+      "Álgebra Lineal",
+      "Análisis Matemático II",
+      "Física I",
+      "Geología General",
+      "Lectura y Escritura Académica II",
+      "Química Inorgánica"
+    ],
+    "3": [
+      "Análisis Matemático III",
+      "Antropología",
+      "Estadística",
+      "Física II",
+      "Geología Estructural",
+      "Mineralogía y Petrografía"
+    ],
+    "4": [
+      "Análisis Matemático IV",
+      "Diseño Asistido por Computador",
+      "Estadística II",
+      "Ética y Responsabilidad Social",
+      "Resistencia de Materiales",
+      "Termodinámica"
+    ],
+    "5": [
+      "Geoestadística",
+      "Mecánica de Rocas",
+      "Prácticas Preprofesionales",
+      "Seguridad y Salud Ocupacional",
+      "Topografía",
+      "Yacimientos Minerales"
+    ],
+    "6": [
+      "Conminución de Materiales",
+      "Exploración y Evaluación de Yacimientos",
+      "Geotecnia",
+      "Operaciones Mineras Principales",
+      "Prácticas de Vinculación",
+      "Software Minero"
+    ],
+    "7": [
+      "Evaluación de Impactos Ambientales y Auditorías",
+      "Concentración de Minerales",
+      "Diseño del Proyecto de Graduación",
+      "Explotación Minera a Cielo Abierto",
+      "Legislación Minera, Ambiental y Laboral",
+      "Operaciones Mineras Auxiliares"
+    ],
+    "8": [
+      "Cierre y Remediación de Minas",
+      "Explotación Minera Subterránea",
+      "Metalurgia Extractiva",
+      "Planificación y Economía Minera",
+      "Taller de Graduación"
+    ]
+  }
+},
+{
+  "universidad": "Universidad del Azuay",
+  "carrera": "Ingeniería Electrónica",
+  "malla_curricular": {
+    "1": [
+      "Análisis Matemático I",
+      "Fundamentos de Programación",
+      "Geometría y Trigonometría",
+      "Lectura y Escritura Académica I",
+      "Química General"
+    ],
+    "2": [
+      "Álgebra Lineal",
+      "Análisis de Circuitos",
+      "Análisis Matemático II",
+      "Física I",
+      "Instalaciones Eléctricas",
+      "Lectura y Escritura Académica II"
+    ],
+    "3": [
+      "Análisis Matemático III",
+      "Antropología",
+      "Electrónica Analógica I",
+      "Estadística",
+      "Física II",
+      "Programación Orientada a Objetos"
+    ],
+    "4": [
+      "Análisis Matemático IV",
+      "Diseño Asistido por Computador",
+      "Electrónica Analógica II",
+      "Electrónica Digital",
+      "Ética y Responsabilidad Social",
+      "Señales y Sistemas"
+    ],
+    "5": [
+      "Electromagnetismo",
+      "Electrónica de Potencia",
+      "Prácticas Preprofesionales",
+      "Sistemas de Comunicación",
+      "Teoría de Control"
+    ],
+    "6": [
+      "Bioinstrumentación",
+      "Controladores Lógicos Programables",
+      "Inteligencia Artificial",
+      "Máquinas Eléctricas",
+      "Prácticas de Vinculación",
+      "Redes de Comunicación"
+    ],
+    "7": [
+      "Sistemas Autónomos de Energías Renovables",
+      "Automatización",
+      "Biomecánica",
+      "Comunicaciones Ópticas",
+      "Diseño del Proyecto de Graduación"
+    ],
+    "8": [
+      "Comunicaciones Inalámbricas",
+      "Imágenes Médicas",
+      "Microrredes",
+      "Robótica",
+      "Taller de Graduación"
+    ]
+  }
+},
+{
+  "universidad": "Universidad del Azuay",
+  "carrera": "Ingeniería en Alimentos",
+  "malla_curricular": {
+    "1": [
+      "Análisis Matemático I",
+      "Biología y Microbiología General",
+      "Geometría y Trigonometría",
+      "Introducción a la Ingeniería en Alimentos",
+      "Lectura y Escritura Académica I",
+      "Química General"
+    ],
+    "2": [
+      "Álgebra Lineal",
+      "Análisis Matemático II",
+      "Física I",
+      "Lectura y Escritura Académica II",
+      "Microbiología Alimentaria",
+      "Química Orgánica"
+    ],
+    "3": [
+      "Análisis Matemático III",
+      "Antropología",
+      "Estadística",
+      "Física II",
+      "Operaciones Unitarias I",
+      "Química Analítica e Instrumental"
+    ],
+    "4": [
+      "Análisis Matemático IV",
+      "Bioquímica de Alimentos",
+      "Estadística II y Diseño Experimental",
+      "Ética y Responsabilidad Social",
+      "Fundamentos de Programación",
+      "Operaciones Unitarias II"
+    ],
+    "5": [
+      "Análisis de Alimentos",
+      "Fisicoquímica de Alimentos",
+      "Inocuidad y Seguridad Alimentaria",
+      "Operaciones Unitarias III",
+      "Prácticas de Vinculación",
+      "Toxicología de Alimentos"
+    ],
+    "6": [
+      "Análisis Sensorial",
+      "Biotecnología de Alimentos",
+      "Operaciones Aplicadas a la Industria Alimentaria",
+      "Prácticas Preprofesionales",
+      "Tecnología de Lácteos"
+    ],
+    "7": [
+      "Diseño del Proyecto de Graduación",
+      "Gestión y Emprendimiento",
+      "Nutrición y Alimentos Funcionales",
+      "Tecnología de Cárnicos",
+      "Tecnología de Vegetales"
+    ],
+    "8": [
+      "Avances en Ingeniería en Alimentos",
+      "Investigación y Desarrollo de Nuevos Productos",
+      "Optimización y Diseño de Planta",
+      "Taller de Graduación",
+      "Tecnología de Cereales y Oleaginosas"
+    ]
+  }
+},
+{
+  "universidad": "Universidad del Azuay",
+  "carrera": "Ingeniería en Ciencias de la Computación",
+  "malla_curricular": {
+    "1": [
+      "Análisis Matemático I",
+      "Estructuras Discretas",
+      "Ética y Responsabilidad Social",
+      "Fundamentos de Ciencias de la Computación",
+      "Fundamentos de Programación",
+      "Geometría y Trigonometría"
+    ],
+    "2": [
+      "Análisis Matemático II",
+      "Estructura de Datos",
+      "Física",
+      "Ingeniería de Software I",
+      "Programación I"
+    ],
+    "3": [
+      "Álgebra Lineal",
+      "Análisis Matemático III",
+      "Base de Datos I",
+      "Lectura y Escritura Académica I",
+      "Programación II",
+      "Sistemas Operativos I"
+    ],
+    "4": [
+      "Base de Datos II",
+      "Estadística I",
+      "Ingeniería de Software II",
+      "Lectura y Escritura Académica II",
+      "Programación III",
+      "Sistemas Operativos II"
+    ],
+    "5": [
+      "Estadística II",
+      "Métodos Numéricos",
+      "Programación Declarativa",
+      "Programación IV",
+      "Redes I",
+      "Teoría de Autómatas"
+    ],
+    "6": [
+      "Ingeniería de Software III",
+      "Inteligencia Artificial",
+      "Prácticas Preprofesionales I",
+      "Redes II",
+      "Seguridad de la Información",
+      "Teoría de la Computación"
+    ],
+    "7": [
+      "Computación Paralela y Distribuida",
+      "Diseño de Proyecto de Graduación",
+      "Interacción Hombre-Máquina",
+      "Organización y Arquitectura de Computadoras",
+      "Prácticas Preprofesionales II",
+      "Sistemas de Información Geográfica"
+    ],
+    "8": [
+      "Antropología",
+      "Emprendimiento en Innovación Tecnológica",
+      "Ingeniería de Software IV",
+      "Prácticas de Vinculación",
+      "Sistemas de Gestión del Conocimiento",
+      "Taller de Graduación"
+    ]
+  }
+},
+{
+  "universidad": "Universidad del Azuay",
+  "carrera": "Ingeniería en Energías Alternativas",
+  "malla_curricular": {
+    "1": [
+      "Análisis Matemático I",
+      "Diseño Asistido por Computador",
+      "Geometría y Trigonometría",
+      "Introducción a la Energía",
+      "Lectura y Escritura Académica I",
+      "Química General"
+    ],
+    "2": [
+      "Álgebra Lineal",
+      "Análisis Matemático II",
+      "Estadística",
+      "Física I",
+      "Fundamentos de Programación",
+      "Lectura y Escritura Académica II"
+    ],
+    "3": [
+      "Análisis de Circuitos Electrónicos",
+      "Análisis Matemático III",
+      "Antropología",
+      "Electrónica Analógica",
+      "Física II",
+      "Termodinámica I"
+    ],
+    "4": [
+      "Análisis Matemático IV",
+      "Electrónica Digital",
+      "Energía Solar Fotovoltaica",
+      "Ética y Responsabilidad Social",
+      "Instalaciones Eléctricas I",
+      "Termodinámica II"
+    ],
+    "5": [
+      "Energía Eólica",
+      "Energía Hidroeléctrica I",
+      "Energía Solar Térmica",
+      "Instalaciones Eléctricas II",
+      "Prácticas Preprofesionales",
+      "Transferencia de Calor"
+    ],
+    "6": [
+      "Almacenamiento de Energía",
+      "Electrónica de Potencia",
+      "Energía Hidroeléctrica II",
+      "Energía y Movilidad",
+      "Prácticas de Vinculación"
+    ],
+    "7": [
+      "Cambio Climático y Sostenibilidad",
+      "Diseño del Proyecto de Titulación",
+      "Formulación y Evaluación de Proyectos",
+      "Geotermia",
+      "Microrredes",
+      "Normativa y Gestión de la Energía"
+    ],
+    "8": [
+      "Auditoría y Eficiencia Energética",
+      "Biomasa",
+      "Gestión de Proyectos Energéticos",
+      "Gestión Empresarial",
+      "Nuevas Tecnologías Energéticas",
+      "Taller de Graduación"
+    ]
+  }
+},
+{
+  "universidad": "Universidad Espíritu Santo (UEES)",
+  "carrera": "Ingeniería Industrial",
+  "malla_curricular": {
+    "1": [
+      "Matemáticas I",
+      "Álgebra Lineal",
+      "Física I",
+      "Química",
+      "Ética"
+    ],
+    "2": [
+      "Matemáticas II",
+      "Probabilidad y Estadística",
+      "Física II",
+      "Dibujo Digital",
+      "Tecnologías Disruptivas"
+    ],
+    "3": [
+      "Matemáticas III",
+      "Fundamentos de Programación",
+      "Introducción a la Robótica",
+      "Tecnología de los Materiales",
+      "Desarrollo Humano"
+    ],
+    "4": [
+      "Investigación de Operaciones",
+      "Estudio del Trabajo y Productividad",
+      "Costos Industriales",
+      "Procesos de Manufactura",
+      "Comunicación e Imagen Profesional"
+    ],
+    "5": [
+      "Logística y Transporte",
+      "Gestión por Procesos",
+      "Gestión de Mantenimiento Industrial",
+      "Sistemas CAD, CAM, CAE",
+      "Desarrollo Sostenible"
+    ],
+    "6": [
+      "Simulación de Procesos",
+      "Control Estadístico de Calidad",
+      "Control de Producción I",
+      "Seguridad, Salud y Ambiente",
+      "Liderazgo, Emprendimiento e Innovación"
+    ],
+    "7": [
+      "Prácticas de Servicio Comunitario",
+      "Diseño Experimental",
+      "Control de Producción II",
+      "Prácticas Laborales",
+      "Proyecto de Titulación I"
+    ],
+    "8": [
+      "Diseño de Planta",
+      "Diseño y Desarrollo de Productos",
+      "Gestión de la Cadena de Suministro",
+      "Sistemas Integrados de Gestión",
+      "Proyecto de Titulación II"
+    ]
+  }
+},
+{
+  "universidad": "Universidad Hemisferios",
+  "carrera": "Ingeniería en Tecnologías de la Información",
+  "malla_curricular": {
+    "1": [
+      "Matemáticas y Cálculo I",
+      "Física I y Laboratorio",
+      "Química General y Laboratorio",
+      "Álgebra Lineal",
+      "Lógica Matemática",
+      "Lenguaje",
+      "Programación I y Aplicaciones de Software"
+    ],
+    "2": [
+      "Matemáticas y Cálculo II",
+      "Física II y Laboratorio",
+      "Química II y Laboratorio",
+      "Geometría Descriptiva",
+      "Biología para Ingenieros",
+      "Programación II y Aplicaciones de Software",
+      "Estadística y Probabilidades"
+    ],
+    "3": [
+      "Matemáticas y Cálculo III (Vectorial)",
+      "Física III y Laboratorio",
+      "Métodos Numéricos",
+      "Recursos Naturales y Ecología",
+      "Estructuras de Datos",
+      "Introducción a la Ciencia de la Computación"
+    ],
+    "4": [
+      "Teoría de la Computación",
+      "Arquitectura de Computadoras",
+      "Redes y Comunicaciones",
+      "Bases de Datos I",
+      "Interacción Ser Humano Computador",
+      "Ética y Responsabilidad Social"
+    ],
+    "5": [
+      "Bases de Datos II y Big Data",
+      "Sistemas Operativos",
+      "Análisis y Diseño de Algoritmos",
+      "Cloud Computing",
+      "Desarrollo Basado en Plataformas",
+      "Arte y Estética"
+    ],
+    "6": [
+      "Machine Learning",
+      "Algoritmos y Estructuras Avanzadas",
+      "Programación III (C++ y Java)",
+      "Nuevos Modelos de Negocio, Ética y Tecnología",
+      "Debates Socio-Contemporáneos",
+      "Persona y Naturaleza"
+    ],
+    "7": [
+      "Computación Paralela y Distribuida",
+      "Computación Gráfica",
+      "IA y sus Aplicaciones",
+      "Ingeniería de Software",
+      "Compiladores",
+      "El Internet de las Cosas / Industria 4.0"
+    ],
+    "8": [
+      "Programación Competitiva",
+      "Introducción a la Computación Cuántica",
+      "Análisis y Diseño de Algoritmos para IA",
+      "Seminario de Grado (Trabajo de Titulación)"
+    ]
+  }
+},
+{
+  "universidad": "Universidad Hemisferios",
+  "carrera": "Ingeniería Ambiental",
+  "malla_curricular": {
+    "1": [
+      "Matemáticas y Cálculo I",
+      "Física I y Laboratorio",
+      "Química General y Laboratorio",
+      "Geometría Descriptiva",
+      "Biología para Ingenieros",
+      "Lógica Matemática"
+    ],
+    "2": [
+      "Matemáticas y Cálculo II",
+      "Física II y Laboratorio",
+      "Química II y Laboratorio",
+      "Biología General",
+      "Ecología y Recursos Naturales",
+      "Programación I y Aplicaciones de Software"
+    ],
+    "3": [
+      "Matemáticas y Cálculo III (Vectorial)",
+      "Física III y Laboratorio",
+      "Geología (Visitas de Campo)",
+      "Programación II y Aplicaciones de Software",
+      "Estadística y Probabilidades",
+      "Física y Química Ambiental"
+    ],
+    "4": [
+      "Hidrología",
+      "Microbiología Ambiental",
+      "Geología Ambiental",
+      "Ingeniería de Residuos Sólidos y Gestión",
+      "Energías Renovables y Eficiencia Energética I",
+      "Cartografía y SIG"
+    ],
+    "5": [
+      "Termodinámica",
+      "Mecánica de Fluidos Ambientales",
+      "Atmósfera, Océano y Dinámica Climática",
+      "Contaminación Atmosférica",
+      "Agua y Tratamiento de Aguas Residuales",
+      "Teledección y Análisis Espacial"
+    ],
+    "6": [
+      "Energías Renovables y Eficiencia Energética II",
+      "Calidad del Aire",
+      "Hidrogeología Ambiental",
+      "Edafología y Manejo de Suelos",
+      "Monitoreo Ambiental",
+      "Estudios de Impacto Ambiental"
+    ],
+    "7": [
+      "Aspectos Sociales de la Ingeniería Ambiental, Ética y Tecnología",
+      "Gestión Ambiental",
+      "Seguridad y Salud Ocupacional",
+      "Desarrollo Sostenible",
+      "Ecosistemas y Paisajes",
+      "Leyes y Derechos Ambientales"
+    ],
+    "8": [
+      "Seminario de Ingeniería Ambiental",
+      "Seminario de Grado (Trabajo de Titulación)"
+    ]
+  }
+},
+{
+  "universidad": "UIDE",
+  "carrera": "Ingeniería Civil",
+  "malla_curricular": {
+    "1": [
+      "Introducción a la ingeniería",
+      "Cálculo para ingenieros I",
+      "Química general para ingenieros",
+      "Física",
+      "Effective Communication",
+      "Critical and System Thinking"
+    ],
+    "2": [
+      "Álgebra lineal elemental",
+      "Cálculo para ingenieros II",
+      "Materiales y sostenibilidad",
+      "Ingeniería Mecánica I: Estática",
+      "Ingeniería asistida por computadora"
+    ],
+    "3": [
+      "Ecuaciones diferenciales modernas",
+      "Cálculo para ingenieros III",
+      "Estadística y probabilidad para ingenieros",
+      "Ingeniería Mecánica II: Dinámica",
+      "Tecnología de los materiales"
+    ],
+    "4": [
+      "Métodos numéricos para ingenieros",
+      "Topografía y Geomática",
+      "Práctica Preprofesional I",
+      "Personal and Professional Development",
+      "Geología",
+      "Digital Literacy",
+      "Presupuesto y programación de obra"
+    ],
+    "5": [
+      "Diseño estructural",
+      "Análisis estructural",
+      "Mecánica de suelos",
+      "Mecánica de fluidos para ingeniería civil",
+      "Sólidos deformables",
+      "Innovation and Entrepreneurship"
+    ],
+    "6": [
+      "Estructuras de hormigón",
+      "Práctica Preprofesional II",
+      "Estructuras de acero",
+      "Análisis y diseño de pavimentos",
+      "Hidrología",
+      "Diseño y trazado de vías y puentes"
+    ],
+    "7": [
+      "Edificación e instalaciones",
+      "Ingeniería sanitaria y ambiental",
+      "Ingeniería Geotécnica",
+      "Ingeniería hidráulica",
+      "Proyecto de titulación",
+      "Planificación, elaboración y fiscalización de proyectos"
+    ],
+    "8": [
+      "Diseño integrado de Ingeniería Civil",
+      "Vinculación con la Sociedad",
+      "Tecnología de la construcción",
+      "Administración de la ingeniería",
+      "Ingeniería de transportes"
+    ]
+  }
+},
+{
+  "universidad": "UIDE",
+  "carrera": "Ingeniería en Sistemas de Información",
+  "malla_curricular": {
+    "1": [
+      "Lógica de Programación",
+      "Arquitectura de computadoras y sistemas operativos",
+      "Ingeniería y pensamiento humano",
+      "Introducción a las redes de datos",
+      "Effective Communication"
+    ],
+    "2": [
+      "Programación estructurada y funcional",
+      "Introducción UNIX",
+      "Estructura, modelado, almacenamiento de BDD",
+      "Sistemas tecnológicos, sociales y sostenibles",
+      "Cálculo diferencial e integral"
+    ],
+    "3": [
+      "Fundamentos de la seguridad de los sistemas informáticos y de la información",
+      "Tecnología de comunicación de información en red",
+      "Tecnología y Sociedad",
+      "Programación orientada a objetos",
+      "Probabilidades y estadísticas para la investigación I"
+    ],
+    "4": [
+      "Programación web y multimedia",
+      "Gestión de servicios Cloud",
+      "Ética",
+      "Seguridad del sistema de información",
+      "Gestión de configuraciones y Active Directory"
+    ],
+    "5": [
+      "Estructuras matemáticas discretas",
+      "Arquitectura en la nube para tecnologías de la información",
+      "Sistemas de gestión de bases de datos",
+      "Innovación en la sociedad",
+      "Arquitectura empresarial e industrial"
+    ],
+    "6": [
+      "Desarrollo de proyectos de sistemas de información",
+      "Tendencias en tecnologías emergentes y modelos de negocios disruptivos",
+      "Prácticas y herramientas de Big Data",
+      "Machine Learning",
+      "Ciberseguridad"
+    ],
+    "7": [
+      "Diseño y evaluación de proyecto de Tecnología de la Información I",
+      "Fundamentos redes inalámbricas",
+      "Programación de middleware y seguridad de la base de datos",
+      "Inteligencia Artificial",
+      "Diseño de pruebas, control de calidad y mantenimiento"
+    ],
+    "8": [
+      "Diseño y evaluación de proyecto de Tecnología de la Información II",
+      "Gestión de dispositivos inteligentes en entorno empresarial",
+      "Historia de la Ingeniería",
+      "Redes informáticas avanzadas para tecnología de la información",
+      "Política de seguridad, auditorías y Gobierno TI"
+    ]
+  }
+},
+{
+  "universidad": "UIDE",
+  "carrera": "Ingeniería Industrial",
+  "malla_curricular": {
+    "1": [
+      "Cálculo para Ingeniería I",
+      "Análisis Matricial",
+      "Física para Ingeniería",
+      "Química Aplicada",
+      "Introducción a la Ingeniería Industrial",
+      "Effective Communication"
+    ],
+    "2": [
+      "Cálculo para Ingeniería II",
+      "Dibujo Técnico y Modelado",
+      "Lógica de Programación",
+      "Introducción a la Seguridad Industrial",
+      "Cálculo Vectorial",
+      "Critical and System Thinking"
+    ],
+    "3": [
+      "Ecuaciones diferenciales modernas",
+      "Estructura y Propiedades de los Materiales",
+      "Probabilidad y Estadística",
+      "Termodinámica",
+      "Electricidad y Electrónica Industrial",
+      "Digital Literacy"
+    ],
+    "4": [
+      "Herramientas y procesos de fabricación",
+      "Mecánica de Materiales",
+      "Control Automático",
+      "Balance de Materia y Energía",
+      "Seguridad Industrial y Salud Ocupacional",
+      "Personal and Professional Development"
+    ],
+    "5": [
+      "Automatización Industrial",
+      "Diseño y Modelado de Sólidos",
+      "Aseguramiento de la Calidad",
+      "Operación Industrial",
+      "Ergonomía",
+      "Prácticas de Servicio Comunitario"
+    ],
+    "6": [
+      "Mantenimiento Industrial",
+      "Ingeniería de Producción",
+      "Sistemas de Gestión de Calidad",
+      "Proyectos de Sistemas de Fabricación",
+      "Sistemas de Gestión Ambiental",
+      "Práctica Laboral I"
+    ],
+    "7": [
+      "Technology Entrepreneurship",
+      "Logística y Cadena de Suministro",
+      "Gerencia de Servicios y Operaciones",
+      "Costos Industriales",
+      "Design Engineering Experiments",
+      "Práctica Laboral II"
+    ],
+    "8": [
+      "Strategic Enterprise Innovation",
+      "Web Enabled Decision Support System",
+      "Seminario de Integración Curricular",
+      "Diseño y Organización de Plantas Industriales",
+      "Proyectos de Ingeniería"
+    ]
+  }
+},
+{
+  "universidad": "UISEK",
+  "carrera": "Ingeniería Ambiental",
+  "malla_curricular": {
+    "1": [
+      "Biología, Biodiversidad y Evolución",
+      "Física I",
+      "Matemáticas I",
+      "Química General",
+      "Comunicación Oral y Escrita"
+    ],
+    "2": [
+      "Ecología General",
+      "Física II",
+      "Matemáticas II",
+      "Química Orgánica",
+      "Pensamiento Lógico y Científico",
+      "Responsabilidad Social y Ética e Intercultural"
+    ],
+    "3": [
+      "Ciencias de la Tierra",
+      "Estadística",
+      "Matemáticas III",
+      "Relaciones Comunitarias y Educación Ambiental",
+      "Metodología de la Investigación Científica"
+    ],
+    "4": [
+      "Balance de Materia y Energía",
+      "Química Ambiental",
+      "Ecología Aplicada",
+      "Hidrología",
+      "Microbiología Ambiental",
+      "Ecotoxicología"
+    ],
+    "5": [
+      "Cartografía y Sistemas de Información Geográfica",
+      "Muestreo y Monitoreo Ambiental",
+      "Operaciones Unitarias",
+      "Planificación Territorial y Gestión de Riesgos Ambientales",
+      "Servicio Comunitario"
+    ],
+    "6": [
+      "Prevención y Tratamiento de la Contaminación Atmosférica",
+      "Prevención de la Contaminación y Tratamiento de Aguas",
+      "Prevención y Tratamiento de la Contaminación en Suelos y Residuos Sólidos",
+      "Derecho Ambiental",
+      "Energías Renovables",
+      "Prácticas Laborales I"
+    ],
+    "7": [
+      "Economía Circular",
+      "Evaluación de Impacto Ambiental",
+      "Manejo de Recursos Naturales",
+      "Modelación Ambiental",
+      "Prácticas Laborales II",
+      "Salud y Seguridad Ocupacional"
+    ],
+    "8": [
+      "Unidad de Integración Curricular",
+      "Auditoría Ambiental",
+      "Calidad Ambiental y ODS",
+      "Gestión de Proyectos Ambientales",
+      "Sistemas Integrados de Gestión (Certificación)"
+    ]
+  }
+},
+{
+  "universidad": "UISEK",
+  "carrera": "Ingeniería Civil",
+  "malla_curricular": {
+    "1": [
+      "Álgebra Lineal",
+      "Cálculo Diferencial",
+      "Física",
+      "Geometría Analítica",
+      "Química de Materiales",
+      "Ser UISEK I",
+      "Ser UISEK II"
+    ],
+    "2": [
+      "Cálculo Integral",
+      "Geometría Descriptiva",
+      "Hidrología",
+      "Gestión de los Materiales de Construcción",
+      "Probabilidades y Estadística",
+      "Ser UISEK III"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Estabilidad y Dinámica",
+      "Evaluación de Riesgos Naturales y Antrópicos",
+      "Sistemas y Técnicas Constructivas",
+      "Topografía",
+      "Metodología de la Investigación Científica"
+    ],
+    "4": [
+      "Instalaciones de Edificios",
+      "Mecánica de Fluidos",
+      "Proyectos Viales",
+      "Resistencia de Materiales",
+      "Mecánica de Suelos I"
+    ],
+    "5": [
+      "Análisis Estructural I",
+      "Diseño de Carpetas de Rodamiento",
+      "Gestión de Proyectos I",
+      "Obras Hidráulicas",
+      "Prácticas Laborales I",
+      "Mecánica de Suelos II"
+    ],
+    "6": [
+      "Análisis Estructural II",
+      "Diseño en Hormigón Armado I",
+      "Gestión de Proyectos II",
+      "Programación",
+      "Servicio Comunitario",
+      "Sistemas de Conducción Hídrica"
+    ],
+    "7": [
+      "Diseño de Cimentaciones",
+      "Diseño en Hormigón Armado II",
+      "Estructuras de Acero",
+      "Gestión de Proyectos III",
+      "Prácticas Laborales II"
+    ],
+    "8": [
+      "Trabajo de Titulación",
+      "Diseño Sismo Resistente",
+      "Obras Civiles",
+      "Reingeniería de Obras Civiles",
+      "Tecnología e Innovación para la Construcción"
+    ]
+  }
+},
+{
+  "universidad": "UISEK",
+  "carrera": "Ingeniería Industrial",
+  "malla_curricular": {
+    "1": [
+      "Ser UISEK I",
+      "Ser UISEK II",
+      "Álgebra Lineal",
+      "Física I",
+      "Matemática I",
+      "Química I"
+    ],
+    "2": [
+      "Ser UISEK III",
+      "Matemática II",
+      "Dibujo Asistido por Computador CAD",
+      "Probabilidad y Estadística",
+      "Física II",
+      "Programación"
+    ],
+    "3": [
+      "Metodología de la Investigación Científica",
+      "Diseño Industrial de Producto",
+      "Electrónica",
+      "Estática y Dinámica para Ingeniería",
+      "Procesos de Manufactura",
+      "Termodinámica"
+    ],
+    "4": [
+      "Ciencia de los Materiales",
+      "Diseño Mecánico",
+      "Energía, Eficiencia y Sostenibilidad",
+      "Ergonomía y Seguridad Industrial",
+      "Programación en Microcontroladores",
+      "Sistemas de Manufactura Avanzada"
+    ],
+    "5": [
+      "Hidráulica y Neumática Industrial",
+      "Ingeniería Asistida por Computadora CAE",
+      "Laboratorio de Simulación Industrial",
+      "Materiales Sustentables para la Industria",
+      "Programación en PLC",
+      "Mantenimiento de Sistemas Productivos"
+    ],
+    "6": [
+      "Big Data & Data Visualization",
+      "Innovación y Emprendimiento",
+      "Instalaciones Industriales",
+      "Manufactura Asistida por Computadora CAM",
+      "Normativa y Estándares de Calidad",
+      "Sistemas de Control"
+    ],
+    "7": [
+      "Economía y RRHH Industriales",
+      "Industria 4.0",
+      "Logística Avanzada en la Cadena de Suministro",
+      "Manufactura Esbelta y Calidad",
+      "Práctica Laboral",
+      "Servicio Comunitario"
+    ],
+    "8": [
+      "Integración Curricular",
+      "Diseño de Sistemas Industriales Inteligentes",
+      "Machine Learning",
+      "Optativa",
+      "Dirección de Proyectos Industriales",
+      "Six Sigma"
+    ]
+  }
+},
+{
+  "universidad": "UISEK",
+  "carrera": "Ingeniería de Software",
+  "malla_curricular": {
+    "1": [
+      "Ser UISEK I",
+      "Ser UISEK II",
+      "Fundamentos de Programación",
+      "Matemática",
+      "Arquitectura de Computadores",
+      "Fundamentos de Redes y Conectividad"
+    ],
+    "2": [
+      "Ser UISEK III",
+      "Estadística Descriptiva e Inferencial",
+      "Bases de Datos",
+      "Ingeniería de Software",
+      "Programación Orientada a Objetos",
+      "Sistemas Operativos"
+    ],
+    "3": [
+      "Metodología de la Investigación Científica",
+      "Desarrollo de Aplicaciones Web",
+      "Estructura de Datos",
+      "Gestión de Proyectos",
+      "Internetworking",
+      "Metodologías de Desarrollo de Software"
+    ],
+    "4": [
+      "Administración de Bases de Datos",
+      "Aseguramiento de la Calidad del Software",
+      "Computación Distribuida",
+      "Desarrollo de Aplicaciones Móviles",
+      "Programación de Sistemas Embebidos",
+      "Vinculación con la Sociedad"
+    ],
+    "5": [
+      "Programación para Análisis de Datos",
+      "Bases de Datos Distribuidas",
+      "Matemáticas Discretas",
+      "Normativa Legal de TI",
+      "Prácticas Pre Profesionales I",
+      "Sistemas de Información con Tecnologías Emergentes"
+    ],
+    "6": [
+      "Computación Gráfica",
+      "Inteligencia Artificial",
+      "Minería de Datos",
+      "Prácticas Pre Profesionales II",
+      "Usabilidad de Software"
+    ],
+    "7": [
+      "Trabajo de Titulación I",
+      "Analítica de Datos",
+      "Emprendimiento e Innovación",
+      "Fundamentos de Ciberseguridad",
+      "Interacción Persona Computador",
+      "Marketing y Distribución de Productos Digitales"
+    ],
+    "8": [
+      "Trabajo de Titulación II",
+      "Administración de Empresas de TI",
+      "Auditoría Informática",
+      "Gobernanza de TI",
+      "Inteligencia de Negocios"
+    ]
+  }
+},
+{
+  "universidad": "UISRAEL",
+  "carrera": "Ingeniería en Electrónica y Automatización",
+  "malla_curricular": {
+    "1": [
+      "Lectura Crítica",
+      "Matemática",
+      "Metodología de la Investigación",
+      "Aplicaciones de las TIC",
+      "Entorno Global, Ética y Sociedad"
+    ],
+    "2": [
+      "Redacción Académica y Cultura",
+      "Matemática Superior I",
+      "Emprendimiento e Innovación",
+      "Fundamentos de Contabilidad",
+      "Fundamentos de Economía"
+    ],
+    "3": [
+      "Redes de Datos I",
+      "Matemática Superior II",
+      "Fundamentos de Circuitos",
+      "Física I",
+      "Estadística y Procesos Estocásticos"
+    ],
+    "4": [
+      "Redes de Datos II",
+      "Electrónica I",
+      "Circuitos Eléctricos",
+      "Física II",
+      "Sistemas Electromecánicos"
+    ],
+    "5": [
+      "Programación",
+      "Electrónica II",
+      "Sistemas Digitales",
+      "Robótica",
+      "Sistemas de Automatización y Control Industrial"
+    ],
+    "6": [
+      "Desarrollo de Aplicaciones Móviles",
+      "Electrónica de Potencia",
+      "Microcontroladores",
+      "Domótica e Inmótica",
+      "Mantenimiento e Instalaciones Industriales"
+    ],
+    "7": [
+      "Procesamiento Digital de Señales",
+      "Seguridad Industrial y Protección Ambiental",
+      "Proyectos de Integración de Electrónica y Automatización",
+      "Automatización e Internet de las Cosas",
+      "Redes Industriales y Sistemas SCADA"
+    ],
+    "8": [
+      "Tendencias Innovadoras de la Profesión",
+      "Sistematización de Contenidos Profesionales",
+      "Transformación de Procesos",
+      "Trabajo de Titulación"
+    ]
+  }
+},
+{
+  "universidad": "UISRAEL",
+  "carrera": "Ingeniería en Informática",
+  "malla_curricular": {
+    "1": [
+      "Lectura Crítica",
+      "Matemática",
+      "Metodología de la Investigación",
+      "Aplicaciones de las TIC",
+      "Entorno Global, Ética y Sociedad"
+    ],
+    "2": [
+      "Redacción Académica y Cultura",
+      "Estadística",
+      "Emprendimiento e Innovación",
+      "Fundamentos de Contabilidad",
+      "Fundamentos de Economía"
+    ],
+    "3": [
+      "Redes de Datos I",
+      "Cálculo",
+      "Fundamentos de Programación",
+      "Sistemas Operativos",
+      "Matemática Aplicada a Informática"
+    ],
+    "4": [
+      "Diseño de Procesos Distribuidos",
+      "Bases de Datos I",
+      "Programación I",
+      "Electrónica e IoT",
+      "Diseño de Interfaces de Usuario"
+    ],
+    "5": [
+      "Redes de Datos II",
+      "Bases de Datos II",
+      "Programación II",
+      "Ingeniería de Software I",
+      "Gestión Empresarial y Tecnología"
+    ],
+    "6": [
+      "Seguridad de la Información",
+      "Minería de Datos",
+      "Desarrollo de Software I",
+      "Ingeniería de Software II",
+      "Administración de Proyectos de Tecnología"
+    ],
+    "7": [
+      "Auditoría Informática",
+      "Inteligencia de Negocios",
+      "Desarrollo de Software II",
+      "Desarrollo para Aplicaciones Móviles",
+      "Inteligencia Artificial"
+    ],
+    "8": [
+      "Sistematización de Contenidos Profesionales",
+      "Tendencias Innovadoras de la Profesión",
+      "Transformación de Procesos",
+      "Trabajo de Titulación"
+    ]
+  }
+},
+{
+  "universidad": "UISRAEL",
+  "carrera": "Ingeniería en Sistemas de Información",
+  "malla_curricular": {
+    "1": [
+      "Lectura Crítica",
+      "Matemática",
+      "Metodología de la Investigación",
+      "Aplicaciones de las TIC",
+      "Entorno Global, Ética y Sociedad"
+    ],
+    "2": [
+      "Redacción Académica y Cultura",
+      "Estadística",
+      "Emprendimiento e Innovación",
+      "Fundamentos de Contabilidad",
+      "Fundamentos de Economía"
+    ],
+    "3": [
+      "Redes de Datos I",
+      "Matemática Superior I",
+      "Fundamentos de Programación",
+      "Sistemas Operativos",
+      "Física"
+    ],
+    "4": [
+      "Sistemas de Información",
+      "Matemática Superior II",
+      "Programación I",
+      "Electrónica e IoT",
+      "Diseño de Interfaces de Usuario"
+    ],
+    "5": [
+      "Diseño de Procesos Distribuidos",
+      "Base de Datos I",
+      "Programación II",
+      "Ingeniería de Software I",
+      "Gestión Empresarial y Tecnología"
+    ],
+    "6": [
+      "Redes de Datos II",
+      "Base de Datos II",
+      "Desarrollo de Software I",
+      "Ingeniería de Software II",
+      "Administración de Proyectos de Tecnología"
+    ],
+    "7": [
+      "Seguridad de la Información",
+      "Minería de Datos",
+      "Desarrollo de Software II",
+      "Microservicios",
+      "Empresas de Base Tecnológica Sostenibles"
+    ],
+    "8": [
+      "Auditoría Informática",
+      "Inteligencia de Negocios",
+      "Desarrollo para Aplicaciones Móviles",
+      "Inteligencia Artificial",
+      "Calidad de Software QA"
+    ],
+    "9": [
+      "Sistematización de Contenidos Profesionales",
+      "Tendencias Innovadoras de la Profesión",
+      "Transformación de Procesos",
+      "Trabajo de Titulación"
+    ]
+  }
+},
+{
+  "universidad": "UISRAEL",
+  "carrera": "Ingeniería en Telecomunicaciones",
+  "malla_curricular": {
+    "1": [
+      "Lectura Crítica",
+      "Matemática",
+      "Metodología de la Investigación",
+      "Aplicaciones de las TIC",
+      "Entorno Global, Ética y Sociedad"
+    ],
+    "2": [
+      "Redacción Académica y Cultura",
+      "Estadística",
+      "Emprendimiento e Innovación",
+      "Fundamentos de Contabilidad",
+      "Fundamentos de Economía"
+    ],
+    "3": [
+      "Redes de Datos I",
+      "Matemática Superior I",
+      "Fundamentos de Programación",
+      "Sistemas Operativos",
+      "Física I"
+    ],
+    "4": [
+      "Redes de Datos II",
+      "Matemática Superior II",
+      "Programación",
+      "Fundamentos de Circuitos",
+      "Física II"
+    ],
+    "5": [
+      "Redes de Datos III",
+      "Procesos Estocásticos",
+      "Microcontroladores",
+      "Electrónica I",
+      "Circuitos Eléctricos"
+    ],
+    "6": [
+      "Redes de Datos IV",
+      "Procesamiento Digital de Señales",
+      "Propagación y Antenas",
+      "Electrónica II",
+      "Sistemas Digitales"
+    ],
+    "7": [
+      "Servicio de Telefonía Fija y Móvil Avanzado",
+      "Sistemas de Automatización y Control",
+      "Sistemas TX/RX Inalámbricos",
+      "Comunicaciones I",
+      "Mantenimiento e Instalaciones Industriales"
+    ],
+    "8": [
+      "Integración de las Comunicaciones Satelitales",
+      "Televisión Digital",
+      "Sistemas de Transmisión de Datos Digitales",
+      "Comunicaciones II",
+      "Proyectos de Integración de Electrónica y Telecomunicaciones"
+    ],
+    "9": [
+      "Tendencias Innovadoras de la Profesión",
+      "Sistematización de Contenidos Profesionales",
+      "Transformación de Procesos",
+      "Trabajo de Titulación"
+    ]
+  }
+},
+{
+  "universidad": "UNIBE",
+  "carrera": "Ingeniería de Software",
+  "malla_curricular": {
+    "1": [
+      "Cálculo Matemático",
+      "Matemática Discreta",
+      "Algoritmos y Lógica de Programación",
+      "Introducción a la Ingeniería de Software",
+      "Programación",
+      "Lenguaje y Comunicación",
+      "Técnicas de Estudio",
+      "Álgebra Lineal",
+      "Arquitectura de Computadora"
+    ],
+    "2": [
+      "Métodos Numéricos",
+      "Programación Orientada a Objetos",
+      "Ingeniería de Requerimientos",
+      "Modelamiento de Software",
+      "Estadística y Probabilidades",
+      "Diseño de Interfaz",
+      "Base de Datos I",
+      "Administración de Empresa y TI"
+    ],
+    "3": [
+      "Investigación de Operaciones",
+      "Sistemas Operativos",
+      "Base de Datos II",
+      "Modelos Matemáticos y Simulación",
+      "Diseño y Arquitectura de Software",
+      "Verificación y Validación de Software",
+      "Aplicaciones Web"
+    ],
+    "4": [
+      "Redes de Datos",
+      "Proceso de Software",
+      "Aplicaciones Móviles",
+      "Aplicaciones Distribuidas",
+      "Inteligencia de Negocios",
+      "Práctica de Servicio Comunitario"
+    ],
+    "5": [
+      "Ingeniería Económica para Software",
+      "Seguridad Informática",
+      "Gestión de Proyectos de Software",
+      "Sistemas Inteligentes",
+      "Deontología Profesional",
+      "Diseño de Proyecto de Investigación"
+    ],
+    "6": [
+      "Programación en la Nube",
+      "Auditoría Informática",
+      "Liderazgo y Emprendimiento",
+      "Herramientas de Construcción de Software",
+      "Desarrollo Socioeconómico",
+      "Práctica Laboral I"
+    ],
+    "7": [
+      "Práctica Laboral II",
+      "Trabajo de Integración Curricular"
+    ]
+  }
+},
+{
+  "universidad": "USFQ",
+  "carrera": "Ingeniería en Biotecnología",
+  "malla_curricular": {
+    "1": [
+      "Escritura Académica",
+      "Cálculo Diferencial",
+      "Biología General",
+      "Autoconocimiento",
+      "Cosmos",
+      "Inglés Nivel 1",
+      "Inglés Nivel 2"
+    ],
+    "2": [
+      "Química General I",
+      "Cálculo Integral",
+      "Introducción a la Biotecnología",
+      "Introducción a la Economía",
+      "Arte",
+      "Inglés Nivel 3",
+      "Inglés Nivel 4"
+    ],
+    "3": [
+      "Química Orgánica Básica",
+      "Genética General",
+      "Física Ciencias de la Vida",
+      "Probabilidad y Estadística",
+      "Ser y Cosmos",
+      "Inglés Nivel 5",
+      "Inglés Nivel 6"
+    ],
+    "4": [
+      "Bioquímica y Metabolismo",
+      "Ecología General",
+      "Biología Molecular",
+      "Electiva Libre 1",
+      "Humanidades"
+    ],
+    "5": [
+      "Cálculos en Bioprocesos",
+      "Biotecnología de Animales",
+      "Microbiología",
+      "Emprendimiento",
+      "Evolución"
+    ],
+    "6": [
+      "Coloquios",
+      "Cultura Gastronómica",
+      "Biotecnología Médica",
+      "Biotecnología de Plantas",
+      "Aprendizaje y Servicio PASEC",
+      "Ciencias Sociales"
+    ],
+    "7": [
+      "Biorremediación",
+      "Bioseguridad",
+      "Genética y Bioinformática",
+      "Topics in Biotechnology",
+      "Electiva Libre 2"
+    ],
+    "8": [
+      "Diseño de Experimentos",
+      "Biotecnología de Alimentos",
+      "Ingeniería Genética",
+      "Bioética",
+      "Optativa 1"
+    ],
+    "9": [
+      "Procesos Industriales",
+      "Gestión de Proyectos",
+      "Optativa 2",
+      "Proyecto Integrador BTC",
+      "Deportes"
+    ]
+  }
+},
+{
+  "universidad": "USFQ",
+  "carrera": "Ingeniería en Agroempresa",
+  "malla_curricular": {
+    "1": [
+      "Cálculo para Ciencias de la Vida",
+      "Biología General",
+      "Química General I",
+      "Introducción a Sistemas Agrícolas",
+      "Principios de Administración",
+      "Inglés Nivel 1",
+      "Inglés Nivel 2"
+    ],
+    "2": [
+      "Botánica",
+      "Introducción a la Economía",
+      "Introducción al Manejo de Suelos",
+      "Física Ciencias de la Vida",
+      "Autoconocimiento",
+      "Inglés Nivel 3",
+      "Inglés Nivel 4"
+    ],
+    "3": [
+      "Escritura Académica",
+      "Principios de Marketing",
+      "Fisiología Vegetal",
+      "Fertilidad: Suelo-Planta",
+      "Ser y Cosmos",
+      "Inglés Nivel 5",
+      "Inglés Nivel 6"
+    ],
+    "4": [
+      "Deportes",
+      "Bioestadística",
+      "Contabilidad Financiera",
+      "Producción de Vegetales",
+      "Ciencias Sociales",
+      "Humanidades"
+    ],
+    "5": [
+      "Cultura Gastronómica",
+      "Diseño Experimental Agrícola",
+      "Fitopatología Agrícola",
+      "Principios de Finanzas",
+      "Electiva Libre 1",
+      "Arte"
+    ],
+    "6": [
+      "Entomología y MIP",
+      "Emprendimiento",
+      "Fitomejoramiento",
+      "Árboles Frutales y Bayas",
+      "Optativa 1"
+    ],
+    "7": [
+      "Economía Agroalimentaria",
+      "Agrobiotecnología",
+      "Frutas y Hortalizas",
+      "Riegos y Drenajes",
+      "Optativa 2"
+    ],
+    "8": [
+      "Estudio de Casos en Agricultura",
+      "Floricultura",
+      "Agricultura Orgánica",
+      "Cultivos Tropicales",
+      "Optativa 3"
+    ],
+    "9": [
+      "Coloquios",
+      "Comercio Exterior Agrícola",
+      "Electiva Libre 2",
+      "Optativa 4",
+      "Proyecto Integrador AGR"
+    ]
+  }
+},
+{
+  "universidad": "USFQ",
+  "carrera": "Ingeniería en Agronomía",
+  "malla_curricular": {
+    "1": [
+      "Cálculo para Ciencias de la Vida",
+      "Biología General",
+      "Taller de Ingeniería en Agronomía",
+      "Introducción a la Economía",
+      "Autoconocimiento",
+      "Inglés Nivel 1",
+      "Inglés Nivel 2"
+    ],
+    "2": [
+      "Escritura Académica",
+      "Botánica",
+      "Química General I",
+      "Física Ciencias de la Vida",
+      "Arte",
+      "Inglés Nivel 3",
+      "Inglés Nivel 4"
+    ],
+    "3": [
+      "Producción Animal I",
+      "Bioestadística",
+      "Genética General",
+      "Introducción al Manejo de Suelos",
+      "Ser y Cosmos",
+      "Inglés Nivel 5",
+      "Inglés Nivel 6"
+    ],
+    "4": [
+      "Deportes",
+      "Producción Animal II",
+      "Olericultura",
+      "Fisiología Vegetal",
+      "Fertilidad: Suelo-Planta",
+      "Humanidades"
+    ],
+    "5": [
+      "Cultura Gastronómica",
+      "Técnicas Experimentales",
+      "Fruticultura",
+      "Protección Vegetal",
+      "Aprendizaje y Servicio PASEC",
+      "Electiva Libre 1"
+    ],
+    "6": [
+      "Emprendimiento",
+      "Cultivos de la Sierra",
+      "Riegos y Drenajes",
+      "Electiva Libre 2",
+      "Optativa 1"
+    ],
+    "7": [
+      "Agrobiotecnología",
+      "Manejo Integrado de Plagas",
+      "Fitomejoramiento",
+      "Cultivos del Trópico",
+      "Ciencias Sociales"
+    ],
+    "8": [
+      "Proyectos Agropecuarios",
+      "Floricultura",
+      "Cultivos Protegidos",
+      "Optativa 2",
+      "Optativa 3"
+    ],
+    "9": [
+      "Coloquios",
+      "Comercio Exterior Agrícola",
+      "Economía Agroalimentaria",
+      "Principios de Marketing",
+      "Proyecto Integrador AGR"
+    ]
+  }
+},
+{
+  "universidad": "USFQ",
+  "carrera": "Ingeniería de Alimentos",
+  "malla_curricular": {
+    "1": [
+      "Cálculo Diferencial",
+      "Taller de Ingeniería en Alimentos",
+      "Química General I",
+      "Introducción a la Economía",
+      "Autoconocimiento",
+      "Inglés Nivel 1",
+      "Inglés Nivel 2"
+    ],
+    "2": [
+      "Escritura Académica",
+      "Biología General",
+      "Química General II",
+      "Cálculo Integral",
+      "Balance de Masa y Energía",
+      "Inglés Nivel 3",
+      "Inglés Nivel 4"
+    ],
+    "3": [
+      "Química Orgánica Básica",
+      "Ecuaciones Diferenciales",
+      "Física para Ingeniería I",
+      "Termodinámica Química",
+      "Ser y Cosmos",
+      "Inglés Nivel 5",
+      "Inglés Nivel 6"
+    ],
+    "4": [
+      "Química de Alimentos",
+      "Física para Ingeniería II",
+      "Aprendizaje y Servicio PASEC",
+      "Probabilidad y Estadística",
+      "Fenómenos de Transporte"
+    ],
+    "5": [
+      "Cultura Gastronómica",
+      "Diseño de Experimentos",
+      "Emprendimiento",
+      "Análisis de Alimentos",
+      "Microbiología de Alimentos",
+      "Electiva Libre 1"
+    ],
+    "6": [
+      "Alimentos Funcionales",
+      "Gestión por Procesos",
+      "Operaciones Unitarias I",
+      "Ciencias Sociales",
+      "Humanidades"
+    ],
+    "7": [
+      "Deportes",
+      "Evaluación Sensorial",
+      "Frutas y Hortalizas",
+      "Cárnicos",
+      "Operaciones Unitarias II",
+      "Optativa 1"
+    ],
+    "8": [
+      "Lácteos",
+      "Desarrollo de Nuevos Productos",
+      "Food Biotechnology",
+      "Ingeniería de la Calidad",
+      "Arte"
+    ],
+    "9": [
+      "Coloquios",
+      "Proyectos: Gerencia y Análisis",
+      "Electiva Libre 2",
+      "Optativa 2",
+      "Proyecto Integrador ALI"
+    ]
+  }
+},
+{
+  "universidad": "USFQ",
+  "carrera": "Ingeniería Ambiental",
+  "malla_curricular": {
+    "1": [
+      "Escritura Académica",
+      "Cálculo Diferencial",
+      "Taller de Ingeniería Ambiental",
+      "Química General I",
+      "Autoconocimiento",
+      "Inglés Nivel 1",
+      "Inglés Nivel 2"
+    ],
+    "2": [
+      "Biología General",
+      "Química General II",
+      "Cálculo Integral",
+      "Introducción a la Economía",
+      "Ser y Cosmos",
+      "Inglés Nivel 3",
+      "Inglés Nivel 4"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Herramientas de Ingeniería Ambiental I",
+      "Física para Ingeniería I",
+      "Probabilidad y Estadística",
+      "Arte",
+      "Inglés Nivel 5",
+      "Inglés Nivel 6"
+    ],
+    "4": [
+      "Herramientas de Ingeniería Ambiental II",
+      "Ecología General",
+      "SIG y Sensores Remotos",
+      "Física para Ingeniería II",
+      "Ciencias Sociales"
+    ],
+    "5": [
+      "Deportes",
+      "Calidad del Aire",
+      "Emprendimiento",
+      "Ingeniería del Flujo",
+      "Seguridad, Salud y Ambiente",
+      "Aprendizaje y Servicio PASEC"
+    ],
+    "6": [
+      "Cultura Gastronómica",
+      "Caracterización Ambiental",
+      "Environmental Chemistry",
+      "Contaminación Industrial",
+      "Transporte de Contaminantes",
+      "Electiva Libre 1"
+    ],
+    "7": [
+      "Biorremediación",
+      "Climate Change and Society",
+      "Meteorology",
+      "Wastewater Treatment I",
+      "Humanidades"
+    ],
+    "8": [
+      "Atmospheric Monitoring",
+      "Modelado Ambiental",
+      "Renewable Energy",
+      "Waste Management",
+      "Wastewater Treatment II"
+    ],
+    "9": [
+      "Coloquios",
+      "Environmental Impact and Sustainability",
+      "Electiva Libre 2",
+      "Optativa INA",
+      "Proyecto Integrador INA"
+    ]
+  }
+},
+{
+  "universidad": "USFQ",
+  "carrera": "Ingeniería Electrónica y Automatización",
+  "malla_curricular": {
+    "1": [
+      "Escritura Académica",
+      "Cálculo Diferencial",
+      "Taller de Ingeniería Electrónica",
+      "Química General I",
+      "Autoconocimiento",
+      "Inglés Nivel 1",
+      "Inglés Nivel 2"
+    ],
+    "2": [
+      "Cálculo Integral",
+      "Introducción a la Economía",
+      "Álgebra Lineal",
+      "Cosmos",
+      "Humanidades",
+      "Inglés Nivel 3",
+      "Inglés Nivel 4"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Física para Ingeniería I",
+      "Ser y Cosmos",
+      "Cálculo Vectorial",
+      "Arte",
+      "Inglés Nivel 5",
+      "Inglés Nivel 6"
+    ],
+    "4": [
+      "Programación en C++",
+      "Teoría Electromagnética",
+      "Física para Ingeniería II",
+      "Aprendizaje y Servicio PASEC",
+      "Señales y Sistemas"
+    ],
+    "5": [
+      "Circuitos Eléctricos",
+      "Emprendimiento",
+      "Física de Semiconductores",
+      "Procesos Aleatorios y Estadística",
+      "Ciencias Sociales"
+    ],
+    "6": [
+      "Cultura Gastronómica",
+      "Teoría de Comunicaciones",
+      "Ondas Electromagnéticas",
+      "Electrónica I",
+      "Semiconductores",
+      "Electiva Libre 1"
+    ],
+    "7": [
+      "Procesamiento de Señales Digitales",
+      "Instalaciones Eléctricas",
+      "Electrónica II",
+      "Control de Procesos",
+      "Optativa 1"
+    ],
+    "8": [
+      "Deportes",
+      "Sistemas de Comunicaciones",
+      "Sistemas Digitales",
+      "Automatismos Industriales",
+      "Electrónica de Potencia",
+      "Electiva Libre 2"
+    ],
+    "9": [
+      "Coloquios",
+      "Circuitos Integrados",
+      "Sistemas Programables",
+      "Optativa 2",
+      "Proyecto Integrador"
+    ]
+  }
+},
+{
+  "universidad": "USFQ",
+  "carrera": "Ingeniería Industrial",
+  "malla_curricular": {
+    "1": [
+      "Cálculo Diferencial",
+      "Química General I",
+      "Taller de Ingeniería Industrial",
+      "Introducción a la Economía",
+      "Autoconocimiento",
+      "Inglés Nivel 1",
+      "Inglés Nivel 2"
+    ],
+    "2": [
+      "Escritura Académica",
+      "Cálculo Integral",
+      "Álgebra Lineal",
+      "Programación en Python",
+      "Cosmos",
+      "Inglés Nivel 3",
+      "Inglés Nivel 4"
+    ],
+    "3": [
+      "Física para Ingeniería I",
+      "Probabilidad y Estadística",
+      "Ser y Cosmos",
+      "Cálculo Vectorial",
+      "Humanidades",
+      "Inglés Nivel 5",
+      "Inglés Nivel 6"
+    ],
+    "4": [
+      "Modelos Estadísticos Avanzados",
+      "Gestión y Manejo de Datos",
+      "Modelos de Optimización",
+      "Gestión por Procesos",
+      "Arte"
+    ],
+    "5": [
+      "Deportes",
+      "Optimización Avanzada",
+      "Diseño de Experimentos",
+      "Pronósticos e Inventarios",
+      "Física para Ingeniería II",
+      "Ciencias Sociales"
+    ],
+    "6": [
+      "Cultura Gastronómica",
+      "AI for Business",
+      "Emprendimiento",
+      "Ergonomía",
+      "Logística y Diseño de Plantas",
+      "Aprendizaje y Servicio PASEC"
+    ],
+    "7": [
+      "Tecnologías Digitales",
+      "Factores Humanos",
+      "Simulación de Procesos",
+      "Electiva Libre 1",
+      "Optativa 1"
+    ],
+    "8": [
+      "Sistemas Lean",
+      "Diseño de Nuevos Productos",
+      "Gestión de Proyectos",
+      "Ingeniería de la Calidad",
+      "Electiva Libre 2"
+    ],
+    "9": [
+      "Coloquios",
+      "Gerencia Empresarial",
+      "Optativa 2",
+      "Optativa 3",
+      "Proyecto Integrador"
+    ]
+  }
+},
+{
+  "universidad": "USFQ",
+  "carrera": "Ingeniería Mecánica",
+  "malla_curricular": {
+    "1": [
+      "Cálculo Diferencial",
+      "Introducción a la Ingeniería Mecánica",
+      "Introducción a la Economía",
+      "Autoconocimiento",
+      "Cosmos",
+      "Inglés Nivel 1",
+      "Inglés Nivel 2"
+    ],
+    "2": [
+      "Escritura Académica",
+      "Química General I",
+      "Cálculo Integral",
+      "Ser y Cosmos",
+      "Arte",
+      "Inglés Nivel 3",
+      "Inglés Nivel 4"
+    ],
+    "3": [
+      "Mecánica Computacional",
+      "Ecuaciones Diferenciales",
+      "Física para Ingeniería I",
+      "Cálculo Vectorial",
+      "Humanidades",
+      "Inglés Nivel 5",
+      "Inglés Nivel 6"
+    ],
+    "4": [
+      "Deportes",
+      "Taller Mecánico",
+      "Dibujo Mecánico y CAD-CAM",
+      "Física para Ingeniería II",
+      "Aprendizaje y Servicio PASEC",
+      "Electiva Libre 1"
+    ],
+    "5": [
+      "Cultura Gastronómica",
+      "Electrónica Básica",
+      "Emprendimiento",
+      "Ciencia e Ingeniería de Materiales",
+      "Estática",
+      "Termodinámica I"
+    ],
+    "6": [
+      "Dinámica y Vibraciones",
+      "Métodos Numéricos",
+      "Mecánica de Materiales",
+      "Termodinámica II",
+      "Ciencias Sociales"
+    ],
+    "7": [
+      "Mecánica de Fluidos",
+      "Transferencia de Calor",
+      "Procesamiento de Materiales",
+      "Diseño Mecánico",
+      "Probabilidad y Estadística"
+    ],
+    "8": [
+      "Coloquios",
+      "Elementos Finitos",
+      "Gestión de Proyectos",
+      "Dinámica de Sistemas y Control",
+      "Diseño en Manufactura o Sistemas Energéticos",
+      "Optativa 1"
+    ],
+    "9": [
+      "Automatización Industrial",
+      "Electiva Libre 2",
+      "Optativa 2",
+      "Proyecto Integrador"
+    ]
+  }
+},
+{
+  "universidad": "USFQ",
+  "carrera": "Ingeniería Química",
+  "malla_curricular": {
+    "1": [
+      "Taller de Ingeniería Química",
+      "Cálculo Diferencial",
+      "Biología General",
+      "Química General I",
+      "Autoconocimiento",
+      "Inglés Nivel 1",
+      "Inglés Nivel 2"
+    ],
+    "2": [
+      "Escritura Académica",
+      "Química General II",
+      "Cálculo Integral",
+      "Balance de Masa y Energía",
+      "Programación en Python",
+      "Inglés Nivel 3",
+      "Inglés Nivel 4"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Química Orgánica",
+      "Físico Química I",
+      "Física para Ingeniería I",
+      "Ser y Cosmos",
+      "Inglés Nivel 5",
+      "Inglés Nivel 6"
+    ],
+    "4": [
+      "Flujo de Fluidos",
+      "Álgebra Lineal",
+      "Física para Ingeniería II",
+      "Termodinámica de Procesos",
+      "Probabilidad y Estadística"
+    ],
+    "5": [
+      "Cultura Gastronómica",
+      "Química Analítica",
+      "Métodos Computacionales",
+      "Aprendizaje y Servicio PASEC",
+      "Fenómenos de Transporte",
+      "Humanidades"
+    ],
+    "6": [
+      "Deportes",
+      "Química Instrumental",
+      "Introducción a la Economía",
+      "Ingeniería de Reacciones",
+      "Operaciones Unitarias I",
+      "Ciencias Sociales"
+    ],
+    "7": [
+      "Emprendimiento",
+      "Diseño de Plantas",
+      "Control de Procesos",
+      "Operaciones Unitarias II",
+      "Optativa 1"
+    ],
+    "8": [
+      "Diseño Avanzado de Procesos",
+      "Bioingeniería I",
+      "Electiva Libre 1",
+      "Optativa 2",
+      "Optativa 3"
+    ],
+    "9": [
+      "Coloquios",
+      "Electiva Libre 2",
+      "Optativa 4",
+      "Arte",
+      "Proyecto Integrador"
+    ]
+  }
+},
+{
+  "universidad": "USFQ",
+  "carrera": "Ingeniería Civil",
+  "malla_curricular": {
+    "1": [
+      "Taller de Ingeniería Civil",
+      "Cálculo Diferencial",
+      "Química General I",
+      "Introducción a la Economía",
+      "Autoconocimiento",
+      "Inglés Nivel 1",
+      "Inglés Nivel 2"
+    ],
+    "2": [
+      "Escritura Académica",
+      "Cálculo Integral",
+      "Álgebra Lineal",
+      "Cosmos",
+      "Ser y Cosmos",
+      "Inglés Nivel 3",
+      "Inglés Nivel 4"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Física para Ingeniería I",
+      "Probabilidad y Estadística",
+      "Topografía",
+      "Humanidades",
+      "Inglés Nivel 5",
+      "Inglés Nivel 6"
+    ],
+    "4": [
+      "Deportes",
+      "Física para Ingeniería II",
+      "Diseño Vial",
+      "Aprendizaje y Servicio PASEC",
+      "Estática",
+      "Electiva Libre 1"
+    ],
+    "5": [
+      "Cultura Gastronómica",
+      "Emprendimiento",
+      "Mecánica de Fluidos",
+      "Mecánica de Materiales",
+      "Electiva Libre 2",
+      "Ciencias Sociales o Arte"
+    ],
+    "6": [
+      "Ingeniería de la Construcción",
+      "Hidráulica",
+      "Hormigón Armado I",
+      "Mecánica de Suelos",
+      "Análisis Estructural I"
+    ],
+    "7": [
+      "Cimentaciones y Muros",
+      "Ingeniería Geotécnica",
+      "Diseño de Pavimentos",
+      "Estructuras de Acero",
+      "Análisis Estructural II"
+    ],
+    "8": [
+      "Ingeniería de Costos",
+      "Ingeniería Sismo-Resistente",
+      "Hormigón Armado II",
+      "Ingeniería Sanitaria",
+      "Optativa 1"
+    ],
+    "9": [
+      "Coloquios",
+      "Análisis Computacional en Civil",
+      "Gerencia de la Construcción",
+      "Optativa 2",
+      "Proyecto Integrador"
+    ]
+  }
+},
+{
+  "universidad": "UTE",
+  "carrera": "Ingeniería Mecatrónica",
+  "malla_curricular": {
+    "1": [
+      "Álgebra Lineal y Geometría Analítica",
+      "Cálculo Diferencial",
+      "Física General",
+      "Química General e Inorgánica",
+      "Expresión Oral y Escrita"
+    ],
+    "2": [
+      "Cálculo Vectorial",
+      "Cálculo Integral",
+      "Física Superior",
+      "Fundamentos de Ciencia de Materiales",
+      "Fundamentos de Programación"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Probabilidad y Estadística",
+      "Circuitos Eléctricos I",
+      "Diseño y Modelado de Elementos Mecánicos",
+      "Programación I"
+    ],
+    "4": [
+      "Matemática Avanzada",
+      "Circuitos Eléctricos II",
+      "Seguridad y Salud Ocupacional",
+      "Mecánica de Materiales",
+      "Programación II"
+    ],
+    "5": [
+      "Métodos Numéricos",
+      "Modelado de Sistemas Dinámicos",
+      "Electrónica Analógica",
+      "Mecánica",
+      "Electrónica Digital"
+    ],
+    "6": [
+      "Metodologías de Diseño Mecatrónico",
+      "Ingeniería de Control",
+      "Control de Actuadores Eléctricos",
+      "Hardware Embebido",
+      "Instrumentación"
+    ],
+    "7": [
+      "Sistemas Embebidos de Control Automático",
+      "Proyectos de Ingeniería Mecatrónica",
+      "Control de Actuadores Neumáticos e Hidráulicos",
+      "PLC y Redes Industriales",
+      "Innovación y Emprendimiento"
+    ],
+    "8": [
+      "Diseño y Gestión de Proyectos",
+      "Procesos de Manufactura",
+      "Gestión Ambiental",
+      "Seminario de Integración Curricular",
+      "Robótica Industrial"
+    ]
+  }
+},
+{
+  "universidad": "UTE",
+  "carrera": "Ingeniería Automotriz",
+  "malla_curricular": {
+    "1": [
+      "Física General",
+      "Cálculo Diferencial",
+      "Álgebra Lineal y Geometría Analítica",
+      "Química General e Inorgánica",
+      "Expresión Oral y Escrita"
+    ],
+    "2": [
+      "Termodinámica",
+      "Cálculo Integral",
+      "Cálculo Vectorial",
+      "Ciencia de los Materiales",
+      "Fundamentos de Programación"
+    ],
+    "3": [
+      "Transferencia de Calor",
+      "Ecuaciones Diferenciales",
+      "Probabilidad y Estadística",
+      "Mecanismos",
+      "Dibujo y Modelado de Elementos Mecánicos"
+    ],
+    "4": [
+      "Motores de Combustión Interna",
+      "Mecánica de Fluidos",
+      "Electricidad Automotriz",
+      "Estática y Dinámica",
+      "Seguridad y Salud Ocupacional"
+    ],
+    "5": [
+      "Fundamentos de Combustión",
+      "Hidráulica y Neumática",
+      "Electrónica",
+      "Máquinas Herramientas",
+      "Diseño de Elementos de Máquinas"
+    ],
+    "6": [
+      "Sistemas de Inyección de Combustible",
+      "Sistemas de Transmisión de Potencia",
+      "Autotrónica",
+      "Sistemas de Mantenimiento Automotriz",
+      "Sistemas Automotrices I"
+    ],
+    "7": [
+      "Maquinaria Pesada",
+      "Sistemas Automotrices II",
+      "Problemas Contemporáneos",
+      "Innovación y Emprendimiento",
+      "Preparación de Motores"
+    ],
+    "8": [
+      "Ingeniería de Vehículos",
+      "Gestión Ambiental",
+      "Diseño y Gestión de Proyectos",
+      "Vehículos Híbridos y Eléctricos",
+      "Seminario de Integración Curricular"
+    ]
+  }
+},
+{
+  "universidad": "UTE",
+  "carrera": "Ingeniería Civil",
+  "malla_curricular": {
+    "1": [
+      "Análisis Formal",
+      "Análisis Empírico",
+      "Sistemas Complejos",
+      "Comunicación Multimodal",
+      "Dibujo Técnico y Geometría Descriptiva"
+    ],
+    "2": [
+      "Análisis Matemático",
+      "Geometría Analítica y Trigonometría",
+      "Álgebra Lineal",
+      "Química",
+      "Tecnologías de la Construcción"
+    ],
+    "3": [
+      "Cálculo de Varias Variables",
+      "Programación y Algoritmos",
+      "Física",
+      "Bio-Química para Ingenieros",
+      "Topografía y Sistemas Viales",
+      "Prototipado"
+    ],
+    "4": [
+      "Ecuaciones Diferenciales",
+      "Métodos Numéricos",
+      "Química de Materiales",
+      "Estadística y Probabilidad",
+      "Mecánica para Ingenieros"
+    ],
+    "5": [
+      "Teoría de Sistemas y Control",
+      "Termodinámica y Transferencia de Calor",
+      "Mecánica de Sólidos",
+      "Mecánica de Suelos",
+      "Mecánica de Fluidos"
+    ],
+    "6": [
+      "Análisis de Sistemas Estructurales",
+      "Diseño Estructural I",
+      "Captación y Conducción de Agua",
+      "Itinerario Asignatura 1",
+      "Diseño para el Ambiente y Evaluación de Impactos Ambientales"
+    ],
+    "7": [
+      "Diseño Estructural II",
+      "Abastecimiento de Agua",
+      "Itinerario Asignatura 2",
+      "Gestión de Proyectos Sostenibles",
+      "Mecánica Computacional"
+    ],
+    "8": [
+      "Taller de Proyectos Estructurales",
+      "Taller de Integración Curricular",
+      "Taller de Proyecto de Itinerario",
+      "Diseño Sismorresistente",
+      "Seminarios del Estado del Arte en la Profesión"
+    ]
+  }
+},
+{
+  "universidad": "UTE",
+  "carrera": "Ingeniería en Alimentos",
+  "malla_curricular": {
+    "1": [
+      "Física General",
+      "Química General e Inorgánica",
+      "Álgebra Lineal y Geometría Analítica",
+      "Cálculo Diferencial",
+      "Expresión Oral y Escrita"
+    ],
+    "2": [
+      "Termodinámica",
+      "Química Orgánica",
+      "Cálculo Vectorial",
+      "Cálculo Integral",
+      "Introducción a la Programación"
+    ],
+    "3": [
+      "Balance de Masa y Energía",
+      "Química y Bioquímica de Alimentos",
+      "Microbiología General",
+      "Probabilidad y Estadística",
+      "Ecuaciones Diferenciales"
+    ],
+    "4": [
+      "Operaciones Unitarias",
+      "Análisis de Alimentos",
+      "Microbiología de Alimentos",
+      "Normalización y Aseguramiento de la Calidad",
+      "Seguridad y Salud Ocupacional"
+    ],
+    "5": [
+      "Diseño y Organización de Plantas Industriales",
+      "Nutrición Humana",
+      "Biotecnología Alimentaria",
+      "Costos Industriales",
+      "Procesamiento de Alimentos de Origen Vegetal"
+    ],
+    "6": [
+      "Ingeniería de Métodos",
+      "Diseño Experimental",
+      "Procesamiento de Alimentos de Origen Animal",
+      "Envases y Embalajes",
+      "Procesamiento de Otros Productos Alimenticios"
+    ],
+    "7": [
+      "Innovación y Emprendimiento",
+      "Procesamiento de Oleaginosas",
+      "Ingeniería de la Producción",
+      "Problemas Contemporáneos",
+      "Logística y Cadena de Suministro"
+    ],
+    "8": [
+      "Diseño y Gestión de Proyectos",
+      "Gestión Ambiental",
+      "Seguridad Alimentaria",
+      "Seminario de Integración Curricular",
+      "Desarrollo de Nuevos Productos"
+    ]
+  }
+},
+{
+  "universidad": "UTE",
+  "carrera": "Ingeniería Industrial",
+  "malla_curricular": {
+    "1": [
+      "Química General e Inorgánica",
+      "Física General",
+      "Expresión Oral y Escrita",
+      "Álgebra Lineal y Geometría Analítica",
+      "Cálculo Diferencial"
+    ],
+    "2": [
+      "Química Orgánica",
+      "Termodinámica",
+      "Cálculo Vectorial",
+      "Cálculo Integral"
+    ],
+    "3": [
+      "Tecnología de Materiales",
+      "Balance de Masa y Energía",
+      "Electricidad y Electrónica Industrial",
+      "Probabilidad y Estadística",
+      "Ecuaciones Diferenciales"
+    ],
+    "4": [
+      "Máquinas Herramientas",
+      "Operaciones Industriales",
+      "Control Automático",
+      "Normalización y Aseguramiento de Calidad",
+      "Seguridad e Higiene del Trabajo"
+    ],
+    "5": [
+      "Mantenimiento Industrial",
+      "Investigación Operativa",
+      "Diseño Industrial",
+      "Ergonomía",
+      "Sistemas de Gestión de Calidad"
+    ],
+    "6": [
+      "Costos Industriales",
+      "Logística y Cadena de Suministro",
+      "Ingeniería de la Producción",
+      "Ingeniería de Métodos",
+      "Gestión por Procesos"
+    ],
+    "7": [
+      "Problemas Contemporáneos",
+      "Manufactura y Sistemas de Información",
+      "Diseño y Organización de Plantas Industriales",
+      "Gestión del Servicio",
+      "Innovación y Emprendimiento"
+    ],
+    "8": [
+      "Gestión de Operaciones",
+      "Seminario de Integración Curricular",
+      "Gestión Ambiental",
+      "Diseño y Gestión de Proyectos",
+      "Simulación Industrial"
+    ]
+  }
+},
+{
+  "universidad": "UDLA",
+  "carrera": "Ingeniería Electrónica y Automatización",
+  "malla_curricular": {
+    "1": [
+      "Cálculo I",
+      "Algoritmos",
+      "Introducción a la Automatización",
+      "Arte, Expresión Humana y Comunidad",
+      "Lenguaje y Comunicación Digital"
+    ],
+    "2": [
+      "Cálculo II",
+      "Álgebra Lineal",
+      "Física General",
+      "Programación I",
+      "Tecnología Eléctrica"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Estadística para Ingenieros",
+      "Teoría de Circuitos",
+      "Programación II",
+      "Investigación y Textos Académicos"
+    ],
+    "4": [
+      "Teoría Electromagnética",
+      "Electrónica Digital",
+      "Electrónica Analógica",
+      "Software de Simulación",
+      "Análisis de Circuitos Eléctricos",
+      "Economía, Ethos y Sociedad"
+    ],
+    "5": [
+      "Matemática Aplicada para Ingeniería",
+      "Análisis de Señales y Sistemas",
+      "Electrónica de Potencia",
+      "Máquinas Eléctricas",
+      "Seminario de Especialización"
+    ],
+    "6": [
+      "Instrumentación Electrónica",
+      "Sistemas de Control Automático",
+      "Administración Financiera",
+      "Microcontroladores",
+      "Instalaciones Eléctricas y de Cableado Estructurado"
+    ],
+    "7": [
+      "Instrumentación Industrial",
+      "Sistemas de Control Discreto",
+      "Conversores Estáticos",
+      "Mandos Neumáticos",
+      "Control Electrónico Industrial",
+      "Certificación Profesional"
+    ],
+    "8": [
+      "Redes Industriales",
+      "Control Digital Avanzado",
+      "Instalaciones Eléctricas Industriales",
+      "Smart Grids",
+      "Industria 4.0",
+      "Gestión de Proyectos de Automatización"
+    ],
+    "9": [
+      "Sistemas SCADA",
+      "Prácticas Preprofesionales",
+      "Control Embebido",
+      "Robótica Industrial",
+      "Proyecto de Automatización Industrial"
+    ]
+  }
+},
+{
+  "universidad": "UDLA",
+  "carrera": "Ingeniería Agroindustrial",
+  "malla_curricular": {
+    "1": [
+      "Química General",
+      "Cálculo I",
+      "Introducción a la Ingeniería Agroindustrial",
+      "Aprendizaje Estratégico y Liderazgo",
+      "Comunicación Efectiva"
+    ],
+    "2": [
+      "Química Orgánica",
+      "Biología General",
+      "Cálculo II",
+      "Pensamiento Crítico Aplicado",
+      "Interacción Efectiva en Sistemas Sociales"
+    ],
+    "3": [
+      "Bioquímica",
+      "Física General",
+      "Botánica y Fisiología Vegetal",
+      "Ecuaciones Diferenciales",
+      "Microbiología General"
+    ],
+    "4": [
+      "Termodinámica",
+      "Estadística para Ingenieros",
+      "Química de Alimentos",
+      "Producción Vegetal",
+      "Microbiología de Alimentos"
+    ],
+    "5": [
+      "Balance de Masa y Fenómenos de Transporte",
+      "Producción Animal",
+      "Poscosecha y Conservación",
+      "Inocuidad de Alimentos",
+      "Laboratorio de Alimentos y Sustancias Orgánicas"
+    ],
+    "6": [
+      "Operaciones Unitarias",
+      "Maquinaria y Construcción Agroindustrial",
+      "Gestión por Procesos",
+      "Diseño y Desarrollo de Productos Agroindustriales",
+      "Tecnología de Productos No Alimentarios",
+      "Contabilidad de Costos Agroindustriales"
+    ],
+    "7": [
+      "Investigación Operativa y Simulación de Procesos",
+      "Industria de Frutas y Hortalizas",
+      "Industria de Lácteos",
+      "Agronegocios y Comercio Internacional",
+      "Modelos de Investigación y Diseño de Experimentos"
+    ],
+    "8": [
+      "Normativa Internacional y Asuntos Regulatorios",
+      "Industria de Cereales y Oleaginosas",
+      "Electiva Administración de Operaciones I",
+      "Industria de Cárnicos",
+      "Sistemas de Gestión de Calidad",
+      "Gestión de Proyectos Agroindustriales"
+    ],
+    "9": [
+      "Seguridad Alimentaria y Nutricional",
+      "Diseño de Planta y Seguridad Industrial",
+      "Administración de Operaciones II",
+      "Prácticas Preprofesionales",
+      "Proyecto de Bioingeniería de Alimentos",
+      "Proyecto Agroindustria"
+    ]
+  }
+},
+{
+  "universidad": "UDLA",
+  "carrera": "Ingeniería Ambiental",
+  "malla_curricular": {
+    "1": [
+      "Cálculo I",
+      "Química General",
+      "Introducción a la Ingeniería Ambiental",
+      "Aprendizaje Estratégico y Liderazgo",
+      "Comunicación Efectiva"
+    ],
+    "2": [
+      "Cálculo II",
+      "Física General",
+      "Química Orgánica",
+      "Pensamiento Crítico Aplicado",
+      "Interacción Efectiva en Sistemas Sociales"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Biología General",
+      "Operaciones de Transferencia de Masa y Energía",
+      "Bioestadística",
+      "Ecología"
+    ],
+    "4": [
+      "Procesos Termodinámicos",
+      "Laboratorio de Análisis y Monitoreo Ambiental",
+      "Captura y Procesamiento de Datos Espaciales",
+      "Contaminación Atmosférica",
+      "Gestión de Normativa Ambiental",
+      "Biodiseño Experimental"
+    ],
+    "5": [
+      "Mecánica de Fluidos Ambientales",
+      "Ecotoxicología",
+      "Análisis y Representación de Datos Espaciales"
+    ],
+    "6": [
+      "Transporte, Mezcla y Transformación en el Medio Ambiente",
+      "Diseño Hidráulico",
+      "Hidrogeología",
+      "Cambio Climático",
+      "Seguridad y Salud en el Trabajo",
+      "Sostenibilidad y Economía Circular",
+      "Gestión Integral de Residuos Sólidos",
+      "Contaminación Radiactiva"
+    ],
+    "7": [
+      "Tratamiento de Aguas Residuales",
+      "Manejo de Cuencas Hidrográficas",
+      "Gestión de Riesgos y Desastres",
+      "Emprendimiento y Negocios Ambientales",
+      "Electiva Eficiencia Energética",
+      "Remediación y Restauración Ambiental"
+    ],
+    "8": [
+      "Diseño de Plantas de Tratamiento",
+      "Planificación y Ordenamiento Territorial",
+      "Sistemas de Gestión Ambientales",
+      "Cálculo y Reducción de Huella Ambiental",
+      "Evaluación de Impactos Ambientales",
+      "Proyectos de Ingeniería Ambiental I"
+    ],
+    "9": [
+      "Modelamiento Ambiental",
+      "Agua Potable y Alcantarillado",
+      "Auditorías Ambientales",
+      "Prácticas Preprofesionales",
+      "Proyectos de Ingeniería Ambiental II"
+    ]
+  }
+},
+{
+  "universidad": "UDLA",
+  "carrera": "Ingeniería en Biotecnología",
+  "malla_curricular": {
+    "1": [
+      "Introducción a la Biotecnología",
+      "Química General",
+      "Cálculo I",
+      "Aprendizaje Estratégico y Liderazgo",
+      "Comunicación Efectiva"
+    ],
+    "2": [
+      "Biología Celular",
+      "Química Aplicada",
+      "Cálculo II",
+      "Física General",
+      "Pensamiento Crítico Aplicado",
+      "Interacción Efectiva en Sistemas Sociales"
+    ],
+    "3": [
+      "Fisiología Celular",
+      "Química Analítica",
+      "Química Orgánica",
+      "Química-Física",
+      "Ecuaciones Diferenciales",
+      "Metodología de la Investigación"
+    ],
+    "4": [
+      "Genética",
+      "Introducción a la Bioinformática",
+      "Bioquímica",
+      "Fenómenos de Transporte Aplicados a la Biotecnología",
+      "Bioestadística"
+    ],
+    "5": [
+      "Biología Molecular I",
+      "Balance de Materiales y Energía",
+      "Microbiología I",
+      "Principios de Ingeniería Metabólica",
+      "Diseño de Experimentos"
+    ],
+    "6": [
+      "Inmunología",
+      "Operaciones Unitarias Biotecnológicas",
+      "Biología Molecular II",
+      "Microbiología II",
+      "Biotecnología Enzimática"
+    ],
+    "7": [
+      "Ingeniería Genética",
+      "Biotecnología Ambiental",
+      "Bioprocesos",
+      "Bioinformática",
+      "Proyecto de Investigación Integrador"
+    ],
+    "8": [
+      "Biotecnología Biomédica",
+      "Biotecnología Animal",
+      "Modelamiento de Bioprocesos",
+      "Biotecnología Vegetal",
+      "Gestión de Proyectos de Biotecnología"
+    ],
+    "9": [
+      "Biotecnología y Emprendimiento",
+      "Calidad y Bioseguridad",
+      "Biotecnología Industrial",
+      "Prácticas Preprofesionales",
+      "Proyectos de Biotecnología"
+    ]
+  }
+},
+{
+  "universidad": "UDLA",
+  "carrera": "Ingeniería en Ciberseguridad",
+  "malla_curricular": {
+    "1": [
+      "Matemáticas Discretas I",
+      "Cálculo I",
+      "Algoritmos",
+      "Introducción a la Ingeniería en TI",
+      "Aprendizaje Estratégico y Liderazgo",
+      "Comunicación Efectiva"
+    ],
+    "2": [
+      "Física General",
+      "Cálculo II",
+      "Programación I",
+      "Pensamiento Crítico Aplicado",
+      "Interacción Efectiva en Sistemas Sociales"
+    ],
+    "3": [
+      "Estadística para Ingenieros",
+      "Álgebra Lineal",
+      "Ecuaciones Diferenciales",
+      "Programación II",
+      "Fundamentos de TI",
+      "Fundamentos de Ciberseguridad"
+    ],
+    "4": [
+      "Matemáticas Discretas II",
+      "Métodos Numéricos",
+      "Sistemas Operativos",
+      "Programación III",
+      "Administración, Innovación y Emprendimiento"
+    ],
+    "5": [
+      "Ingeniería Económica",
+      "Electiva Redes I",
+      "Base de Datos I",
+      "Informática Forense I",
+      "Sistemas IoT Seguros"
+    ],
+    "6": [
+      "Matemática Aplicada a la Computación",
+      "Redes II",
+      "Administración de Servicios de Red",
+      "Informática Forense II",
+      "Hacking Ético",
+      "Diseño de Sistemas Seguros"
+    ],
+    "7": [
+      "Sistemas Distribuidos",
+      "Criptografía y Seguridad en Redes",
+      "Ingeniería Inversa",
+      "Ciberinteligencia",
+      "Seguridad Defensiva",
+      "Seguridad Informática"
+    ],
+    "8": [
+      "Auditoría de TI",
+      "Protección de Infraestructuras Críticas",
+      "Administración de Base de Datos",
+      "Computación en la Nube",
+      "Deontología y Derecho Informático",
+      "Gestión de Proyectos de Ciberseguridad"
+    ],
+    "9": [
+      "Gestión de TI",
+      "Gestión de Incidentes de Ciberseguridad",
+      "Ciencia de Datos e Inteligencia Artificial",
+      "Prácticas Preprofesionales",
+      "Proyecto de Ciberseguridad"
+    ]
+  }
+},
+{
+  "universidad": "UDLA",
+  "carrera": "Ingeniería en Telecomunicaciones",
+  "malla_curricular": {
+    "1": [
+      "Cálculo I",
+      "Algoritmos",
+      "Introducción a las Telecomunicaciones",
+      "Arte, Expresión Humana y Comunidad",
+      "Lenguaje y Comunicación Digital"
+    ],
+    "2": [
+      "Cálculo II",
+      "Física General",
+      "Álgebra Lineal",
+      "Tecnología Eléctrica",
+      "Programación I"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Física Electromagnetostática",
+      "Estadística para Ingenieros",
+      "Teoría de Circuitos",
+      "Investigación y Textos Académicos"
+    ],
+    "4": [
+      "Teoría Electromagnética",
+      "Electrónica Analógica",
+      "Software para Sistemas de Comunicación",
+      "Electrónica Digital",
+      "Economía, Ethos y Sociedad"
+    ],
+    "5": [
+      "Matemática Aplicada para Ingeniería",
+      "Análisis de Señales y Sistemas",
+      "Líneas de Transmisión, Propagación y Antenas",
+      "Procesos Estocásticos",
+      "Hardware para Sistemas de Comunicación"
+    ],
+    "6": [
+      "Comunicación Analógica",
+      "Procesamiento Digital de Señales",
+      "Administración Financiera",
+      "Electiva Redes I",
+      "Electrónica de Alta Frecuencia"
+    ],
+    "7": [
+      "Comunicación y Codificación Digital",
+      "Telefonía IP",
+      "Desarrollo de Aplicaciones para Dispositivos Móviles",
+      "Inteligencia Artificial Aplicada a Telecomunicaciones",
+      "Comunicaciones Inalámbricas",
+      "Redes II"
+    ],
+    "8": [
+      "Comunicaciones Ópticas",
+      "Comunicaciones Espaciales y Satelitales",
+      "Telemática y Certificación de Redes",
+      "Redes Celulares",
+      "Gestión de Proyectos de Telecomunicaciones"
+    ],
+    "9": [
+      "Radios Definidos por Software",
+      "Radio y Televisión Digital",
+      "Marco Regulatorio de las Telecomunicaciones",
+      "Seguridad, Criptografía y Big Data para Telecomunicaciones",
+      "Prácticas Preprofesionales",
+      "Proyecto de Telecomunicaciones"
+    ]
+  }
+},
+{
+  "universidad": "UDLA",
+  "carrera": "Ingeniería Industrial",
+  "malla_curricular": {
+    "1": [
+      "Química General",
+      "Cálculo I",
+      "Introducción a la Ingeniería Industrial",
+      "Aprendizaje Estratégico y Liderazgo",
+      "Comunicación Efectiva"
+    ],
+    "2": [
+      "Física General",
+      "Cálculo II",
+      "Dibujo Asistido por Computador",
+      "Pensamiento Crítico Aplicado",
+      "Interacción Efectiva en Sistemas Sociales"
+    ],
+    "3": [
+      "Ecuaciones Diferenciales",
+      "Álgebra Lineal",
+      "Tecnología de los Materiales",
+      "Termodinámica",
+      "Estudio del Trabajo y Productividad",
+      "Estadística para Ingenieros"
+    ],
+    "4": [
+      "Investigación Operativa",
+      "Gestión por Procesos",
+      "Sistemas de Medición",
+      "Contabilidad y Costos Industriales",
+      "Mecánica para Ingenieros",
+      "Electrónica y Electricidad Industrial"
+    ],
+    "5": [
+      "Programación y Gestión de Datos",
+      "Diseño de Experimentos",
+      "Máquinas Industriales"
+    ],
+    "6": [
+      "Control Estadístico de Procesos",
+      "Analítica de Datos e Inteligencia de Mercados en la Industria",
+      "Diseño de Prototipos",
+      "Ingeniería Económica",
+      "Optimización Lean",
+      "Gestión de la Calidad",
+      "Seguridad y Salud en el Trabajo",
+      "Administración de Operaciones",
+      "Electiva Simulación de Procesos"
+    ],
+    "7": [
+      "Producción Sostenible y Eficiencia Energética",
+      "Emprendimiento",
+      "Automatización Industrial y Robótica",
+      "Ergonomía",
+      "Electiva Gestión de la Cadena de Abastecimientos"
+    ],
+    "8": [
+      "Gerencia de Servicios",
+      "Dirección Organizacional",
+      "Gestión de Mantenimiento Industrial",
+      "Logística y Transporte",
+      "Mejora Continua"
+    ],
+    "9": [
+      "Seminario de Innovación y Tecnología",
+      "Habilidades Gerenciales",
+      "Diseño de Plantas Industriales",
+      "Sistemas de Información Gerencial",
+      "Prácticas Preprofesionales",
+      "Proyectos Industriales"
+    ]
+  }
+},
+{
+  "universidad": "UDLA",
+  "carrera": "Ingeniería de Software",
+  "malla_curricular": {
+    "1": [
+      "Matemáticas Discretas I",
+      "Cálculo I",
+      "Algoritmos",
+      "Introducción a la Ingeniería de Software",
+      "Lenguaje y Comunicación Digital"
+    ],
+    "2": [
+      "Álgebra Lineal",
+      "Cálculo II",
+      "Física General",
+      "Programación I",
+      "Investigación y Textos Académicos"
+    ],
+    "3": [
+      "Estadística para Ingenieros",
+      "Ecuaciones Diferenciales",
+      "Interacción Hombre-Computador",
+      "Programación II",
+      "Fundamentos de TI",
+      "Ciudadanía, Cultura e Historia"
+    ],
+    "4": [
+      "Matemáticas Discretas II",
+      "Métodos Numéricos",
+      "Ingeniería de Requerimientos",
+      "Programación III",
+      "Sistemas Operativos",
+      "Administración, Innovación y Emprendimiento"
+    ],
+    "5": [
+      "Base de Datos I",
+      "Modelado de Software",
+      "Redes I",
+      "Programación IV",
+      "Computación Ubicua"
+    ],
+    "6": [
+      "Base de Datos II",
+      "Diseño y Arquitectura de Software",
+      "Desarrollo de Videojuegos",
+      "Seguridad Informática",
+      "Ingeniería Económica para Software",
+      "Negocios Electrónicos y Marketing Digital",
+      "Modelos y Simulación"
+    ],
+    "7": [
+      "Análisis y Visualización de Datos",
+      "Ingeniería Web",
+      "Metodología de Desarrollo de Software",
+      "Gestión de TI",
+      "Aplicaciones Distribuidas"
+    ],
+    "8": [
+      "Desarrollo de Software Seguro",
+      "Validación y Verificación de Software",
+      "Calidad de Software",
+      "Gestión de Proyectos de Software",
+      "Inteligencia Artificial I"
+    ],
+    "9": [
+      "Integración de Sistemas",
+      "Procesos de Software",
+      "Prácticas Preprofesionales",
+      "Proyecto de Software",
+      "Inteligencia Artificial II"
+    ]
+  }
+},
+{
+  "universidad": "UDLA",
+  "carrera": "Ingeniería en Sonido y Acústica",
+  "malla_curricular": {
+    "1": [
+      "Introducción a la Acústica",
+      "Historia de la Ciencia Musical",
+      "Cálculo I",
+      "Software de Audio Digital",
+      "Lenguaje y Comunicación Digital"
+    ],
+    "2": [
+      "Física General",
+      "Álgebra Lineal",
+      "Cálculo II",
+      "Lenguaje y Entrenamiento Auditivo Musical I",
+      "Investigación y Textos Académicos"
+    ],
+    "3": [
+      "Física de Ondas y Señales",
+      "EDO y Fourier para Ondas y Señales",
+      "Análisis de Circuitos",
+      "Programación",
+      "Estadística y Probabilidades",
+      "Lenguaje y Entrenamiento Auditivo Musical II"
+    ],
+    "4": [
+      "Circuitos Analógicos",
+      "Metrología e Instrumentación Acústica",
+      "Electroacústica I",
+      "Introducción a la Armonía Contemporánea",
+      "Fundamentos de Acústica"
+    ],
+    "5": [
+      "Circuitos Digitales",
+      "Acústica Arquitectónica",
+      "Electroacústica II",
+      "Fundamentos de Vibración",
+      "Economía, Ethos y Sociedad"
+    ],
+    "6": [
+      "Audio Digital",
+      "Aislamiento Acústico",
+      "Diseño Acústico de Recintos",
+      "Síntesis de Audio",
+      "Control de Vibraciones"
+    ],
+    "7": [
+      "Tratamiento Digital de Señales",
+      "Control de Ruido",
+      "Sonorización",
+      "Cajas Acústicas",
+      "Audio para Medios Audiovisuales I",
+      "Arte, Expresión Humana y Comunidad"
+    ],
+    "8": [
+      "Sostenibilidad y Calidad Ambiental en la Edificación",
+      "Refuerzo Sonoro",
+      "Simulación de Sistemas Acústicos",
+      "Técnicas de Grabación y Mezcla Musical",
+      "Audio para Medios Audiovisuales II",
+      "Acústica Ambiental (Integración)"
+    ],
+    "9": [
+      "Laboratorio de Mediciones",
+      "Sistemas Sonoro Interactivos",
+      "Producción Musical",
+      "Prácticas Preprofesionales",
+      "Gestión de Proyectos Acústicos y de Sonido (Integración)"
+    ]
+  }
+}
+]
+
