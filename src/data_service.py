@@ -137,6 +137,7 @@ class UniversityDataService:
             'total_careers': 0,
             'total_subjects': 0,
             'subjects_per_university': {},
+            'careers_per_university': {},
             'subjects_per_career': {},
             'common_subjects': []
         }
@@ -148,6 +149,7 @@ class UniversityDataService:
         for university in universities:
             careers = self.get_careers_by_university(university)
             stats['subjects_per_university'][university] = 0
+            stats['careers_per_university'][university] = len(careers)
             
             for career_data in careers:
                 career = career_data.get('carrera', '')

@@ -74,25 +74,10 @@ def main():
     st.caption("Desarrollado para UDLA - Universidad de Las Américas | 2023")
 
 def show_general_summary(data_service):
-    """Muestra el resumen general de universidades y carreras"""
-    st.subheader("📊 Resumen General")
     
     with st.spinner("Cargando estadísticas..."):
         stats = data_service.get_subject_statistics()
         display_university_stats(stats)
-    
-    # Explicación del explorador
-    st.subheader("📋 Cómo usar el explorador")
-    st.markdown("""
-    Para explorar en detalle las carreras y sus mallas curriculares:
-    1. Navega a la sección "Explorar Universidad y Carrera" desde el menú lateral
-    2. Selecciona una universidad de la lista
-    3. Elige una carrera de esa universidad
-    4. Explora la malla curricular por semestres
-    
-    Para buscar materias específicas:
-    - Usa la página "Explorador de Materias" desde el menú lateral
-    """)
 
 def show_university_explorer(data_service):
     """Muestra el explorador de universidades y carreras"""

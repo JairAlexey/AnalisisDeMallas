@@ -10,8 +10,7 @@ def display_header():
     """Muestra el encabezado de la aplicación"""
     st.title("🎓 Explorador de Carreras Universitarias")
     st.markdown("""
-    Esta aplicación te permite explorar datos de universidades, carreras y mallas curriculares 
-    almacenadas en MongoDB.
+    Esta aplicación te permite explorar datos de universidades, carreras y mallas curriculares.
     """)
 
 def display_university_selector(universities: List[str]) -> str:
@@ -113,17 +112,17 @@ def display_university_stats(university_stats: Dict[str, Any]):
     with col3:
         st.metric("Materias Totales", university_stats.get('total_subjects', 0))
     
-    # Gráfico de materias por universidad
-    st.subheader("Materias por Universidad")
-    uni_subjects = university_stats.get('subjects_per_university', {})
-    if uni_subjects:
+    # Gráfico de carreras por universidad
+    st.subheader("Carreras por Universidad")
+    careers_per_uni = university_stats.get('careers_per_university', {})
+    if careers_per_uni:
         df_uni = pd.DataFrame({
-            'Universidad': list(uni_subjects.keys()),
-            'Cantidad de Materias': list(uni_subjects.values())
+            'Universidad': list(careers_per_uni.keys()),
+            'Cantidad de Carreras': list(careers_per_uni.values())
         })
-        fig = px.bar(df_uni, x='Universidad', y='Cantidad de Materias',
-                    title='Cantidad de Materias por Universidad',
-                    color='Cantidad de Materias')
+        fig = px.bar(df_uni, x='Universidad', y='Cantidad de Carreras',
+                    title='Cantidad de Carreras por Universidad',
+                    color='Cantidad de Carreras')
         st.plotly_chart(fig, use_container_width=True)
     
     # Mostrar materias más comunes
