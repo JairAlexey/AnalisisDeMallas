@@ -198,6 +198,47 @@ pip install -r requirements_minimal.txt
 ls data/universidades.json
 ```
 
+# Instrucciones para Gestión de Datos en MongoDB
+
+## Reiniciar y volver a cargar todos los datos
+
+Para eliminar todos los documentos existentes y volver a cargar todos los datos desde los archivos JSON:
+
+1. Asegúrate de que MongoDB está en ejecución
+2. Abre una terminal en el directorio del proyecto
+3. Ejecuta el siguiente comando:
+
+```bash
+python reset_and_migrate.py
+```
+
+4. Se te pedirá confirmación antes de eliminar todos los datos. Escribe `s` para confirmar.
+5. El script eliminará todos los documentos existentes y cargará nuevamente todos los archivos JSON
+
+## Actualizar datos específicos
+
+Si solo necesitas actualizar un archivo JSON específico:
+
+```bash
+python update_mongodb_record.py ruta/al/archivo.json
+```
+
+## Actualizar archivos modificados recientemente
+
+Para actualizar solo los archivos que han cambiado en las últimas 24 horas:
+
+```bash
+python batch_update_mongodb.py --hours 24
+```
+
+## Explorar los datos en MongoDB
+
+Para explorar los datos cargados:
+
+```bash
+python ejemplo_uso_mongodb.py
+```
+
 ## 📈 Métricas y Rendimiento
 
 ### Capacidades del Sistema
