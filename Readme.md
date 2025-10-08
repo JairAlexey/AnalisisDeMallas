@@ -22,10 +22,7 @@ Una aplicación web inteligente construida con Streamlit que utiliza técnicas d
 
 ```
 ModeloML/
-├── app_final.py               # ✅ Aplicación principal (RECOMENDADA)
-├── app_simple.py              # Versión simplificada
 ├── app.py                     # Versión con funcionalidades avanzadas
-├── requirements_minimal.txt   # ✅ Dependencias mínimas (USAR ESTA)
 ├── requirements.txt           # Dependencias completas
 ├── data/
 │   └── universidades.json    # Dataset de mallas curriculares
@@ -34,8 +31,6 @@ ModeloML/
 │   ├── data_explorer.py       # Herramientas de exploración de datos
 │   └── utils.py               # Utilidades y funciones auxiliares
 ├── output/                    # Directorio para resultados generados
-├── start.bat                  # Script de inicio para Windows
-└── start.sh                   # Script de inicio para Linux/Mac
 ```
 
 ## 🚀 Instalación y Configuración
@@ -46,33 +41,11 @@ ModeloML/
 
 ### Pasos de Instalación Rápida
 
-#### Opción 1: Uso Automático (Recomendado)
-```bash
-# En Windows:
-.\start.bat
-
-# En Linux/Mac:
-chmod +x start.sh
-./start.sh
-```
-
-#### Opción 2: Instalación Manual
-```bash
-# 1. Navegar al directorio del proyecto
-cd ModeloML
-
-# 2. Instalar dependencias mínimas
-pip install -r requirements_minimal.txt
-
-# 3. Ejecutar la aplicación
-streamlit run app_final.py
-```
-
 ## 🎮 Uso de la Aplicación
 
 ### Aplicación Principal (Recomendada)
 ```bash
-streamlit run app_final.py
+streamlit run app.py
 ```
 
 ### Explorador de Datos
@@ -80,9 +53,6 @@ streamlit run app_final.py
 streamlit run src/data_explorer.py
 ```
 
-### Versión Simplificada
-```bash
-streamlit run app_simple.py
 ```
 
 La aplicación se abrirá automáticamente en tu navegador en `http://localhost:8501` o `http://localhost:8502`
@@ -201,7 +171,6 @@ Visualización (Streamlit Charts)
 
 ### Próximas Funcionalidades
 - [ ] Análisis predictivo de empleabilidad
-- [ ] Integración con APIs de universidades
 - [ ] Exportación a múltiples formatos (PDF, Excel)
 - [ ] Sistema de recomendaciones de carreras
 - [ ] API REST para integración externa
