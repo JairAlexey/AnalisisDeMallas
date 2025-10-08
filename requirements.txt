@@ -1,25 +1,25 @@
+# Bibliotecas principales
 streamlit
 pandas
 numpy
-scikit-learn
-nltk
-sentence-transformers
 plotly
-wordcloud
-seaborn
-matplotlib
-fuzzywuzzy
-python-levenshtein
 pymongo
 python-dotenv
 tqdm
+
+# Bibliotecas para procesamiento de datos
 requests
-ipywidgets
 pillow
-openpyxl
-networkx
+
+# Utilidades
 joblib
-scipy
+
+# Estas bibliotecas son opcionales y pueden instalarse si se necesitan funcionalidades específicas
+# Descomentar según sea necesario:
+# scikit-learn  # Para análisis de ML avanzado
+# nltk  # Para procesamiento de lenguaje natural
+# sentence-transformers  # Para vectorización semántica
+# scipy  # Para cálculos científicos avanzados
 spacy
 beautifulsoup4
 langchain
