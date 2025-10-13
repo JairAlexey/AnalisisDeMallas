@@ -1,11 +1,12 @@
 import os
 import json
 from typing import Dict, List, Any, Optional, Union
-from pymongo import MongoClient
+from pymongo import MongoClient, errors
 from pymongo.collection import Collection
 from pymongo.database import Database
 from dotenv import load_dotenv
 import logging
+import time
 
 # Configurar logging
 logging.basicConfig(
@@ -24,9 +25,13 @@ class MongoDBConnector:
         # Configuración MongoDB
         self.host = os.getenv("MONGODB_HOST", "localhost")
         self.port = int(os.getenv("MONGODB_PORT", "27017"))
-        self.db_name = os.getenv("MONGODB_DB", "carreras_universitarias")
+        self.db_name = os.getenv("MONGODB_DB", "carreras_universitarias")  # Nombre corregido
         self.collection_name = os.getenv("MONGODB_COLLECTION", "mallas_curriculares")
         self.use_auth = os.getenv("MONGODB_USE_AUTH", "false").lower() == "true"
+        
+        # Configuración de conexión
+        self.max_retries = 3
+        self.retry_delay = 2  # segundos
         
         # Inicializar como None
         self.client = None
@@ -35,38 +40,53 @@ class MongoDBConnector:
     
     def connect(self) -> bool:
         """
-        Establece conexión con MongoDB
+        Establece conexión con MongoDB con reintentos
         
         Returns:
             bool: True si la conexión es exitosa, False en caso contrario
         """
-        try:
-            # Construir string de conexión
-            if self.use_auth:
-                username = os.getenv("MONGODB_USERNAME")
-                password = os.getenv("MONGODB_PASSWORD")
-                connection_string = f"mongodb://{username}:{password}@{self.host}:{self.port}/"
-            else:
-                connection_string = f"mongodb://{self.host}:{self.port}/"
+        retries = 0
+        while retries < self.max_retries:
+            try:
+                # Construir string de conexión
+                if self.use_auth:
+                    username = os.getenv("MONGODB_USERNAME")
+                    password = os.getenv("MONGODB_PASSWORD")
+                    connection_string = f"mongodb://{username}:{password}@{self.host}:{self.port}/"
+                else:
+                    connection_string = f"mongodb://{self.host}:{self.port}/"
+                
+                # Conectar a MongoDB con timeout
+                self.client = MongoClient(connection_string, serverSelectionTimeoutMS=5000)
+                
+                # Verificar la conexión - hacemos una consulta real para confirmar
+                self.client.admin.command('ping')
+                
+                # Seleccionar base de datos y colección
+                self.db = self.client[self.db_name]
+                self.collection = self.db[self.collection_name]
+                
+                # Verificar que podemos acceder a la colección
+                # Intentar hacer una consulta simple
+                self.collection.find_one({}, {"_id": 1})
+                
+                logging.info(f"Conexión exitosa a MongoDB en {self.host}:{self.port}")
+                logging.info(f"Base de datos: {self.db_name}, Colección: {self.collection_name}")
+                
+                return True
             
-            # Conectar a MongoDB
-            self.client = MongoClient(connection_string)
-            
-            # Verificar la conexión
-            self.client.admin.command('ping')
-            
-            # Seleccionar base de datos y colección
-            self.db = self.client[self.db_name]
-            self.collection = self.db[self.collection_name]
-            
-            logging.info(f"Conexión exitosa a MongoDB en {self.host}:{self.port}")
-            logging.info(f"Base de datos: {self.db_name}, Colección: {self.collection_name}")
-            
-            return True
+            except errors.ServerSelectionTimeoutError as e:
+                retries += 1
+                logging.warning(f"Timeout al conectar a MongoDB (intento {retries}/{self.max_retries}): {e}")
+                if retries < self.max_retries:
+                    time.sleep(self.retry_delay)
+                else:
+                    logging.error(f"No se pudo conectar a MongoDB después de varios intentos: {e}")
+                    return False
         
-        except Exception as e:
-            logging.error(f"Error al conectar con MongoDB: {e}")
-            return False
+            except Exception as e:
+                logging.error(f"Error al conectar con MongoDB: {e}")
+                return False
     
     def close(self) -> None:
         """Cierra la conexión con MongoDB"""
@@ -245,6 +265,25 @@ class MongoDBConnector:
             logging.error(f"Error al obtener carreras por universidad: {e}")
             return []
     
+    def get_udla_careers(self) -> List[str]:
+        """
+        Obtiene la lista de carreras disponibles de UDLA
+        
+        Returns:
+            Lista de nombres de carreras de UDLA
+        """
+        if self.collection is None:
+            logging.error("No hay conexión a MongoDB")
+            return []
+        
+        try:
+            # Obtener solo las carreras de UDLA
+            careers = self.collection.distinct("carrera", {"universidad": "UDLA"})
+            return sorted(careers)
+        except Exception as e:
+            logging.error(f"Error al obtener carreras de UDLA: {e}")
+            return []
+
     def get_curriculum_by_university_career(self, university: str, career: str) -> Optional[Dict]:
         """
         Obtiene la malla curricular de una carrera específica

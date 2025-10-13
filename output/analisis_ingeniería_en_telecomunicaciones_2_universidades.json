@@ -1,0 +1,364 @@
+{
+  "carrera_objetivo": "Ingeniería en Telecomunicaciones",
+  "universidades_analizadas": [
+    "Universidad Tecnológica Israel (UISRAEL)",
+    "Universidad de las Américas (UDLA)"
+  ],
+  "udla_base": "Ingeniería en Telecomunicaciones",
+  "analisis": {
+    "materias_fuertes": [],
+    "recomendaciones_udla": {
+      "materias_existentes": [],
+      "materias_a_agregar": []
+    }
+  },
+  "malla_recomendada_udla": {
+    "1": [
+      {
+        "nombre": "Cálculo I",
+        "descripcion": "Fundamentos del cálculo diferencial aplicados a fenómenos eléctricos y de transmisión.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 4
+      },
+      {
+        "nombre": "Algoritmos",
+        "descripcion": "Diseño y análisis de algoritmos para la resolución de problemas computacionales.",
+        "area": "programación básica",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Introducción a las Telecomunicaciones",
+        "descripcion": "Panorama general de los sistemas de telecomunicaciones, sus componentes y evolución tecnológica.",
+        "area": "telecomunicaciones",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Arte, Expresión Humana y Comunidad",
+        "descripcion": "Reflexión sobre la relación entre arte, sociedad y desarrollo humano.",
+        "area": "formación general",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      },
+      {
+        "nombre": "Lenguaje y Comunicación Digital",
+        "descripcion": "Habilidades comunicativas y pensamiento crítico aplicados al entorno digital.",
+        "area": "formación general",
+        "tipo": "formación complementaria",
+        "creditos": 4
+      }
+    ],
+    "2": [
+      {
+        "nombre": "Cálculo II",
+        "descripcion": "Aplicación del cálculo integral en el análisis de señales y sistemas eléctricos.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Física General",
+        "descripcion": "Fundamentos de mecánica, energía y electricidad aplicados a sistemas electromagnéticos.",
+        "area": "física aplicada",
+        "tipo": "básica",
+        "creditos": 4
+      },
+      {
+        "nombre": "Álgebra Lineal",
+        "descripcion": "Aplicaciones matriciales y vectoriales en procesamiento de señales y comunicación.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Tecnología Eléctrica",
+        "descripcion": "Estudio de circuitos eléctricos, mediciones y generación de corriente alterna y continua.",
+        "area": "electricidad básica",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Programación I",
+        "descripcion": "Fundamentos de programación estructurada orientada al análisis de datos y sistemas.",
+        "area": "programación básica",
+        "tipo": "profesional",
+        "creditos": 3
+      }
+    ],
+    "3": [
+      {
+        "nombre": "Ecuaciones Diferenciales",
+        "descripcion": "Modelado de sistemas eléctricos y de comunicación mediante ecuaciones diferenciales.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Física Electromagnetostática",
+        "descripcion": "Principios de campos eléctricos y magnéticos en medios conductores y aislantes.",
+        "area": "física aplicada",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Estadística para Ingenieros",
+        "descripcion": "Análisis estadístico y probabilístico para la evaluación de señales y sistemas.",
+        "area": "estadística aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Teoría de Circuitos",
+        "descripcion": "Análisis de circuitos eléctricos con componentes pasivos y activos.",
+        "area": "electrónica básica",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Investigación y Textos Académicos",
+        "descripcion": "Desarrollo de habilidades de escritura técnica y académica en ingeniería.",
+        "area": "formación metodológica",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      }
+    ],
+    "4": [
+      {
+        "nombre": "Teoría Electromagnética",
+        "descripcion": "Análisis de ondas electromagnéticas y su propagación en medios y sistemas de comunicación.",
+        "area": "electromagnetismo",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Electrónica Analógica",
+        "descripcion": "Diseño y análisis de circuitos con transistores y amplificadores operacionales.",
+        "area": "electrónica aplicada",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Software para Sistemas de Comunicación",
+        "descripcion": "Aplicación de herramientas de simulación y modelado en redes y transmisión de datos.",
+        "area": "tecnología de telecomunicaciones",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Electrónica Digital",
+        "descripcion": "Principios de sistemas digitales y lógica combinacional y secuencial.",
+        "area": "electrónica digital",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Economía, Ethos y Sociedad",
+        "descripcion": "Análisis ético y social del impacto de la ingeniería y la tecnología.",
+        "area": "formación general",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      }
+    ],
+    "5": [
+      {
+        "nombre": "Matemática Aplicada para Ingeniería",
+        "descripcion": "Aplicación de técnicas numéricas y estadísticas en problemas de ingeniería.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Análisis de Señales y Sistemas",
+        "descripcion": "Estudio de señales continuas y discretas y su transformación mediante Fourier y Laplace.",
+        "area": "procesamiento de señales",
+        "tipo": "profesional avanzada",
+        "creditos": 4
+      },
+      {
+        "nombre": "Líneas de Transmisión, Propagación y Antenas",
+        "descripcion": "Principios de transmisión de ondas y diseño de sistemas radiantes.",
+        "area": "comunicaciones electromagnéticas",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Procesos Estocásticos",
+        "descripcion": "Análisis de señales aleatorias en sistemas de comunicación.",
+        "area": "probabilidad y señales",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Hardware para Sistemas de Comunicación",
+        "descripcion": "Diseño de hardware especializado para transmisión y recepción de señales.",
+        "area": "hardware de telecomunicaciones",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      }
+    ],
+    "6": [
+      {
+        "nombre": "Comunicación Analógica",
+        "descripcion": "Modulación y demodulación de señales analógicas para transmisión de datos.",
+        "area": "comunicaciones analógicas",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Procesamiento Digital de Señales",
+        "descripcion": "Filtrado, compresión y transformación de señales digitales.",
+        "area": "procesamiento digital",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Administración Financiera",
+        "descripcion": "Gestión económica y financiera de proyectos tecnológicos.",
+        "area": "gestión empresarial",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      },
+      {
+        "nombre": "Electiva Redes I",
+        "descripcion": "Diseño y administración de redes de comunicación cableadas e inalámbricas.",
+        "area": "redes y conectividad",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Electrónica de Alta Frecuencia",
+        "descripcion": "Diseño de circuitos electrónicos que operan en frecuencias elevadas.",
+        "area": "radiofrecuencia",
+        "tipo": "profesional avanzada",
+        "creditos": 2
+      }
+    ],
+    "7": [
+      {
+        "nombre": "Comunicación y Codificación Digital",
+        "descripcion": "Teoría de la información y técnicas de codificación para transmisión digital.",
+        "area": "comunicaciones digitales",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Telefonía IP",
+        "descripcion": "Implementación de servicios de voz sobre IP en redes convergentes.",
+        "area": "redes y telefonía",
+        "tipo": "profesional avanzada",
+        "creditos": 2
+      },
+      {
+        "nombre": "Desarrollo de Aplicaciones para Dispositivos Móviles",
+        "descripcion": "Diseño y desarrollo de aplicaciones móviles orientadas a servicios de comunicación.",
+        "area": "tecnología móvil",
+        "tipo": "profesional avanzada",
+        "creditos": 2
+      },
+      {
+        "nombre": "Inteligencia Artificial Aplicada a Telecomunicaciones",
+        "descripcion": "Uso de algoritmos de IA para optimizar redes y detección de fallos.",
+        "area": "inteligencia artificial",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Comunicaciones Inalámbricas",
+        "descripcion": "Diseño y análisis de redes inalámbricas y sistemas de transmisión sin cables.",
+        "area": "comunicaciones inalámbricas",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Redes II",
+        "descripcion": "Diseño avanzado de topologías y administración de redes de datos.",
+        "area": "redes y conectividad",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      }
+    ],
+    "8": [
+      {
+        "nombre": "Comunicaciones Ópticas",
+        "descripcion": "Principios y diseño de sistemas de comunicación por fibra óptica.",
+        "area": "telecomunicaciones ópticas",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Comunicaciones Espaciales y Satelitales",
+        "descripcion": "Fundamentos de comunicación por satélite y enlaces espaciales.",
+        "area": "telecomunicaciones espaciales",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Telemática y Certificación de Redes",
+        "descripcion": "Integración de redes de datos y sistemas distribuidos con certificaciones internacionales.",
+        "area": "redes y telemática",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Redes Celulares",
+        "descripcion": "Diseño y análisis de redes móviles 4G/5G y su infraestructura.",
+        "area": "comunicaciones móviles",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Gestión de Proyectos de Telecomunicaciones",
+        "descripcion": "Planificación, ejecución y control de proyectos en el sector de telecomunicaciones.",
+        "area": "gestión de proyectos",
+        "tipo": "integración profesional",
+        "creditos": 3
+      }
+    ],
+    "9": [
+      {
+        "nombre": "Radios Definidos por Software",
+        "descripcion": "Diseño y programación de sistemas de radio basados en software (SDR).",
+        "area": "radiofrecuencia digital",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Radio y Televisión Digital",
+        "descripcion": "Tecnologías de transmisión y estándares para medios digitales.",
+        "area": "comunicaciones audiovisuales",
+        "tipo": "profesional avanzada",
+        "creditos": 2
+      },
+      {
+        "nombre": "Marco Regulatorio de las Telecomunicaciones",
+        "descripcion": "Normativas nacionales e internacionales aplicables al sector de telecomunicaciones.",
+        "area": "legislación tecnológica",
+        "tipo": "formación complementaria",
+        "creditos": 2
+      },
+      {
+        "nombre": "Seguridad, Criptografía y Big Data para Telecomunicaciones",
+        "descripcion": "Protección de información, encriptación y análisis de datos en sistemas de comunicación.",
+        "area": "ciberseguridad y datos",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Prácticas Preprofesionales",
+        "descripcion": "Aplicación práctica de conocimientos técnicos en empresas del sector.",
+        "area": "prácticas preprofesionales",
+        "tipo": "integración profesional",
+        "creditos": 5
+      },
+      {
+        "nombre": "Proyecto de Telecomunicaciones",
+        "descripcion": "Desarrollo de un proyecto integrador que combine aspectos técnicos, económicos y sociales.",
+        "area": "gestión de proyectos",
+        "tipo": "integración curricular",
+        "creditos": 2
+      }
+    ]
+  }
+}

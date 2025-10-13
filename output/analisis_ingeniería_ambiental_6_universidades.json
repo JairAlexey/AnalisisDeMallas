@@ -1,0 +1,382 @@
+{
+  "carrera_objetivo": "Ingeniería Ambiental",
+  "universidades_analizadas": [
+    "Universidad Internacional SEK (UISEK)",
+    "Universidad del Azuay",
+    "Universidad Espíritu Santo (UEES)",
+    "Universidad Hemisferios (UHE)",
+    "Universidad de las Américas (UDLA)",
+    "Universidad San Francisco de Quito (USFQ)"
+  ],
+  "udla_base": "Ingeniería Ambiental",
+  "analisis": {
+    "materias_fuertes": [],
+    "recomendaciones_udla": {
+      "materias_existentes": [],
+      "materias_a_agregar": []
+    }
+  },
+  "malla_recomendada_udla": {
+    "1": [
+      {
+        "nombre": "Cálculo I",
+        "descripcion": "Fundamentos del cálculo diferencial y su aplicación a procesos ambientales.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 4
+      },
+      {
+        "nombre": "Química General",
+        "descripcion": "Principios de la química y su relación con los procesos naturales y contaminantes.",
+        "area": "química general",
+        "tipo": "básica",
+        "creditos": 3.33
+      },
+      {
+        "nombre": "Introducción a la Ingeniería Ambiental",
+        "descripcion": "Panorama general de la ingeniería ambiental, su impacto social y retos tecnológicos.",
+        "area": "ingeniería ambiental",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Arte, Expresión Humana y Comunidad",
+        "descripcion": "Desarrollo de la expresión artística y apreciación cultural en el contexto social.",
+        "area": "formación humanística",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      },
+      {
+        "nombre": "Lenguaje y Comunicación Digital",
+        "descripcion": "Comunicación académica y técnica mediante herramientas digitales.",
+        "area": "comunicación",
+        "tipo": "formación complementaria",
+        "creditos": 4
+      }
+    ],
+    "2": [
+      {
+        "nombre": "Cálculo II",
+        "descripcion": "Integrales, series y aplicaciones en modelación ambiental.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Física General",
+        "descripcion": "Conceptos de mecánica, energía y fluidos aplicados a sistemas naturales.",
+        "area": "física aplicada",
+        "tipo": "básica",
+        "creditos": 4
+      },
+      {
+        "nombre": "Química Orgánica",
+        "descripcion": "Estructura, propiedades y reactividad de compuestos orgánicos relevantes al ambiente.",
+        "area": "química orgánica",
+        "tipo": "básica",
+        "creditos": 3.33
+      },
+      {
+        "nombre": "Biología General",
+        "descripcion": "Estudio de los seres vivos y su interacción con el entorno ecológico.",
+        "area": "biología",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Investigación y Textos Académicos",
+        "descripcion": "Redacción técnica y metodología de investigación científica aplicada.",
+        "area": "investigación científica",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      }
+    ],
+    "3": [
+      {
+        "nombre": "Ecuaciones Diferenciales",
+        "descripcion": "Modelado matemático de procesos físicos y químicos ambientales.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Operaciones de Transferencia de Masa y Energía",
+        "descripcion": "Fundamentos de intercambio de materia y energía en procesos ambientales.",
+        "area": "procesos ambientales",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Bioestadística",
+        "descripcion": "Aplicación de métodos estadísticos al análisis de fenómenos biológicos y ambientales.",
+        "area": "estadística aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Ecología",
+        "descripcion": "Relaciones entre organismos y su entorno en ecosistemas naturales y urbanos.",
+        "area": "ecología",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Ciudadanía, Cultura e Historia",
+        "descripcion": "Reflexión crítica sobre el desarrollo social y su relación con el medio ambiente.",
+        "area": "formación humanística",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      }
+    ],
+    "4": [
+      {
+        "nombre": "Procesos Termodinámicos",
+        "descripcion": "Estudio de los principios de la termodinámica aplicados a sistemas ambientales.",
+        "area": "energía y termodinámica",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Laboratorio de Análisis y Monitoreo Ambiental",
+        "descripcion": "Prácticas experimentales para la medición de contaminantes y parámetros ambientales.",
+        "area": "laboratorio ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Captura y Procesamiento de Datos Espaciales",
+        "descripcion": "Uso de sistemas GIS para el análisis ambiental.",
+        "area": "tecnología ambiental",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Contaminación Atmosférica",
+        "descripcion": "Estudio de fuentes, efectos y control de contaminantes del aire.",
+        "area": "contaminación ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Gestión de Normativa Ambiental",
+        "descripcion": "Marco legal nacional e internacional para la protección del ambiente.",
+        "area": "legislación ambiental",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Biodiseño Experimental",
+        "descripcion": "Aplicación del diseño biológico en soluciones sustentables.",
+        "area": "biotecnología ambiental",
+        "tipo": "profesional",
+        "creditos": 2
+      }
+    ],
+    "5": [
+      {
+        "nombre": "Mecánica de Fluidos Ambientales",
+        "descripcion": "Comportamiento de fluidos en sistemas naturales y de tratamiento.",
+        "area": "hidráulica ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Ecotoxicología",
+        "descripcion": "Efectos de contaminantes químicos en organismos y ecosistemas.",
+        "area": "toxicología ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Análisis y Representación de Datos Espaciales",
+        "descripcion": "Procesamiento y visualización de información geográfica ambiental.",
+        "area": "tecnología ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Cambio Climático",
+        "descripcion": "Estudio de las causas, consecuencias y mitigación del cambio climático.",
+        "area": "climatología",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Seguridad y Salud en el Trabajo",
+        "descripcion": "Gestión de la seguridad laboral y prevención de riesgos en proyectos ambientales.",
+        "area": "gestión ambiental",
+        "tipo": "formación complementaria",
+        "creditos": 2
+      }
+    ],
+    "6": [
+      {
+        "nombre": "Transporte, Mezcla y Transformación en el Medio Ambiente",
+        "descripcion": "Modelación del movimiento y transformación de contaminantes en aire, agua y suelo.",
+        "area": "ingeniería ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Diseño Hidráulico",
+        "descripcion": "Cálculo y diseño de sistemas hidráulicos aplicados a obras ambientales.",
+        "area": "hidráulica ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Hidrogeología",
+        "descripcion": "Estudio de las aguas subterráneas y su relación con el entorno geológico.",
+        "area": "geología ambiental",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Sostenibilidad y Economía Circular",
+        "descripcion": "Principios de diseño sostenible y aprovechamiento de recursos.",
+        "area": "sostenibilidad",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Gestión Integral de Residuos Sólidos",
+        "descripcion": "Manejo técnico y normativo de desechos sólidos urbanos e industriales.",
+        "area": "gestión ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Contaminación Radiactiva",
+        "descripcion": "Fuentes, efectos y manejo de contaminación por radiación.",
+        "area": "contaminación ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      }
+    ],
+    "7": [
+      {
+        "nombre": "Tratamiento de Aguas Residuales",
+        "descripcion": "Diseño y operación de sistemas de tratamiento físico-químico y biológico.",
+        "area": "hidrosanitaria",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Manejo de Cuencas Hidrográficas",
+        "descripcion": "Gestión sostenible del agua y el territorio.",
+        "area": "gestión ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Gestión de Riesgos y Desastres",
+        "descripcion": "Prevención y mitigación de riesgos naturales y antrópicos.",
+        "area": "gestión ambiental",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Emprendimiento y Negocios Ambientales",
+        "descripcion": "Creación de proyectos sostenibles y ecoinnovación.",
+        "area": "gestión empresarial",
+        "tipo": "formación complementaria",
+        "creditos": 2
+      },
+      {
+        "nombre": "Electiva Eficiencia Energética",
+        "descripcion": "Optimización del uso de energía en sistemas industriales y urbanos.",
+        "area": "energía sostenible",
+        "tipo": "electiva",
+        "creditos": 3
+      },
+      {
+        "nombre": "Remediación y Restauración Ambiental",
+        "descripcion": "Técnicas de recuperación de suelos, aguas y ecosistemas contaminados.",
+        "area": "restauración ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      }
+    ],
+    "8": [
+      {
+        "nombre": "Diseño de Plantas de Tratamiento",
+        "descripcion": "Diseño técnico de instalaciones para el tratamiento de aguas y residuos.",
+        "area": "ingeniería sanitaria",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Planificación y Ordenamiento Territorial",
+        "descripcion": "Gestión del territorio para el desarrollo sostenible.",
+        "area": "planificación territorial",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Sistemas de Gestión Ambientales",
+        "descripcion": "Implementación de sistemas de gestión ISO 14001 y sostenibilidad.",
+        "area": "gestión ambiental",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Cálculo y Reducción de Huella Ambiental",
+        "descripcion": "Medición y mitigación de huellas ecológicas y de carbono.",
+        "area": "sostenibilidad",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Evaluación de Impactos Ambientales",
+        "descripcion": "Metodologías de análisis y gestión de impacto ambiental.",
+        "area": "evaluación ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Proyectos de Ingeniería Ambiental I",
+        "descripcion": "Desarrollo de un proyecto aplicado a problemas ambientales locales.",
+        "area": "integración profesional",
+        "tipo": "proyecto integrador",
+        "creditos": 2
+      }
+    ],
+    "9": [
+      {
+        "nombre": "Modelamiento Ambiental",
+        "descripcion": "Uso de modelos matemáticos para simular procesos ambientales.",
+        "area": "modelado ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Agua Potable y Alcantarillado",
+        "descripcion": "Diseño y gestión de sistemas de abastecimiento y saneamiento.",
+        "area": "hidrosanitaria",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Auditorías Ambientales",
+        "descripcion": "Revisión de cumplimiento ambiental en organizaciones.",
+        "area": "gestión ambiental",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Prácticas Preprofesionales",
+        "descripcion": "Aplicación práctica de conocimientos en proyectos ambientales reales.",
+        "area": "práctica profesional",
+        "tipo": "integración profesional",
+        "creditos": 5
+      },
+      {
+        "nombre": "Proyectos de Ingeniería Ambiental II",
+        "descripcion": "Proyecto final integrador orientado a la solución de un problema ambiental.",
+        "area": "proyecto integrador",
+        "tipo": "integración curricular",
+        "creditos": 3
+      }
+    ]
+  }
+}

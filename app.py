@@ -41,6 +41,20 @@ st.markdown("""
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         margin-bottom: 1rem;
     }
+    .nav-item {
+        padding: 0.5rem 1rem;
+        border-radius: 5px;
+        margin-bottom: 0.5rem;
+        background-color: #f8f9fa;
+        cursor: pointer;
+    }
+    .nav-item:hover {
+        background-color: #e9ecef;
+    }
+    .nav-item-active {
+        background-color: #667eea;
+        color: white;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -60,21 +74,24 @@ def main():
     
     # Sidebar para navegación
     st.sidebar.title("Navegación")
-    page = st.sidebar.radio("Selecciona una página", 
-                           ["Resumen General", "Explorar Universidad y Carrera"])
+    page = st.sidebar.radio(
+        "Selecciona una página", 
+        ["Resumen General", "Explorar Universidad y Carrera", "Analizador de Carreras"]
+    )
     
     # Mostrar la página seleccionada
     if page == "Resumen General":
         show_general_summary(data_service)
-    else:
+    elif page == "Explorar Universidad y Carrera":
         show_university_explorer(data_service)
+    elif page == "Analizador de Carreras":
+        show_analyzer_redirect()
     
     # Footer
     st.markdown("---")
     st.caption("Desarrollado para UDLA - Universidad de Las Américas | 2023")
 
 def show_general_summary(data_service):
-    
     with st.spinner("Cargando estadísticas..."):
         stats = data_service.get_subject_statistics()
         display_university_stats(stats)
@@ -109,6 +126,27 @@ def show_university_explorer(data_service):
     with st.spinner(f"Cargando malla curricular de {career}..."):
         curriculum = data_service.get_curriculum(university, career)
         display_curriculum(curriculum)
+
+def show_analyzer_redirect():
+    """Muestra un enlace para redirigir al analizador de carreras"""
+    st.subheader("🔍 Analizador de Carreras")
+    
+    st.markdown("""
+    <div class="card">
+        <h3>Reformulación Curricular Inteligente</h3>
+        <p>El Analizador de Carreras te permite:</p>
+        <ul>
+            <li>Comparar mallas curriculares de diferentes universidades</li>
+            <li>Identificar materias troncales o fundamentales en cada carrera</li>
+            <li>Recibir recomendaciones para mejorar las mallas curriculares de la UDLA</li>
+            <li>Generar propuestas automáticas de mallas optimizadas</li>
+        </ul>
+        <p>Accede a la herramienta completa usando el siguiente enlace:</p>
+    </div>
+    """, unsafe_allow_html=True)
+    
+    if st.button("Ir al Analizador de Carreras", type="primary"):
+        st.switch_page("pages/analizador_carreras.py")
 
 if __name__ == "__main__":
     main()

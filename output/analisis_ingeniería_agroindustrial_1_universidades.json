@@ -1,0 +1,801 @@
+{
+  "carrera_objetivo": "Ingeniería Agroindustrial",
+  "universidades_analizadas": [
+    "Universidad de las Américas (UDLA)"
+  ],
+  "udla_base": "Ingeniería Agroindustrial",
+  "analisis": {
+    "materias_fuertes": [
+      {
+        "nombre_general": "Química General",
+        "materias_equivalentes": [
+          "Química General"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "química general",
+        "tipo_predominante": "básica",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Biología General",
+        "materias_equivalentes": [
+          "Biología General"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "biología general",
+        "tipo_predominante": "básica",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Cálculo I",
+        "materias_equivalentes": [
+          "Cálculo I"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "matemática aplicada",
+        "tipo_predominante": "básica",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Introducción a la Ingeniería Agroindustrial",
+        "materias_equivalentes": [
+          "Introducción a la Ingeniería Agroindustrial"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "ingeniería agroindustrial",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Lenguaje y Comunicación Digital",
+        "materias_equivalentes": [
+          "Lenguaje y Comunicación Digital"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "comunicación y redacción",
+        "tipo_predominante": "formación complementaria",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Química Orgánica",
+        "materias_equivalentes": [
+          "Química Orgánica",
+          "Bioquímica",
+          "Química de Alimentos",
+          "Laboratorio de Alimentos y Sustancias Orgánicas"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "química orgánica",
+        "tipo_predominante": "básica",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Física General",
+        "materias_equivalentes": [
+          "Física General"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "física aplicada",
+        "tipo_predominante": "básica",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Cálculo II",
+        "materias_equivalentes": [
+          "Cálculo II"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "matemática aplicada",
+        "tipo_predominante": "básica",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Botánica y Fisiología Vegetal",
+        "materias_equivalentes": [
+          "Botánica y Fisiología Vegetal",
+          "Producción Vegetal"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "biología vegetal",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Investigación y Textos Académicos",
+        "materias_equivalentes": [
+          "Investigación y Textos Académicos"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "investigación científica",
+        "tipo_predominante": "formación complementaria",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Termodinámica",
+        "materias_equivalentes": [
+          "Termodinámica"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "física aplicada",
+        "tipo_predominante": "básica",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Ecuaciones Diferenciales",
+        "materias_equivalentes": [
+          "Ecuaciones Diferenciales"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "matemática aplicada",
+        "tipo_predominante": "básica",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Microbiología General",
+        "materias_equivalentes": [
+          "Microbiología General",
+          "Microbiología de Alimentos"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "microbiología",
+        "tipo_predominante": "básica",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Ciudadanía, Cultura e Historia",
+        "materias_equivalentes": [
+          "Ciudadanía, Cultura e Historia"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "formación humanística",
+        "tipo_predominante": "formación complementaria",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Balance de Masa y Fenómenos de Transporte",
+        "materias_equivalentes": [
+          "Balance de Masa y Fenómenos de Transporte"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "ingeniería de procesos",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Arte, Expresión Humana y Comunidad",
+        "materias_equivalentes": [
+          "Arte, Expresión Humana y Comunidad"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "formación humanística",
+        "tipo_predominante": "formación complementaria",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Operaciones Unitarias",
+        "materias_equivalentes": [
+          "Operaciones Unitarias"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "ingeniería de procesos",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Estadística para Ingenieros",
+        "materias_equivalentes": [
+          "Estadística para Ingenieros"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "estadística aplicada",
+        "tipo_predominante": "básica",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Producción Animal",
+        "materias_equivalentes": [
+          "Producción Animal"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "zootecnia",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Poscosecha y Conservación",
+        "materias_equivalentes": [
+          "Poscosecha y Conservación"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "procesamiento de alimentos",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Maquinaria y Construcción Agroindustrial",
+        "materias_equivalentes": [
+          "Maquinaria y Construcción Agroindustrial"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "mecánica agroindustrial",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Gestión por Procesos",
+        "materias_equivalentes": [
+          "Gestión por Procesos"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "gestión de operaciones",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Industria de Frutas y Hortalizas",
+        "materias_equivalentes": [
+          "Industria de Frutas y Hortalizas"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "ingeniería de alimentos",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Inocuidad de Alimentos",
+        "materias_equivalentes": [
+          "Inocuidad de Alimentos",
+          "Seguridad Alimentaria y Nutricional"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "control de calidad alimentaria",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Diseño y Desarrollo de Productos Agroindustriales",
+        "materias_equivalentes": [
+          "Diseño y Desarrollo de Productos Agroindustriales",
+          "Tecnología de Productos No Alimentarios"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "diseño de productos",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Contabilidad de Costos Agroindustriales",
+        "materias_equivalentes": [
+          "Contabilidad de Costos Agroindustriales"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "gestión financiera",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Investigación Operativa y Simulación de Procesos",
+        "materias_equivalentes": [
+          "Investigación Operativa y Simulación de Procesos"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "gestión de operaciones",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Industria de Lácteos",
+        "materias_equivalentes": [
+          "Industria de Lácteos"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "industria alimentaria",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Industria de Cereales y Oleaginosas",
+        "materias_equivalentes": [
+          "Industria de Cereales y Oleaginosas"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "ingeniería agroalimentaria",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Modelos de Investigación y Diseño de Experimentos",
+        "materias_equivalentes": [
+          "Modelos de Investigación y Diseño de Experimentos"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "investigación aplicada",
+        "tipo_predominante": "formación metodológica",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Normativa Internacional y Asuntos Regulatorios",
+        "materias_equivalentes": [
+          "Normativa Internacional y Asuntos Regulatorios",
+          "Agronegocios y Comercio Internacional"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "regulación y normativas",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Electiva Administración de Operaciones I",
+        "materias_equivalentes": [
+          "Electiva Administración de Operaciones I",
+          "Administración de Operaciones II"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "gestión de operaciones",
+        "tipo_predominante": "electiva",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Industria de Cárnicos",
+        "materias_equivalentes": [
+          "Industria de Cárnicos"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "industria alimentaria",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Sistemas de Gestión de Calidad",
+        "materias_equivalentes": [
+          "Sistemas de Gestión de Calidad"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "calidad y certificación",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Gestión de Proyectos Agroindustriales",
+        "materias_equivalentes": [
+          "Gestión de Proyectos Agroindustriales",
+          "Proyecto Agroindustria"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "gestión de proyectos",
+        "tipo_predominante": "integración profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Diseño de Planta y Seguridad Industrial",
+        "materias_equivalentes": [
+          "Diseño de Planta y Seguridad Industrial"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "ingeniería industrial",
+        "tipo_predominante": "profesional",
+        "presente_en_udla": true
+      },
+      {
+        "nombre_general": "Prácticas Preprofesionales",
+        "materias_equivalentes": [
+          "Prácticas Preprofesionales"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "formación profesional",
+        "tipo_predominante": "integración profesional",
+        "presente_en_udla": false
+      },
+      {
+        "nombre_general": "Proyecto de Bioingeniería de Alimentos",
+        "materias_equivalentes": [
+          "Proyecto de Bioingeniería de Alimentos"
+        ],
+        "frecuencia": 1.0,
+        "area_predominante": "investigación aplicada",
+        "tipo_predominante": "proyecto integrador",
+        "presente_en_udla": true
+      }
+    ],
+    "recomendaciones_udla": {
+      "materias_existentes": [
+        "Química General",
+        "Introducción a la Ingeniería Agroindustrial",
+        "Lenguaje y Comunicación Digital",
+        "Química Orgánica",
+        "Botánica y Fisiología Vegetal",
+        "Investigación y Textos Académicos",
+        "Termodinámica",
+        "Microbiología General",
+        "Balance de Masa y Fenómenos de Transporte",
+        "Arte, Expresión Humana y Comunidad",
+        "Producción Animal",
+        "Poscosecha y Conservación",
+        "Maquinaria y Construcción Agroindustrial",
+        "Gestión por Procesos",
+        "Industria de Frutas y Hortalizas",
+        "Inocuidad de Alimentos",
+        "Diseño y Desarrollo de Productos Agroindustriales",
+        "Contabilidad de Costos Agroindustriales",
+        "Investigación Operativa y Simulación de Procesos",
+        "Modelos de Investigación y Diseño de Experimentos",
+        "Normativa Internacional y Asuntos Regulatorios",
+        "Administración de Operaciones II",
+        "Industria de Cárnicos",
+        "Sistemas de Gestión de Calidad",
+        "Gestión de Proyectos Agroindustriales",
+        "Diseño de Planta y Seguridad Industrial",
+        "Proyecto de Bioingeniería de Alimentos"
+      ],
+      "materias_a_agregar": [
+        "Biología General",
+        "Cálculo I",
+        "Física General",
+        "Cálculo II",
+        "Ecuaciones Diferenciales",
+        "Ciudadanía, Cultura e Historia",
+        "Operaciones Unitarias",
+        "Estadística para Ingenieros",
+        "Industria de Lácteos",
+        "Industria de Cereales y Oleaginosas",
+        "Prácticas Preprofesionales"
+      ]
+    }
+  },
+  "malla_recomendada_udla": {
+    "1": [
+      {
+        "nombre": "Química General",
+        "descripcion": "Principios fundamentales de la química aplicados a los procesos industriales agroalimentarios.",
+        "area": "química general",
+        "tipo": "básica",
+        "creditos_estimados": 3.33
+      },
+      {
+        "nombre": "Biología General",
+        "descripcion": "Estructura, función y clasificación de los organismos vivos con aplicación agroindustrial.",
+        "area": "biología general",
+        "tipo": "básica",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Cálculo I",
+        "descripcion": "Conceptos de cálculo diferencial e integral aplicados a fenómenos físico-químicos.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos_estimados": 4
+      },
+      {
+        "nombre": "Introducción a la Ingeniería Agroindustrial",
+        "descripcion": "Panorama general de la ingeniería agroindustrial y su rol en la transformación de productos agrícolas.",
+        "area": "ingeniería agroindustrial",
+        "tipo": "profesional",
+        "creditos_estimados": 2
+      },
+      {
+        "nombre": "Lenguaje y Comunicación Digital",
+        "descripcion": "Desarrollo de competencias comunicativas y uso de herramientas digitales en contextos técnicos.",
+        "area": "comunicación y redacción",
+        "tipo": "formación complementaria",
+        "creditos_estimados": 4
+      }
+    ],
+    "2": [
+      {
+        "nombre": "Química Orgánica",
+        "descripcion": "Estructura y reactividad de compuestos orgánicos aplicados a alimentos y bioprocesos.",
+        "area": "química orgánica",
+        "tipo": "básica",
+        "creditos_estimados": 3.33
+      },
+      {
+        "nombre": "Física General",
+        "descripcion": "Leyes de la física aplicadas a la conservación de energía y procesos industriales.",
+        "area": "física aplicada",
+        "tipo": "básica",
+        "creditos_estimados": 4
+      },
+      {
+        "nombre": "Cálculo II",
+        "descripcion": "Integración, series y modelado matemático aplicado a sistemas agroindustriales.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Botánica y Fisiología Vegetal",
+        "descripcion": "Estructura y fisiología de plantas cultivadas con enfoque en productividad agrícola.",
+        "area": "biología vegetal",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Investigación y Textos Académicos",
+        "descripcion": "Metodología científica y redacción de informes técnicos y académicos.",
+        "area": "investigación científica",
+        "tipo": "formación complementaria",
+        "creditos_estimados": 3
+      }
+    ],
+    "3": [
+      {
+        "nombre": "Bioquímica",
+        "descripcion": "Procesos bioquímicos fundamentales en organismos vivos y su relación con alimentos.",
+        "area": "bioquímica aplicada",
+        "tipo": "básica",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Termodinámica",
+        "descripcion": "Principios de la energía y equilibrio térmico aplicados a la ingeniería de alimentos.",
+        "area": "física aplicada",
+        "tipo": "básica",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Ecuaciones Diferenciales",
+        "descripcion": "Modelos matemáticos aplicados al flujo de materia y energía en procesos industriales.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Microbiología General",
+        "descripcion": "Estudio de microorganismos y su papel en procesos biotecnológicos y de fermentación.",
+        "area": "microbiología",
+        "tipo": "básica",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Ciudadanía, Cultura e Historia",
+        "descripcion": "Análisis del desarrollo social y su impacto en la sostenibilidad alimentaria.",
+        "area": "formación humanística",
+        "tipo": "formación complementaria",
+        "creditos_estimados": 3
+      }
+    ],
+    "4": [
+      {
+        "nombre": "Balance de Masa y Fenómenos de Transporte",
+        "descripcion": "Cálculo y análisis de flujos de masa y energía en sistemas agroindustriales.",
+        "area": "ingeniería de procesos",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Química de Alimentos",
+        "descripcion": "Composición y propiedades químicas de los alimentos naturales y procesados.",
+        "area": "ingeniería de alimentos",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Producción Vegetal",
+        "descripcion": "Principios de manejo agrícola para optimizar el rendimiento de cultivos.",
+        "area": "agronomía aplicada",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Microbiología de Alimentos",
+        "descripcion": "Estudio de microorganismos presentes en alimentos y su control.",
+        "area": "microbiología alimentaria",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Arte, Expresión Humana y Comunidad",
+        "descripcion": "Desarrollo de la sensibilidad estética y social en contextos culturales.",
+        "area": "formación humanística",
+        "tipo": "formación complementaria",
+        "creditos_estimados": 3
+      }
+    ],
+    "5": [
+      {
+        "nombre": "Operaciones Unitarias",
+        "descripcion": "Procesos físicos de separación, mezcla y concentración en la industria alimentaria.",
+        "area": "ingeniería de procesos",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Estadística para Ingenieros",
+        "descripcion": "Aplicación de herramientas estadísticas al control de calidad y experimentación.",
+        "area": "estadística aplicada",
+        "tipo": "básica",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Producción Animal",
+        "descripcion": "Principios de producción ganadera sostenible y manejo de animales.",
+        "area": "zootecnia",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Poscosecha y Conservación",
+        "descripcion": "Procesos de conservación y almacenamiento de productos agroindustriales.",
+        "area": "procesamiento de alimentos",
+        "tipo": "profesional",
+        "creditos_estimados": 2
+      },
+      {
+        "nombre": "Laboratorio de Alimentos y Sustancias Orgánicas",
+        "descripcion": "Análisis experimental de alimentos, nutrientes y compuestos orgánicos.",
+        "area": "laboratorio de alimentos",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      }
+    ],
+    "6": [
+      {
+        "nombre": "Maquinaria y Construcción Agroindustrial",
+        "descripcion": "Diseño y mantenimiento de equipos y estructuras agroindustriales.",
+        "area": "mecánica agroindustrial",
+        "tipo": "profesional",
+        "creditos_estimados": 2
+      },
+      {
+        "nombre": "Gestión por Procesos",
+        "descripcion": "Optimización y control de procesos industriales mediante gestión sistemática.",
+        "area": "gestión de operaciones",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Industria de Frutas y Hortalizas",
+        "descripcion": "Procesamiento, conservación y valor agregado de frutas y vegetales.",
+        "area": "ingeniería de alimentos",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Inocuidad de Alimentos",
+        "descripcion": "Normas y prácticas para garantizar la seguridad alimentaria en la producción.",
+        "area": "control de calidad alimentaria",
+        "tipo": "profesional",
+        "creditos_estimados": 2
+      },
+      {
+        "nombre": "Diseño y Desarrollo de Productos Agroindustriales",
+        "descripcion": "Creación e innovación de productos alimentarios y no alimentarios.",
+        "area": "diseño de productos",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Tecnología de Productos No Alimentarios",
+        "descripcion": "Transformación de materias primas en productos industriales alternativos.",
+        "area": "tecnología agroindustrial",
+        "tipo": "profesional",
+        "creditos_estimados": 2
+      }
+    ],
+    "7": [
+      {
+        "nombre": "Contabilidad de Costos Agroindustriales",
+        "descripcion": "Evaluación de costos y rentabilidad en procesos de producción agroindustrial.",
+        "area": "gestión financiera",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Investigación Operativa y Simulación de Procesos",
+        "descripcion": "Optimización de sistemas productivos mediante simulación y análisis matemático.",
+        "area": "gestión de operaciones",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Industria de Lácteos",
+        "descripcion": "Procesamiento y control de calidad en productos lácteos.",
+        "area": "industria alimentaria",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Industria de Cereales y Oleaginosas",
+        "descripcion": "Procesamiento y aprovechamiento de cereales y aceites vegetales.",
+        "area": "ingeniería agroalimentaria",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Modelos de Investigación y Diseño de Experimentos",
+        "descripcion": "Aplicación del método experimental en investigación agroindustrial.",
+        "area": "investigación aplicada",
+        "tipo": "formación metodológica",
+        "creditos_estimados": 3
+      }
+    ],
+    "8": [
+      {
+        "nombre": "Normativa Internacional y Asuntos Regulatorios",
+        "descripcion": "Legislación y normativas internacionales en producción y comercio agroalimentario.",
+        "area": "regulación y normativas",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Agronegocios y Comercio Internacional",
+        "descripcion": "Gestión de cadenas de valor y exportaciones de productos agroindustriales.",
+        "area": "comercio agroindustrial",
+        "tipo": "profesional",
+        "creditos_estimados": 2
+      },
+      {
+        "nombre": "Electiva Administración de Operaciones I",
+        "descripcion": "Gestión estratégica de recursos, calidad y producción.",
+        "area": "gestión de operaciones",
+        "tipo": "electiva",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Industria de Cárnicos",
+        "descripcion": "Procesamiento, control sanitario y conservación de productos cárnicos.",
+        "area": "industria alimentaria",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Sistemas de Gestión de Calidad",
+        "descripcion": "Diseño e implementación de sistemas de calidad basados en normas ISO.",
+        "area": "calidad y certificación",
+        "tipo": "profesional",
+        "creditos_estimados": 2
+      },
+      {
+        "nombre": "Gestión de Proyectos Agroindustriales",
+        "descripcion": "Planificación, evaluación y ejecución de proyectos productivos agroindustriales.",
+        "area": "gestión de proyectos",
+        "tipo": "integración profesional",
+        "creditos_estimados": 3
+      }
+    ],
+    "9": [
+      {
+        "nombre": "Seguridad Alimentaria y Nutricional",
+        "descripcion": "Evaluación del acceso, calidad y disponibilidad de alimentos saludables.",
+        "area": "seguridad alimentaria",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Diseño de Planta y Seguridad Industrial",
+        "descripcion": "Diseño de plantas de producción con enfoque en seguridad y ergonomía.",
+        "area": "ingeniería industrial",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Administración de Operaciones II",
+        "descripcion": "Gestión avanzada de operaciones industriales con enfoque productivo y logístico.",
+        "area": "gestión de operaciones",
+        "tipo": "profesional",
+        "creditos_estimados": 3
+      },
+      {
+        "nombre": "Prácticas Preprofesionales",
+        "descripcion": "Experiencia práctica en entornos industriales y de producción real.",
+        "area": "formación profesional",
+        "tipo": "integración profesional",
+        "creditos_estimados": 5
+      },
+      {
+        "nombre": "Proyecto de Bioingeniería de Alimentos",
+        "descripcion": "Desarrollo de un proyecto aplicado a la innovación en alimentos o bioprocesos.",
+        "area": "investigación aplicada",
+        "tipo": "proyecto integrador",
+        "creditos_estimados": 2
+      },
+      {
+        "nombre": "Proyecto Agroindustria",
+        "descripcion": "Proyecto final integrador enfocado en un desafío de la industria agroindustrial.",
+        "area": "proyecto integrador",
+        "tipo": "integración curricular",
+        "creditos_estimados": 2
+      }
+    ]
+  }
+}

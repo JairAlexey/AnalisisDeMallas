@@ -1,26 +1,34 @@
-# Bibliotecas principales
-streamlit
-pandas
-numpy
-plotly
-pymongo
-python-dotenv
-tqdm
+# Dependencias básicas
+streamlit>=1.24.0
+pandas>=1.5.3
+numpy>=1.24.3
+plotly>=5.15.0
+matplotlib>=3.7.1
 
-# Bibliotecas para procesamiento de datos
-requests
-pillow
+# Base de datos
+pymongo>=4.5.0
+
+# Procesamiento de texto y ML
+scikit-learn>=1.3.0
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+torch>=2.0.0
+spacy>=3.6.0
+nltk>=3.8.1
+
+# Procesamiento de texto avanzado y comparación fuzzy
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.2
+
+# Análisis y visualización
+plotly>=5.15.0
+seaborn>=0.12.2
 
 # Utilidades
-joblib
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+requests>=2.31.0
 
-# Estas bibliotecas son opcionales y pueden instalarse si se necesitan funcionalidades específicas
-# Descomentar según sea necesario:
-# scikit-learn  # Para análisis de ML avanzado
-# nltk  # Para procesamiento de lenguaje natural
-# sentence-transformers  # Para vectorización semántica
-# scipy  # Para cálculos científicos avanzados
-spacy
-beautifulsoup4
-langchain
-transformers
+# Interfaz de usuario
+streamlit-aggrid>=0.3.4
+streamlit-option-menu>=0.3.6

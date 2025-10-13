@@ -1,0 +1,371 @@
+{
+  "carrera_objetivo": "Ingeniería Electrónica y Automatización",
+  "universidades_analizadas": [
+    "Universidad San Francisco de Quito (USFQ)",
+    "Universidad de las Américas (UDLA)"
+  ],
+  "udla_base": "Ingeniería Electrónica y Automatización",
+  "analisis": {
+    "materias_fuertes": [],
+    "recomendaciones_udla": {
+      "materias_existentes": [],
+      "materias_a_agregar": []
+    }
+  },
+  "malla_recomendada_udla": {
+    "1": [
+      {
+        "nombre": "Cálculo I",
+        "descripcion": "Fundamentos del cálculo diferencial e integral aplicados a fenómenos eléctricos y electrónicos.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 4
+      },
+      {
+        "nombre": "Algoritmos",
+        "descripcion": "Lógica de programación y estructuras básicas para resolución de problemas en ingeniería.",
+        "area": "programación básica",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Introducción a la Automatización",
+        "descripcion": "Conceptos iniciales de sistemas automatizados, sensores y controladores básicos.",
+        "area": "automatización industrial",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Arte, Expresión Humana y Comunidad",
+        "descripcion": "Análisis del papel del arte y la cultura en la sociedad contemporánea.",
+        "area": "formación general",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      },
+      {
+        "nombre": "Lenguaje y Comunicación Digital",
+        "descripcion": "Desarrollo de competencias comunicativas en entornos digitales y técnicos.",
+        "area": "formación general",
+        "tipo": "formación complementaria",
+        "creditos": 4
+      }
+    ],
+    "2": [
+      {
+        "nombre": "Cálculo II",
+        "descripcion": "Aplicación del cálculo integral y ecuaciones diferenciales en sistemas eléctricos y de control.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Álgebra Lineal",
+        "descripcion": "Sistemas matriciales y vectores aplicados a modelado y análisis de señales.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Física General",
+        "descripcion": "Estudio de los principios de la mecánica, electricidad y magnetismo aplicados a ingeniería.",
+        "area": "física aplicada",
+        "tipo": "básica",
+        "creditos": 4
+      },
+      {
+        "nombre": "Programación I",
+        "descripcion": "Desarrollo de programas en lenguajes estructurados orientados a la ingeniería.",
+        "area": "programación",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Tecnología Eléctrica",
+        "descripcion": "Fundamentos de circuitos eléctricos, leyes de Kirchhoff y análisis de corriente alterna.",
+        "area": "electricidad básica",
+        "tipo": "profesional",
+        "creditos": 3
+      }
+    ],
+    "3": [
+      {
+        "nombre": "Ecuaciones Diferenciales",
+        "descripcion": "Modelado matemático de fenómenos eléctricos y dinámicos mediante ecuaciones diferenciales.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Estadística para Ingenieros",
+        "descripcion": "Métodos estadísticos aplicados a control de calidad y sistemas eléctricos.",
+        "area": "estadística aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Teoría de Circuitos",
+        "descripcion": "Análisis de circuitos lineales y no lineales, con componentes resistivos e inductivos.",
+        "area": "electrónica básica",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Programación II",
+        "descripcion": "Programación avanzada orientada a hardware y microcontroladores.",
+        "area": "programación aplicada",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Investigación y Textos Académicos",
+        "descripcion": "Técnicas de redacción científica y comunicación en el ámbito académico.",
+        "area": "formación metodológica",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      }
+    ],
+    "4": [
+      {
+        "nombre": "Teoría Electromagnética",
+        "descripcion": "Análisis de campos eléctricos y magnéticos en medios conductores y dieléctricos.",
+        "area": "electromagnetismo",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Electrónica Digital",
+        "descripcion": "Diseño de sistemas digitales combinacionales y secuenciales con compuertas lógicas.",
+        "area": "electrónica digital",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Electrónica Analógica",
+        "descripcion": "Diseño de circuitos amplificadores y filtrado analógico con transistores.",
+        "area": "electrónica analógica",
+        "tipo": "profesional",
+        "creditos": 3
+      },
+      {
+        "nombre": "Software de Simulación",
+        "descripcion": "Uso de herramientas de simulación electrónica como Multisim, MATLAB o Proteus.",
+        "area": "tecnología de simulación",
+        "tipo": "profesional",
+        "creditos": 2
+      },
+      {
+        "nombre": "Análisis de Circuitos Eléctricos",
+        "descripcion": "Evaluación de sistemas eléctricos de corriente alterna mediante software especializado.",
+        "area": "electricidad aplicada",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Economía, Ethos y Sociedad",
+        "descripcion": "Análisis ético y económico de la profesión de ingeniería en la sociedad actual.",
+        "area": "formación general",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      }
+    ],
+    "5": [
+      {
+        "nombre": "Matemática Aplicada para Ingeniería",
+        "descripcion": "Aplicación de métodos numéricos para resolver problemas eléctricos y electrónicos.",
+        "area": "matemática aplicada",
+        "tipo": "básica",
+        "creditos": 3
+      },
+      {
+        "nombre": "Análisis de Señales y Sistemas",
+        "descripcion": "Análisis de señales continuas y discretas y sus transformadas.",
+        "area": "procesamiento de señales",
+        "tipo": "profesional avanzada",
+        "creditos": 4
+      },
+      {
+        "nombre": "Administración Financiera",
+        "descripcion": "Conceptos financieros aplicados a la gestión de proyectos tecnológicos.",
+        "area": "gestión empresarial",
+        "tipo": "formación complementaria",
+        "creditos": 3
+      },
+      {
+        "nombre": "Microcontroladores",
+        "descripcion": "Programación y control de sistemas embebidos mediante microcontroladores.",
+        "area": "electrónica y control",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Instalaciones Eléctricas y de Cableado Estructurado",
+        "descripcion": "Diseño e implementación de sistemas eléctricos en edificaciones industriales.",
+        "area": "electricidad aplicada",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      }
+    ],
+    "6": [
+      {
+        "nombre": "Instrumentación Electrónica",
+        "descripcion": "Diseño de sistemas de medición con sensores y transductores electrónicos.",
+        "area": "instrumentación",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Sistemas de Control Automático",
+        "descripcion": "Análisis y diseño de sistemas de control en lazo abierto y cerrado.",
+        "area": "control automático",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Electrónica de Potencia",
+        "descripcion": "Conversión de energía eléctrica mediante dispositivos semiconductores.",
+        "area": "electrónica de potencia",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Máquinas Eléctricas",
+        "descripcion": "Principios de funcionamiento de motores y generadores eléctricos.",
+        "area": "electromecánica",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Seminario de Especialización",
+        "descripcion": "Análisis de temas emergentes en automatización y electrónica industrial.",
+        "area": "investigación aplicada",
+        "tipo": "integración profesional",
+        "creditos": 2
+      }
+    ],
+    "7": [
+      {
+        "nombre": "Instrumentación Industrial",
+        "descripcion": "Diseño y calibración de sistemas de medición y control industrial.",
+        "area": "instrumentación industrial",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Sistemas de Control Discreto",
+        "descripcion": "Controladores digitales, PLC y sistemas discretos de automatización.",
+        "area": "automatización industrial",
+        "tipo": "profesional avanzada",
+        "creditos": 2
+      },
+      {
+        "nombre": "Conversores Estáticos",
+        "descripcion": "Conversión y regulación de energía eléctrica mediante sistemas estáticos.",
+        "area": "electrónica de potencia",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Mandos Neumáticos",
+        "descripcion": "Diseño de sistemas neumáticos aplicados a procesos automatizados.",
+        "area": "control industrial",
+        "tipo": "profesional avanzada",
+        "creditos": 2
+      },
+      {
+        "nombre": "Control Electrónico Industrial",
+        "descripcion": "Integración de sistemas electrónicos y controladores industriales.",
+        "area": "automatización industrial",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Certificación Profesional",
+        "descripcion": "Preparación para certificaciones técnicas en electrónica o automatización.",
+        "area": "formación profesional",
+        "tipo": "integración profesional",
+        "creditos": 2
+      }
+    ],
+    "8": [
+      {
+        "nombre": "Redes Industriales",
+        "descripcion": "Diseño e implementación de redes de comunicación industriales.",
+        "area": "redes industriales",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Control Digital Avanzado",
+        "descripcion": "Diseño de controladores digitales PID y de estado para procesos industriales.",
+        "area": "control automático",
+        "tipo": "profesional avanzada",
+        "creditos": 2
+      },
+      {
+        "nombre": "Instalaciones Eléctricas Industriales",
+        "descripcion": "Diseño de sistemas eléctricos de potencia en plantas industriales.",
+        "area": "electricidad industrial",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Smart Grids",
+        "descripcion": "Principios de redes eléctricas inteligentes y su automatización.",
+        "area": "energía inteligente",
+        "tipo": "profesional avanzada",
+        "creditos": 2
+      },
+      {
+        "nombre": "Industria 4.0",
+        "descripcion": "Integración de tecnologías emergentes para automatización avanzada.",
+        "area": "automatización industrial",
+        "tipo": "profesional avanzada",
+        "creditos": 2
+      },
+      {
+        "nombre": "Gestión de Proyectos de Automatización (Integración)",
+        "descripcion": "Planificación y ejecución de proyectos de automatización industrial integrados.",
+        "area": "gestión de proyectos",
+        "tipo": "integración curricular",
+        "creditos": 3
+      }
+    ],
+    "9": [
+      {
+        "nombre": "Sistemas SCADA",
+        "descripcion": "Diseño e implementación de sistemas SCADA para monitoreo y control industrial.",
+        "area": "automatización industrial",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Prácticas Preprofesionales",
+        "descripcion": "Desempeño en entornos laborales aplicando conocimientos técnicos.",
+        "area": "prácticas profesionales",
+        "tipo": "integración profesional",
+        "creditos": 5
+      },
+      {
+        "nombre": "Control Embebido",
+        "descripcion": "Desarrollo de sistemas de control basados en hardware embebido.",
+        "area": "sistemas embebidos",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Robótica Industrial",
+        "descripcion": "Principios de programación, control y operación de robots industriales.",
+        "area": "robótica industrial",
+        "tipo": "profesional avanzada",
+        "creditos": 3
+      },
+      {
+        "nombre": "Proyecto de Automatización Industrial",
+        "descripcion": "Desarrollo de un proyecto integrador aplicado a la automatización de procesos industriales.",
+        "area": "gestión de proyectos",
+        "tipo": "integración curricular",
+        "creditos": 3
+      }
+    ]
+  }
+}

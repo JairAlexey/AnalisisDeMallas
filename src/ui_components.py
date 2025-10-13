@@ -95,6 +95,67 @@ def display_curriculum(curriculum_data: Dict[str, Any]):
                     else:
                         st.write("- [Materia sin nombre]")
 
+def display_recommended_curriculum(curriculum: Dict, nuevas_materias: Optional[List[str]] = None):
+    """
+    Muestra la malla curricular recomendada de manera estructurada
+    
+    Args:
+        curriculum: Diccionario con la estructura de la malla recomendada
+        nuevas_materias: Lista de nombres de materias nuevas agregadas (opcional)
+    """
+    if not curriculum:
+        st.warning("No hay información de malla curricular recomendada disponible")
+        return
+        
+    st.subheader("Malla Curricular Recomendada")
+    
+    # Obtener semestres y ordenarlos numéricamente
+    semesters = list(curriculum.keys())
+    semesters.sort(key=lambda x: int(x) if x.isdigit() else float('inf'))
+    
+    # Crear columnas para mostrar los semestres
+    cols_per_row = 3
+    
+    for i in range(0, len(semesters), cols_per_row):
+        cols = st.columns(cols_per_row)
+        
+        for j in range(cols_per_row):
+            if i + j < len(semesters):
+                semester = semesters[i + j]
+                subjects = curriculum[semester]
+                
+                with cols[j]:
+                    st.markdown(f"**Semestre {semester}**")
+                    
+                    if not subjects:
+                        st.info("No hay materias para este semestre")
+                        continue
+                    
+                    # Verificar si las materias son objetos o strings
+                    if isinstance(subjects[0], dict):
+                        for subject in subjects:
+                            nombre_materia = subject.get('nombre', 'Sin nombre')
+                            es_nueva = nuevas_materias and nombre_materia in nuevas_materias
+                            color_style = "background-color: #d4f8e8; border-left: 4px solid #34c759;" if es_nueva else "background-color: #f8f9fa;"
+                            with st.expander(nombre_materia):
+                                st.markdown(f'<div style="{color_style} padding: 0.5rem; border-radius: 4px; margin-bottom: 0.5rem;">', unsafe_allow_html=True)
+                                st.write(f"**Descripción:** {subject.get('descripcion', 'No disponible')}")
+                                st.write(f"**Área:** {subject.get('area', 'No especificada')}")
+                                st.write(f"**Tipo:** {subject.get('tipo', 'No especificado')}")
+                                if 'creditos' in subject:
+                                    st.write(f"**Créditos:** {subject.get('creditos', 0)}")
+                                elif 'creditos_estimados' in subject:
+                                    st.write(f"**Créditos estimados:** {subject.get('creditos_estimados', 0)}")
+                                st.markdown('</div>', unsafe_allow_html=True)
+                    else:
+                        # Si son strings, mostrarlos en una lista simple
+                        for subject in subjects:
+                            es_nueva = nuevas_materias and subject in nuevas_materias
+                            if es_nueva:
+                                st.markdown(f'<div style="background-color: #d4f8e8; border-left: 4px solid #34c759; padding: 0.2rem; border-radius: 3px; margin-bottom: 0.2rem;">- {subject}</div>', unsafe_allow_html=True)
+                            else:
+                                st.markdown(f"- {subject}")
+
 def display_university_stats(university_stats: Dict[str, Any]):
     """
     Muestra estadísticas generales sobre universidades
