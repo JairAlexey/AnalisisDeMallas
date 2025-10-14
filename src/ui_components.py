@@ -137,7 +137,14 @@ def display_recommended_curriculum(curriculum: Dict, nuevas_materias: Optional[L
                             nombre_materia = subject.get('nombre', 'Sin nombre')
                             es_nueva = nuevas_materias and nombre_materia in nuevas_materias
                             color_style = "background-color: #d4f8e8; border-left: 4px solid #34c759;" if es_nueva else "background-color: #f8f9fa;"
-                            with st.expander(nombre_materia):
+                            
+                            # Añadir indicador visual (círculo verde) si es materia recomendada
+                            if es_nueva:
+                                displayed_name = f"🟢 {nombre_materia}"
+                            else:
+                                displayed_name = nombre_materia
+                                
+                            with st.expander(displayed_name):
                                 st.markdown(f'<div style="{color_style} padding: 0.5rem; border-radius: 4px; margin-bottom: 0.5rem;">', unsafe_allow_html=True)
                                 st.write(f"**Descripción:** {subject.get('descripcion', 'No disponible')}")
                                 st.write(f"**Área:** {subject.get('area', 'No especificada')}")
@@ -152,7 +159,8 @@ def display_recommended_curriculum(curriculum: Dict, nuevas_materias: Optional[L
                         for subject in subjects:
                             es_nueva = nuevas_materias and subject in nuevas_materias
                             if es_nueva:
-                                st.markdown(f'<div style="background-color: #d4f8e8; border-left: 4px solid #34c759; padding: 0.2rem; border-radius: 3px; margin-bottom: 0.2rem;">- {subject}</div>', unsafe_allow_html=True)
+                                # Añadir círculo verde al inicio para identificar materias recomendadas
+                                st.markdown(f'<div style="background-color: #d4f8e8; border-left: 4px solid #34c759; padding: 0.2rem; border-radius: 3px; margin-bottom: 0.2rem;">- 🟢 {subject}</div>', unsafe_allow_html=True)
                             else:
                                 st.markdown(f"- {subject}")
 

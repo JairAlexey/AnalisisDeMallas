@@ -12,6 +12,7 @@ from src.ui_components import (
     display_header, display_university_selector, display_career_selector,
     display_curriculum, display_university_stats
 )
+from utils.abet_utils import load_abet_criteria
 
 # Configuración de la página
 st.set_page_config(

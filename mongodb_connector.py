@@ -382,6 +382,79 @@ class MongoDBConnector:
         except Exception as e:
             logging.error(f"Error al buscar materias: {e}")
             return []
+            
+    def save_abet_evaluation(self, university: str, career: str, abet_evaluation: Dict) -> bool:
+        """
+        Guarda o actualiza la evaluación ABET para una carrera específica
+        
+        Args:
+            university: Nombre de la universidad
+            career: Nombre de la carrera
+            abet_evaluation: Diccionario con la evaluación ABET
+            
+        Returns:
+            True si la operación fue exitosa, False en caso contrario
+        """
+        if self.collection is None:
+            logging.error("No hay conexión a MongoDB")
+            return False
+        
+        try:
+            # Construir la actualización
+            update = {
+                "$set": {
+                    "evaluacion_abet": abet_evaluation
+                }
+            }
+            
+            # Ejecutar la actualización
+            result = self.collection.update_one(
+                {"universidad": university, "carrera": career},
+                update
+            )
+            
+            success = result.matched_count > 0
+            if success:
+                logging.info(f"Evaluación ABET actualizada para {university} - {career}")
+            else:
+                logging.warning(f"No se encontró la carrera {career} en {university} para actualizar")
+                
+            return success
+            
+        except Exception as e:
+            logging.error(f"Error al guardar evaluación ABET: {e}")
+            return False
+    
+    def get_abet_evaluation(self, university: str, career: str) -> Optional[Dict]:
+        """
+        Obtiene la evaluación ABET para una carrera específica
+        
+        Args:
+            university: Nombre de la universidad
+            career: Nombre de la carrera
+            
+        Returns:
+            Diccionario con la evaluación ABET o None si no existe
+        """
+        if self.collection is None:
+            logging.error("No hay conexión a MongoDB")
+            return None
+        
+        try:
+            # Buscar el documento
+            result = self.collection.find_one(
+                {"universidad": university, "carrera": career},
+                {"evaluacion_abet": 1}
+            )
+            
+            if result and "evaluacion_abet" in result:
+                return result["evaluacion_abet"]
+            else:
+                return None
+                
+        except Exception as e:
+            logging.error(f"Error al obtener evaluación ABET: {e}")
+            return None
 
 # Ejemplo de uso
 if __name__ == "__main__":

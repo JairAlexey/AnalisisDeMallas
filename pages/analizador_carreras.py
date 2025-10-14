@@ -12,6 +12,7 @@ sys.path.append(str(project_root))
 # Importar módulos propios
 from src.curriculum_analyzer import CurriculumAnalyzer
 from mongodb_connector import MongoDBConnector
+from utils.abet_utils import load_abet_criteria
 
 # Configuración de la página
 st.set_page_config(
@@ -72,15 +73,20 @@ def get_analyzer():
     connector.db_name = "carreras_universitarias"
     connector.collection_name = "mallas_curriculares"
     
+    # Obtener ruta al archivo de criterios ABET
+    abet_criteria_path = os.path.join(project_root, 'data', 'criterios_abet.json')
+    
     # Mostrar información de depuración en la consola
     print(f"Intentando conectar a MongoDB: {connector.db_name}/{connector.collection_name}")
+    print(f"Ruta de criterios ABET: {abet_criteria_path}")
     
     if connector.connect():
         print("Conexión a MongoDB exitosa en analizador_carreras.py")
         # Pasamos la configuración correcta al analizador
         analyzer = CurriculumAnalyzer(
             db_name=connector.db_name,
-            collection_name=connector.collection_name
+            collection_name=connector.collection_name,
+            abet_criteria_path=abet_criteria_path
         )
         
         # Forzar la verificación del estado de conexión real
@@ -92,7 +98,7 @@ def get_analyzer():
         print("Error al conectar a MongoDB en analizador_carreras.py")
     
     # En caso de error, crear analizador con modo offline
-    return CurriculumAnalyzer()
+    return CurriculumAnalyzer(abet_criteria_path=abet_criteria_path)
 
 def main():
     # Encabezado
@@ -200,7 +206,7 @@ def show_diagnostics(analyzer, status):
     
     # Estado general
     st.subheader("Estado general")
-    cols = st.columns(3)
+    cols = st.columns(4)
     with cols[0]:
         if status["database_connected"]:
             st.success("✅ Base de datos conectada")
@@ -218,6 +224,12 @@ def show_diagnostics(analyzer, status):
             st.success(f"✅ {status['careers_count']} carreras disponibles")
         else:
             st.error("❌ No hay carreras disponibles")
+            
+    with cols[3]:
+        if status.get("abet_criteria_loaded", False):
+            st.success("✅ Criterios ABET cargados")
+        else:
+            st.error("❌ Error en criterios ABET")
     
     # Información detallada
     st.subheader("Información detallada")
@@ -485,9 +497,91 @@ def show_analysis_result(result):
     
     st.markdown('</div>', unsafe_allow_html=True)
     
+    # Análisis ABET (si está disponible)
+    if 'analisis_abet' in result and result['analisis_abet'] and not isinstance(result['analisis_abet'], str):
+        st.markdown('<div class="card">', unsafe_allow_html=True)
+        st.markdown("### Análisis de Criterios ABET")
+        
+        abet_analisis = result['analisis_abet']
+        
+        # Información general de ABET
+        st.markdown("#### Categoría ABET")
+        tipo_ingenieria = abet_analisis.get('tipo_ingenieria', 'No identificado')
+        if tipo_ingenieria:
+            st.markdown(f"""
+            <div class="info-box">
+                <strong>Tipo de Ingeniería:</strong> {abet_analisis.get('criterios_aplicables', 'No especificado')}<br>
+                <p>{abet_analisis.get('descripcion', '')}</p>
+            </div>
+            """, unsafe_allow_html=True)
+        else:
+            st.warning("No se pudo determinar la categoría ABET específica para esta carrera")
+        
+        # Mostrar cumplimiento estimado
+        if 'cumplimiento_estimado' in abet_analisis:
+            st.markdown("#### Cumplimiento de Criterios ABET")
+            
+            cumplimiento = abet_analisis['cumplimiento_estimado']
+            
+            # Crear medidores visuales para matemáticas y ciencias
+            if 'matematicas_ciencias' in cumplimiento:
+                mat_ciencias = cumplimiento['matematicas_ciencias']
+                col1, col2 = st.columns(2)
+                
+                with col1:
+                    st.metric(
+                        "Matemáticas y Ciencias", 
+                        f"{mat_ciencias.get('porcentaje', 0):.1f}%", 
+                        delta="Suficiente" if mat_ciencias.get('evaluacion') == 'Suficiente' else "Insuficiente"
+                    )
+                    
+                with col2:
+                    st.write(mat_ciencias.get('recomendacion', ''))
+            
+            # Crear medidores visuales para ingeniería y diseño
+            if 'ingenieria_diseno' in cumplimiento:
+                ing_diseno = cumplimiento['ingenieria_diseno']
+                col1, col2 = st.columns(2)
+                
+                with col1:
+                    st.metric(
+                        "Ingeniería y Diseño", 
+                        f"{ing_diseno.get('porcentaje', 0):.1f}%", 
+                        delta="Suficiente" if ing_diseno.get('evaluacion') == 'Suficiente' else "Insuficiente"
+                    )
+                    
+                with col2:
+                    st.write(ing_diseno.get('recomendacion', ''))
+        
+        # Mostrar áreas de refuerzo según ABET
+        if 'areas_refuerzo' in abet_analisis and abet_analisis['areas_refuerzo']:
+            st.markdown("#### Requisitos ABET y Evaluación")
+            
+            for area in abet_analisis['areas_refuerzo']:
+                requisito = area.get('requisito', '')
+                cumplimiento = area.get('cumplimiento', 'No evaluado')
+                sugerencia = area.get('sugerencia', '')
+                
+                # Aplicar estilo según el nivel de cumplimiento
+                if cumplimiento == 'Completo':
+                    estilo = "background-color: #e5ffe5; border-left: 3px solid #4dff4d;"
+                elif cumplimiento == 'Parcial':
+                    estilo = "background-color: #fff9e5; border-left: 3px solid #ffcc4d;"
+                else:
+                    estilo = "background-color: #ffe5e5; border-left: 3px solid #ff4d4d;"
+                
+                st.markdown(f"""
+                <div style="{estilo} padding: 0.8rem; border-radius: 5px; margin-bottom: 0.8rem;">
+                    <strong>{requisito}</strong><br>
+                    <span style="font-size: 0.9rem;">Cumplimiento: {cumplimiento}</span><br>
+                    <span style="font-style: italic;">{sugerencia}</span>
+                </div>
+                """, unsafe_allow_html=True)
+        
+        st.markdown('</div>', unsafe_allow_html=True)
+    
     # Malla recomendada
     st.markdown('<div class="card">', unsafe_allow_html=True)
-    st.markdown("### Malla Curricular Recomendada")
     
     # Usar la nueva función para mostrar la malla recomendada
     from src.ui_components import display_recommended_curriculum

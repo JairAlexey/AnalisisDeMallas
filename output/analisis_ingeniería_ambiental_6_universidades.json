@@ -1,11 +1,11 @@
 {
   "carrera_objetivo": "Ingeniería Ambiental",
   "universidades_analizadas": [
-    "Universidad Internacional SEK (UISEK)",
     "Universidad del Azuay",
+    "Universidad de las Américas (UDLA)",
     "Universidad Espíritu Santo (UEES)",
     "Universidad Hemisferios (UHE)",
-    "Universidad de las Américas (UDLA)",
+    "Universidad Internacional SEK (UISEK)",
     "Universidad San Francisco de Quito (USFQ)"
   ],
   "udla_base": "Ingeniería Ambiental",
@@ -378,5 +378,39 @@
         "creditos": 3
       }
     ]
+  },
+  "analisis_abet": {
+    "tipo_ingenieria": "environmental_engineering",
+    "criterios_aplicables": "Ingeniería Ambiental",
+    "descripcion": "El programa debe enfocarse en el desarrollo sostenible y la gestión ambiental aplicada a la ingeniería.",
+    "recomendaciones_materias": [],
+    "areas_refuerzo": [
+      {
+        "requisito": "Química, biología y ciencias ambientales aplicadas.",
+        "cumplimiento": "Parcial",
+        "sugerencia": "Revisar materias relacionadas con: Química, biología y ciencias ambientales aplicadas."
+      },
+      {
+        "requisito": "Control y tratamiento de agua, aire y suelo.",
+        "cumplimiento": "Parcial",
+        "sugerencia": "Revisar materias relacionadas con: Control y tratamiento de agua, aire y suelo."
+      },
+      {
+        "requisito": "Evaluación de impactos ambientales y sostenibilidad.",
+        "cumplimiento": "Parcial",
+        "sugerencia": "Revisar materias relacionadas con: Evaluación de impactos ambientales y sostenibilidad."
+      },
+      {
+        "requisito": "Legislación y ética ambiental.",
+        "cumplimiento": "Parcial",
+        "sugerencia": "Revisar materias relacionadas con: Legislación y ética ambiental."
+      },
+      {
+        "requisito": "Diseño de soluciones tecnológicas sostenibles.",
+        "cumplimiento": "Parcial",
+        "sugerencia": "Revisar materias relacionadas con: Diseño de soluciones tecnológicas sostenibles."
+      }
+    ],
+    "cumplimiento_estimado": {}
   }
 }

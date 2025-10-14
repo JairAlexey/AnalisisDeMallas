@@ -797,5 +797,50 @@
         "creditos_estimados": 2
       }
     ]
+  },
+  "analisis_abet": {
+    "tipo_ingenieria": "industrial_engineering",
+    "criterios_aplicables": "Ingeniería Industrial",
+    "descripcion": "El programa debe formar profesionales que diseñen, analicen y mejoren sistemas integrados de personas, materiales, información y energía.",
+    "recomendaciones_materias": [],
+    "areas_refuerzo": [
+      {
+        "requisito": "Investigación de operaciones, optimización y estadística aplicada.",
+        "cumplimiento": "Parcial",
+        "sugerencia": "Revisar materias relacionadas con: Investigación de operaciones, optimización y estadística aplicada."
+      },
+      {
+        "requisito": "Economía de ingeniería y análisis financiero.",
+        "cumplimiento": "Parcial",
+        "sugerencia": "Revisar materias relacionadas con: Economía de ingeniería y análisis financiero."
+      },
+      {
+        "requisito": "Sistemas de producción, logística, gestión de calidad y sostenibilidad.",
+        "cumplimiento": "Parcial",
+        "sugerencia": "Revisar materias relacionadas con: Sistemas de producción, logística, gestión de calidad y sostenibilidad."
+      },
+      {
+        "requisito": "Factores humanos, ergonomía y seguridad industrial.",
+        "cumplimiento": "Parcial",
+        "sugerencia": "Revisar materias relacionadas con: Factores humanos, ergonomía y seguridad industrial."
+      },
+      {
+        "requisito": "Diseño de sistemas integrados de manufactura y servicios.",
+        "cumplimiento": "Parcial",
+        "sugerencia": "Revisar materias relacionadas con: Diseño de sistemas integrados de manufactura y servicios."
+      }
+    ],
+    "cumplimiento_estimado": {
+      "matematicas_ciencias": {
+        "porcentaje": 7.894736842105263,
+        "evaluacion": "Insuficiente",
+        "recomendacion": "Aumentar materias de matemáticas y ciencias"
+      },
+      "ingenieria_diseno": {
+        "porcentaje": 15.789473684210526,
+        "evaluacion": "Insuficiente",
+        "recomendacion": "Aumentar materias de ingeniería y diseño"
+      }
+    }
   }
 }

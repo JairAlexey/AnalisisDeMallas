@@ -1,0 +1,129 @@
+{
+  "criterios_abet": {
+    "version": "EAC 2025-2026",
+    "descripcion_general": "Criterios internacionales de evaluación de programas de ingeniería establecidos por la ABET Engineering Accreditation Commission (EAC). Estos criterios sirven como referencia para evaluar el cumplimiento académico, ético y técnico de los programas de ingeniería.",
+    "criterios_generales": {
+      "1_estudiantes": {
+        "titulo": "Criterio 1 — Estudiantes",
+        "descripcion": "El programa debe evaluar y monitorear continuamente el progreso de los estudiantes, asegurando que cumplan con los requisitos para graduación. Debe existir un sistema de admisión, seguimiento y asesoramiento académico documentado."
+      },
+      "2_objetivos_educacionales": {
+        "titulo": "Criterio 2 — Objetivos Educacionales del Programa",
+        "descripcion": "El programa debe tener objetivos educacionales coherentes con la misión institucional y con las necesidades de sus grupos de interés (estudiantes, empleadores, egresados, sociedad). Debe revisarse periódicamente."
+      },
+      "3_resultados_del_estudiante": {
+        "titulo": "Criterio 3 — Resultados del Estudiante",
+        "descripcion": "Los egresados deben demostrar logros medibles en las siguientes competencias:",
+        "subcriterios": {
+          "3a": "Identificar, formular y resolver problemas complejos de ingeniería aplicando principios de matemáticas, ciencias e ingeniería.",
+          "3b": "Aplicar diseño de ingeniería para producir soluciones que satisfagan necesidades específicas considerando salud, seguridad, bienestar público, así como factores globales, culturales, sociales, ambientales y económicos.",
+          "3c": "Comunicarse efectivamente con diferentes audiencias y contextos profesionales.",
+          "3d": "Reconocer responsabilidades éticas y profesionales en la ingeniería y tomar decisiones informadas considerando el impacto global y social.",
+          "3e": "Trabajar efectivamente en equipos multidisciplinarios, liderando tareas, planificando y alcanzando objetivos.",
+          "3f": "Realizar experimentos, analizar e interpretar datos, y aplicar juicio ingenieril para sacar conclusiones válidas.",
+          "3g": "Adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas."
+        }
+      },
+      "4_mejora_continua": {
+        "titulo": "Criterio 4 — Mejora Continua",
+        "descripcion": "El programa debe implementar procesos sistemáticos para evaluar y mejorar el cumplimiento de los resultados del estudiante y de los objetivos del programa. Los resultados de aprendizaje deben usarse para planificar mejoras curriculares."
+      },
+      "5_curriculum": {
+        "titulo": "Criterio 5 — Plan de Estudios (Curriculum)",
+        "descripcion": "El currículo debe preparar a los egresados para aplicar diseño y análisis de ingeniería mediante un plan de estudios equilibrado en matemáticas, ciencias básicas, ingeniería, diseño y educación general.",
+        "componentes_requeridos": {
+          "matematicas_y_ciencias": "Al menos 30 créditos en matemáticas y ciencias básicas, con laboratorios.",
+          "ingenieria_y_diseno": "Al menos 45 créditos en temas de ingeniería y diseño.",
+          "educacion_general": "Componente no técnico que promueva la formación integral.",
+          "proyecto_final": "Experiencia culminante en diseño de ingeniería bajo múltiples restricciones."
+        }
+      },
+      "6_facultad": {
+        "titulo": "Criterio 6 — Facultad",
+        "descripcion": "El programa debe contar con un número suficiente de docentes calificados, con experiencia académica y profesional relevante, que participen activamente en enseñanza, investigación y desarrollo profesional."
+      },
+      "7_infraestructura": {
+        "titulo": "Criterio 7 — Instalaciones e Infraestructura",
+        "descripcion": "El programa debe disponer de laboratorios, bibliotecas, herramientas computacionales y recursos tecnológicos modernos que respalden los objetivos de aprendizaje."
+      },
+      "8_apoyo_institucional": {
+        "titulo": "Criterio 8 — Apoyo Institucional",
+        "descripcion": "La institución debe proveer soporte financiero, administrativo y de recursos humanos suficiente para mantener y mejorar la calidad del programa, incluyendo desarrollo docente y participación profesional."
+      }
+    },
+    "criterios_especificos": {
+      "civil_engineering": {
+        "titulo": "Ingeniería Civil",
+        "descripcion": "El programa debe preparar a los estudiantes para aplicar principios de ingeniería en estructuras, hidráulica, transporte, geotecnia y medio ambiente.",
+        "requisitos": [
+          "Matemáticas hasta ecuaciones diferenciales, probabilidad y estadística.",
+          "Física basada en cálculo y ciencias computacionales aplicadas.",
+          "Conocimientos de mecánica de materiales, métodos numéricos, sostenibilidad y riesgo.",
+          "Diseño en al menos dos contextos civiles (estructuras, hidráulica, transporte, geotecnia, ambiental).",
+          "Experimentos prácticos en al menos dos contextos civiles y presentación de resultados.",
+          "Comprensión de ética profesional, licenciamiento y seguridad pública."
+        ]
+      },
+      "software_engineering": {
+        "titulo": "Ingeniería de Software",
+        "descripcion": "El programa debe preparar a los estudiantes para diseñar, desarrollar y mantener sistemas de software confiables y eficientes.",
+        "requisitos": [
+          "Fundamentos de computación, estructuras de datos y algoritmos.",
+          "Requisitos, validación, verificación y aseguramiento de calidad del software.",
+          "Procesos de ingeniería de software, metodologías ágiles y gestión de proyectos.",
+          "Fundamentos de matemáticas discretas, probabilidad y estadística.",
+          "Ética profesional y trabajo colaborativo en proyectos de software reales."
+        ]
+      },
+      "industrial_engineering": {
+        "titulo": "Ingeniería Industrial",
+        "descripcion": "El programa debe formar profesionales que diseñen, analicen y mejoren sistemas integrados de personas, materiales, información y energía.",
+        "requisitos": [
+          "Investigación de operaciones, optimización y estadística aplicada.",
+          "Economía de ingeniería y análisis financiero.",
+          "Sistemas de producción, logística, gestión de calidad y sostenibilidad.",
+          "Factores humanos, ergonomía y seguridad industrial.",
+          "Diseño de sistemas integrados de manufactura y servicios."
+        ]
+      },
+      "electrical_engineering": {
+        "titulo": "Ingeniería Eléctrica",
+        "descripcion": "El programa debe cubrir los principios de electricidad, electromagnetismo, circuitos y sistemas eléctricos de potencia.",
+        "requisitos": [
+          "Matemáticas y ciencias aplicadas a sistemas eléctricos.",
+          "Diseño y análisis de circuitos, electrónica analógica y digital.",
+          "Sistemas de potencia, transmisión, distribución y control.",
+          "Laboratorios prácticos en instrumentación y mediciones eléctricas.",
+          "Conocimiento de estándares y seguridad eléctrica."
+        ]
+      },
+      "mechanical_engineering": {
+        "titulo": "Ingeniería Mecánica",
+        "descripcion": "El programa debe proporcionar una base sólida en termodinámica, mecánica, diseño y manufactura.",
+        "requisitos": [
+          "Matemáticas avanzadas, física y ciencias de materiales.",
+          "Mecánica de fluidos, transferencia de calor y energía.",
+          "Diseño mecánico y simulación asistida por computadora.",
+          "Procesos de manufactura y mantenimiento industrial.",
+          "Proyecto de diseño culminante integrando todas las áreas."
+        ]
+      },
+      "environmental_engineering": {
+        "titulo": "Ingeniería Ambiental",
+        "descripcion": "El programa debe enfocarse en el desarrollo sostenible y la gestión ambiental aplicada a la ingeniería.",
+        "requisitos": [
+          "Química, biología y ciencias ambientales aplicadas.",
+          "Control y tratamiento de agua, aire y suelo.",
+          "Evaluación de impactos ambientales y sostenibilidad.",
+          "Legislación y ética ambiental.",
+          "Diseño de soluciones tecnológicas sostenibles."
+        ]
+      }
+    },
+    "metadatos": {
+      "fuente": "ABET Engineering Accreditation Commission — Criteria for Accrediting Engineering Programs (2025–2026)",
+      "ultima_actualizacion": "2025-10-07",
+      "autor_referencia": "Plantilla creada para integración en modelo de recomendación curricular (UDLA AI Project)."
+    }
+  }
+}
